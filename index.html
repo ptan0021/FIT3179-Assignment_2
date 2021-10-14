@@ -17,9 +17,38 @@
 </head>
 
 <body>
+    <button type="button" onclick="showMap1()">Malaria</button>
+    <button type="button" onclick="showMap2()">Tuberculosis</button>
     <div id="map-container">
-        <div id="map"></div>
+        <div id="map1" class="map"></div>
+        <div id="map2" class="map"></div>
     </div>
 </body>
+
+<script>
+    function showMap1() {
+        var x = document.getElementById("map1");
+        var y = document.getElementById("map2");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+
+    function showMap2() {
+        var x = document.getElementById("map2");
+        var y = document.getElementById("map1");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 </html>
