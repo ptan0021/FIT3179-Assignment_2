@@ -15,19 +15,19 @@ Afghanistan,2006,20.53
 Afghanistan,2005,27.08
 Afghanistan,2004,37.64
 Afghanistan,2003,68.41
-Afghanistan,2002,104
+Afghanistan,2002,104.0
 Afghanistan,2001,91.89
 Afghanistan,2000,95.54
-Algeria,2018,0
-Algeria,2017,0
-Algeria,2016,0
-Algeria,2015,0
-Algeria,2014,0
+Algeria,2018,0.0
+Algeria,2017,0.0
+Algeria,2016,0.0
+Algeria,2015,0.0
+Algeria,2014,0.0
 Algeria,2013,0.004
 Algeria,2012,0.025
 Algeria,2011,0.0005
 Algeria,2010,0.0005
-Algeria,2009,0
+Algeria,2009,0.0
 Algeria,2008,0.001
 Algeria,2007,0.013
 Algeria,2006,0.0005
@@ -39,12 +39,12 @@ Algeria,2001,0.003
 Algeria,2000,0.019
 Angola,2018,228.9
 Angola,2017,228.9
-Angola,2016,220
-Angola,2015,200
+Angola,2016,220.0
+Angola,2015,200.0
 Angola,2014,187.9
 Angola,2013,180.9
 Angola,2012,174.4
-Angola,2011,176
+Angola,2011,176.0
 Angola,2010,185.5
 Angola,2009,204.3
 Angola,2008,241.2
@@ -56,14 +56,14 @@ Angola,2003,315.3
 Angola,2002,312.3
 Angola,2001,328.3
 Angola,2000,324.4
-Argentina,2018,0
-Argentina,2017,0
-Argentina,2016,0
-Argentina,2015,0
-Argentina,2014,0
-Argentina,2013,0
-Argentina,2012,0
-Argentina,2011,0
+Argentina,2018,0.0
+Argentina,2017,0.0
+Argentina,2016,0.0
+Argentina,2015,0.0
+Argentina,2014,0.0
+Argentina,2013,0.0
+Argentina,2012,0.0
+Argentina,2011,0.0
 Argentina,2010,0.068
 Argentina,2009,0.42
 Argentina,2008,0.65
@@ -75,31 +75,31 @@ Argentina,2003,0.64
 Argentina,2002,0.66
 Argentina,2001,1.15
 Argentina,2000,2.39
-Armenia,2018,0
-Armenia,2017,0
-Armenia,2016,0
-Armenia,2015,0
-Armenia,2014,0
-Armenia,2013,0
-Armenia,2012,0
-Armenia,2011,0
-Armenia,2010,0
-Armenia,2009,0
-Armenia,2008,0
-Armenia,2007,0
-Armenia,2006,0
+Armenia,2018,0.0
+Armenia,2017,0.0
+Armenia,2016,0.0
+Armenia,2015,0.0
+Armenia,2014,0.0
+Armenia,2013,0.0
+Armenia,2012,0.0
+Armenia,2011,0.0
+Armenia,2010,0.0
+Armenia,2009,0.0
+Armenia,2008,0.0
+Armenia,2007,0.0
+Armenia,2006,0.0
 Armenia,2005,0.002
 Armenia,2004,0.016
 Armenia,2003,0.01
 Armenia,2002,0.017
 Armenia,2001,0.026
 Armenia,2000,0.046
-Azerbaijan,2018,0
-Azerbaijan,2017,0
-Azerbaijan,2016,0
-Azerbaijan,2015,0
-Azerbaijan,2014,0
-Azerbaijan,2013,0
+Azerbaijan,2018,0.0
+Azerbaijan,2017,0.0
+Azerbaijan,2016,0.0
+Azerbaijan,2015,0.0
+Azerbaijan,2014,0.0
+Azerbaijan,2013,0.0
 Azerbaijan,2012,0.014
 Azerbaijan,2011,0.019
 Azerbaijan,2010,0.24
@@ -156,15 +156,15 @@ Benin,2017,399.6
 Benin,2016,421.6
 Benin,2015,411.8
 Benin,2014,399.2
-Benin,2013,395
-Benin,2012,378
+Benin,2013,395.0
+Benin,2012,378.0
 Benin,2011,370.1
 Benin,2010,387.8
-Benin,2009,418
+Benin,2009,418.0
 Benin,2008,453.2
 Benin,2007,480.2
 Benin,2006,492.7
-Benin,2005,487
+Benin,2005,487.0
 Benin,2004,475.4
 Benin,2003,454.3
 Benin,2002,435.1
@@ -189,25 +189,25 @@ Bhutan,2003,8.19
 Bhutan,2002,14.28
 Bhutan,2001,13.39
 Bhutan,2000,13.57
-Bolivia (Plurinational State of),2018,1.41
-Bolivia (Plurinational State of),2017,1.22
-Bolivia (Plurinational State of),2016,1.5
-Bolivia (Plurinational State of),2015,1.89
-Bolivia (Plurinational State of),2014,2.25
-Bolivia (Plurinational State of),2013,2.26
-Bolivia (Plurinational State of),2012,2.33
-Bolivia (Plurinational State of),2011,2.09
-Bolivia (Plurinational State of),2010,4.09
-Bolivia (Plurinational State of),2009,2.98
-Bolivia (Plurinational State of),2008,3
-Bolivia (Plurinational State of),2007,4.57
-Bolivia (Plurinational State of),2006,8.18
-Bolivia (Plurinational State of),2005,8.88
-Bolivia (Plurinational State of),2004,4.91
-Bolivia (Plurinational State of),2003,6.82
-Bolivia (Plurinational State of),2002,4.98
-Bolivia (Plurinational State of),2001,5.74
-Bolivia (Plurinational State of),2000,11.95
+Bolivia,2018,1.41
+Bolivia,2017,1.22
+Bolivia,2016,1.5
+Bolivia,2015,1.89
+Bolivia,2014,2.25
+Bolivia,2013,2.26
+Bolivia,2012,2.33
+Bolivia,2011,2.09
+Bolivia,2010,4.09
+Bolivia,2009,2.98
+Bolivia,2008,3.0
+Bolivia,2007,4.57
+Bolivia,2006,8.18
+Bolivia,2005,8.88
+Bolivia,2004,4.91
+Bolivia,2003,6.82
+Bolivia,2002,4.98
+Bolivia,2001,5.74
+Bolivia,2000,11.95
 Botswana,2018,0.59
 Botswana,2017,2.05
 Botswana,2016,0.81
@@ -255,12 +255,12 @@ Burkina Faso,2013,487.5
 Burkina Faso,2012,527.5
 Burkina Faso,2011,539.6
 Burkina Faso,2010,551.2
-Burkina Faso,2009,552
+Burkina Faso,2009,552.0
 Burkina Faso,2008,533.4
 Burkina Faso,2007,503.8
 Burkina Faso,2006,493.8
 Burkina Faso,2005,506.8
-Burkina Faso,2004,537
+Burkina Faso,2004,537.0
 Burkina Faso,2003,566.3
 Burkina Faso,2002,580.6
 Burkina Faso,2001,588.5
@@ -278,7 +278,7 @@ Burundi,2009,220.6
 Burundi,2008,222.8
 Burundi,2007,222.9
 Burundi,2006,235.7
-Burundi,2005,262
+Burundi,2005,262.0
 Burundi,2004,307.8
 Burundi,2003,355.7
 Burundi,2002,391.1
@@ -322,16 +322,16 @@ Cambodia,2003,51.13
 Cambodia,2002,39.05
 Cambodia,2001,44.3
 Cambodia,2000,77.84
-Cameroon,2018,247
+Cameroon,2018,247.0
 Cameroon,2017,262.2
 Cameroon,2016,264.3
 Cameroon,2015,254.5
 Cameroon,2014,244.1
-Cameroon,2013,243
+Cameroon,2013,243.0
 Cameroon,2012,245.1
 Cameroon,2011,265.1
 Cameroon,2010,295.5
-Cameroon,2009,323
+Cameroon,2009,323.0
 Cameroon,2008,358.7
 Cameroon,2007,386.7
 Cameroon,2006,403.1
@@ -339,27 +339,27 @@ Cameroon,2005,412.1
 Cameroon,2004,411.6
 Cameroon,2003,394.6
 Cameroon,2002,383.4
-Cameroon,2001,387
+Cameroon,2001,387.0
 Cameroon,2000,386.3
-Central African Republic,2018,347.3
-Central African Republic,2017,347.3
-Central African Republic,2016,362
-Central African Republic,2015,379.9
-Central African Republic,2014,393
-Central African Republic,2013,406.8
-Central African Republic,2012,413.1
-Central African Republic,2011,419.3
-Central African Republic,2010,434.5
-Central African Republic,2009,448.5
-Central African Republic,2008,461.8
-Central African Republic,2007,471.1
-Central African Republic,2006,472.6
-Central African Republic,2005,472.1
-Central African Republic,2004,471
-Central African Republic,2003,461.5
-Central African Republic,2002,454.4
-Central African Republic,2001,456.6
-Central African Republic,2000,458.8
+Central African Rep.,2018,347.3
+Central African Rep.,2017,347.3
+Central African Rep.,2016,362.0
+Central African Rep.,2015,379.9
+Central African Rep.,2014,393.0
+Central African Rep.,2013,406.8
+Central African Rep.,2012,413.1
+Central African Rep.,2011,419.3
+Central African Rep.,2010,434.5
+Central African Rep.,2009,448.5
+Central African Rep.,2008,461.8
+Central African Rep.,2007,471.1
+Central African Rep.,2006,472.6
+Central African Rep.,2005,472.1
+Central African Rep.,2004,471.0
+Central African Rep.,2003,461.5
+Central African Rep.,2002,454.4
+Central African Rep.,2001,456.6
+Central African Rep.,2000,458.8
 Chad,2018,164.8
 Chad,2017,172.3
 Chad,2016,169.9
@@ -377,11 +377,11 @@ Chad,2005,198.9
 Chad,2004,195.5
 Chad,2003,203.9
 Chad,2002,211.4
-Chad,2001,245
+Chad,2001,245.0
 Chad,2000,241.8
-China,2018,0
-China,2017,0
-China,2016,0
+China,2018,0.0
+China,2017,0.0
+China,2016,0.0
 China,2015,0.0001
 China,2014,0.0001
 China,2013,0.0002
@@ -441,7 +441,7 @@ Congo,2017,240.6
 Congo,2016,233.4
 Congo,2015,226.7
 Congo,2014,231.8
-Congo,2013,231
+Congo,2013,231.0
 Congo,2012,224.6
 Congo,2011,224.4
 Congo,2010,220.9
@@ -458,9 +458,9 @@ Congo,2000,384.6
 Costa Rica,2018,0.04
 Costa Rica,2017,0.007
 Costa Rica,2016,0.002
-Costa Rica,2015,0
-Costa Rica,2014,0
-Costa Rica,2013,0
+Costa Rica,2015,0.0
+Costa Rica,2014,0.0
+Costa Rica,2013,0.0
 Costa Rica,2012,0.004
 Costa Rica,2011,0.006
 Costa Rica,2010,0.069
@@ -474,63 +474,63 @@ Costa Rica,2003,0.49
 Costa Rica,2002,0.71
 Costa Rica,2001,0.97
 Costa Rica,2000,1.35
-Côte d’Ivoire,2018,330.6
-Côte d’Ivoire,2017,362.4
-Côte d’Ivoire,2016,354.7
-Côte d’Ivoire,2015,320
-Côte d’Ivoire,2014,315.1
-Côte d’Ivoire,2013,338.9
-Côte d’Ivoire,2012,396.3
-Côte d’Ivoire,2011,442.1
-Côte d’Ivoire,2010,469.3
-Côte d’Ivoire,2009,494.5
-Côte d’Ivoire,2008,510.1
-Côte d’Ivoire,2007,510
-Côte d’Ivoire,2006,506.6
-Côte d’Ivoire,2005,510
-Côte d’Ivoire,2004,518.7
-Côte d’Ivoire,2003,520.1
-Côte d’Ivoire,2002,519.6
-Côte d’Ivoire,2001,519.5
-Côte d’Ivoire,2000,514.6
-Democratic People's Republic of Korea,2018,0.36
-Democratic People's Republic of Korea,2017,0.46
-Democratic People's Republic of Korea,2016,0.28
-Democratic People's Republic of Korea,2015,0.75
-Democratic People's Republic of Korea,2014,1.08
-Democratic People's Republic of Korea,2013,1.48
-Democratic People's Republic of Korea,2012,2.26
-Democratic People's Republic of Korea,2011,1.74
-Democratic People's Republic of Korea,2010,1.41
-Democratic People's Republic of Korea,2009,1.53
-Democratic People's Republic of Korea,2008,1.75
-Democratic People's Republic of Korea,2007,0.46
-Democratic People's Republic of Korea,2006,1.38
-Democratic People's Republic of Korea,2005,1.21
-Democratic People's Republic of Korea,2004,2.92
-Democratic People's Republic of Korea,2003,1.8
-Democratic People's Republic of Korea,2002,1.82
-Democratic People's Republic of Korea,2001,15.91
-Democratic People's Republic of Korea,2000,10.12
-Democratic Republic of the Congo,2018,319.8
-Democratic Republic of the Congo,2017,329.1
-Democratic Republic of the Congo,2016,322.8
-Democratic Republic of the Congo,2015,308.8
-Democratic Republic of the Congo,2014,308.4
-Democratic Republic of the Congo,2013,327.6
-Democratic Republic of the Congo,2012,363
-Democratic Republic of the Congo,2011,399.6
-Democratic Republic of the Congo,2010,428.3
-Democratic Republic of the Congo,2009,452.2
-Democratic Republic of the Congo,2008,471.4
-Democratic Republic of the Congo,2007,481.9
-Democratic Republic of the Congo,2006,484.5
-Democratic Republic of the Congo,2005,485.1
-Democratic Republic of the Congo,2004,483.4
-Democratic Republic of the Congo,2003,476.1
-Democratic Republic of the Congo,2002,470.4
-Democratic Republic of the Congo,2001,473.6
-Democratic Republic of the Congo,2000,475.7
+Côte d'Ivoire,2018,330.6
+Côte d'Ivoire,2017,362.4
+Côte d'Ivoire,2016,354.7
+Côte d'Ivoire,2015,320.0
+Côte d'Ivoire,2014,315.1
+Côte d'Ivoire,2013,338.9
+Côte d'Ivoire,2012,396.3
+Côte d'Ivoire,2011,442.1
+Côte d'Ivoire,2010,469.3
+Côte d'Ivoire,2009,494.5
+Côte d'Ivoire,2008,510.1
+Côte d'Ivoire,2007,510.0
+Côte d'Ivoire,2006,506.6
+Côte d'Ivoire,2005,510.0
+Côte d'Ivoire,2004,518.7
+Côte d'Ivoire,2003,520.1
+Côte d'Ivoire,2002,519.6
+Côte d'Ivoire,2001,519.5
+Côte d'Ivoire,2000,514.6
+North Korea,2018,0.36
+North Korea,2017,0.46
+North Korea,2016,0.28
+North Korea,2015,0.75
+North Korea,2014,1.08
+North Korea,2013,1.48
+North Korea,2012,2.26
+North Korea,2011,1.74
+North Korea,2010,1.41
+North Korea,2009,1.53
+North Korea,2008,1.75
+North Korea,2007,0.46
+North Korea,2006,1.38
+North Korea,2005,1.21
+North Korea,2004,2.92
+North Korea,2003,1.8
+North Korea,2002,1.82
+North Korea,2001,15.91
+North Korea,2000,10.12
+Dem. Rep. Congo,2018,319.8
+Dem. Rep. Congo,2017,329.1
+Dem. Rep. Congo,2016,322.8
+Dem. Rep. Congo,2015,308.8
+Dem. Rep. Congo,2014,308.4
+Dem. Rep. Congo,2013,327.6
+Dem. Rep. Congo,2012,363.0
+Dem. Rep. Congo,2011,399.6
+Dem. Rep. Congo,2010,428.3
+Dem. Rep. Congo,2009,452.2
+Dem. Rep. Congo,2008,471.4
+Dem. Rep. Congo,2007,481.9
+Dem. Rep. Congo,2006,484.5
+Dem. Rep. Congo,2005,485.1
+Dem. Rep. Congo,2004,483.4
+Dem. Rep. Congo,2003,476.1
+Dem. Rep. Congo,2002,470.4
+Dem. Rep. Congo,2001,473.6
+Dem. Rep. Congo,2000,475.7
 Djibouti,2018,35.21
 Djibouti,2017,20.72
 Djibouti,2016,19.81
@@ -550,25 +550,25 @@ Djibouti,2003,4.32
 Djibouti,2002,4.47
 Djibouti,2001,4.64
 Djibouti,2000,4.84
-Dominican Republic,2018,0.12
-Dominican Republic,2017,0.06
-Dominican Republic,2016,0.16
-Dominican Republic,2015,0.14
-Dominican Republic,2014,0.1
-Dominican Republic,2013,0.14
-Dominican Republic,2012,0.23
-Dominican Republic,2011,0.39
-Dominican Republic,2010,0.6
-Dominican Republic,2009,0.4
-Dominican Republic,2008,0.45
-Dominican Republic,2007,0.68
-Dominican Republic,2006,0.89
-Dominican Republic,2005,0.99
-Dominican Republic,2004,0.62
-Dominican Republic,2003,0.41
-Dominican Republic,2002,0.35
-Dominican Republic,2001,0.28
-Dominican Republic,2000,0.33
+Dominican Rep.,2018,0.12
+Dominican Rep.,2017,0.06
+Dominican Rep.,2016,0.16
+Dominican Rep.,2015,0.14
+Dominican Rep.,2014,0.1
+Dominican Rep.,2013,0.14
+Dominican Rep.,2012,0.23
+Dominican Rep.,2011,0.39
+Dominican Rep.,2010,0.6
+Dominican Rep.,2009,0.4
+Dominican Rep.,2008,0.45
+Dominican Rep.,2007,0.68
+Dominican Rep.,2006,0.89
+Dominican Rep.,2005,0.99
+Dominican Rep.,2004,0.62
+Dominican Rep.,2003,0.41
+Dominican Rep.,2002,0.35
+Dominican Rep.,2001,0.28
+Dominican Rep.,2000,0.33
 Ecuador,2018,3.32
 Ecuador,2017,2.61
 Ecuador,2016,2.48
@@ -588,27 +588,27 @@ Ecuador,2003,133.6
 Ecuador,2002,226.5
 Ecuador,2001,289.4
 Ecuador,2000,282.8
-Egypt,2018,0
-Egypt,2017,0
-Egypt,2016,0
-Egypt,2015,0
-Egypt,2014,0
-Egypt,2013,0
-Egypt,2012,0
-Egypt,2011,0
-Egypt,2010,0
-Egypt,2009,0
-Egypt,2008,0
-Egypt,2007,0
-Egypt,2006,0
-Egypt,2005,0
-Egypt,2004,0
-Egypt,2003,0
-Egypt,2002,0
-Egypt,2001,0
-Egypt,2000,0
-El Salvador,2018,0
-El Salvador,2017,0
+Egypt,2018,0.0
+Egypt,2017,0.0
+Egypt,2016,0.0
+Egypt,2015,0.0
+Egypt,2014,0.0
+Egypt,2013,0.0
+Egypt,2012,0.0
+Egypt,2011,0.0
+Egypt,2010,0.0
+Egypt,2009,0.0
+Egypt,2008,0.0
+Egypt,2007,0.0
+Egypt,2006,0.0
+Egypt,2005,0.0
+Egypt,2004,0.0
+Egypt,2003,0.0
+Egypt,2002,0.0
+Egypt,2001,0.0
+Egypt,2000,0.0
+El Salvador,2018,0.0
+El Salvador,2017,0.0
 El Salvador,2016,0.009
 El Salvador,2015,0.002
 El Salvador,2014,0.005
@@ -626,15 +626,15 @@ El Salvador,2003,0.07
 El Salvador,2002,0.097
 El Salvador,2001,0.3
 El Salvador,2000,0.63
-Equatorial Guinea,2018,269
+Equatorial Guinea,2018,269.0
 Equatorial Guinea,2017,285.7
-Equatorial Guinea,2016,307
+Equatorial Guinea,2016,307.0
 Equatorial Guinea,2015,339.5
 Equatorial Guinea,2014,360.9
 Equatorial Guinea,2013,365.7
 Equatorial Guinea,2012,357.8
 Equatorial Guinea,2011,342.4
-Equatorial Guinea,2010,340
+Equatorial Guinea,2010,340.0
 Equatorial Guinea,2009,351.3
 Equatorial Guinea,2008,378.2
 Equatorial Guinea,2007,398.1
@@ -664,25 +664,25 @@ Eritrea,2003,19.03
 Eritrea,2002,13.23
 Eritrea,2001,22.93
 Eritrea,2000,21.56
-Eswatini,2018,0.84
-Eswatini,2017,2.3
-Eswatini,2016,1.12
-Eswatini,2015,0.51
-Eswatini,2014,2.32
-Eswatini,2013,3.16
-Eswatini,2012,1.86
-Eswatini,2011,1.83
-Eswatini,2010,0.9
-Eswatini,2009,0.36
-Eswatini,2008,0.2
-Eswatini,2007,0.29
-Eswatini,2006,0.53
-Eswatini,2005,0.97
-Eswatini,2004,2
-Eswatini,2003,1.19
-Eswatini,2002,2.35
-Eswatini,2001,4.92
-Eswatini,2000,2.88
+eSwatini,2018,0.84
+eSwatini,2017,2.3
+eSwatini,2016,1.12
+eSwatini,2015,0.51
+eSwatini,2014,2.32
+eSwatini,2013,3.16
+eSwatini,2012,1.86
+eSwatini,2011,1.83
+eSwatini,2010,0.9
+eSwatini,2009,0.36
+eSwatini,2008,0.2
+eSwatini,2007,0.29
+eSwatini,2006,0.53
+eSwatini,2005,0.97
+eSwatini,2004,2.0
+eSwatini,2003,1.19
+eSwatini,2002,2.35
+eSwatini,2001,4.92
+eSwatini,2000,2.88
 Ethiopia,2018,31.81
 Ethiopia,2017,36.74
 Ethiopia,2016,41.41
@@ -719,20 +719,20 @@ Gabon,2005,154.3
 Gabon,2004,207.4
 Gabon,2003,270.8
 Gabon,2002,324.1
-Gabon,2001,362
+Gabon,2001,362.0
 Gabon,2000,382.8
-Gambia,2018,66
+Gambia,2018,66.0
 Gambia,2017,53.02
 Gambia,2016,116.5
-Gambia,2015,195
-Gambia,2014,142
-Gambia,2013,237
+Gambia,2015,195.0
+Gambia,2014,142.0
+Gambia,2013,237.0
 Gambia,2012,274.8
 Gambia,2011,257.3
 Gambia,2010,289.3
-Gambia,2009,298
+Gambia,2009,298.0
 Gambia,2008,306.8
-Gambia,2007,316
+Gambia,2007,316.0
 Gambia,2006,325.7
 Gambia,2005,335.9
 Gambia,2004,346.9
@@ -740,15 +740,15 @@ Gambia,2003,358.5
 Gambia,2002,370.5
 Gambia,2001,382.7
 Gambia,2000,394.9
-Georgia,2018,0
-Georgia,2017,0
-Georgia,2016,0
-Georgia,2015,0
-Georgia,2014,0
-Georgia,2013,0
-Georgia,2012,0
-Georgia,2011,0
-Georgia,2010,0
+Georgia,2018,0.0
+Georgia,2017,0.0
+Georgia,2016,0.0
+Georgia,2015,0.0
+Georgia,2014,0.0
+Georgia,2013,0.0
+Georgia,2012,0.0
+Georgia,2011,0.0
+Georgia,2010,0.0
 Georgia,2009,0.024
 Georgia,2008,0.14
 Georgia,2007,0.58
@@ -761,7 +761,7 @@ Georgia,2001,10.19
 Georgia,2000,5.62
 Ghana,2018,224.3
 Ghana,2017,212.6
-Ghana,2016,236
+Ghana,2016,236.0
 Ghana,2015,277.2
 Ghana,2014,315.8
 Ghana,2013,349.3
@@ -772,7 +772,7 @@ Ghana,2009,351.4
 Ghana,2008,333.7
 Ghana,2007,322.3
 Ghana,2006,333.3
-Ghana,2005,339
+Ghana,2005,339.0
 Ghana,2004,354.1
 Ghana,2003,372.8
 Ghana,2002,393.2
@@ -810,7 +810,7 @@ Guinea,2009,398.1
 Guinea,2008,370.2
 Guinea,2007,343.7
 Guinea,2006,335.5
-Guinea,2005,342
+Guinea,2005,342.0
 Guinea,2004,369.5
 Guinea,2003,404.5
 Guinea,2002,428.3
@@ -828,10 +828,10 @@ Guinea-Bissau,2010,134.4
 Guinea-Bissau,2009,113.8
 Guinea-Bissau,2008,89.02
 Guinea-Bissau,2007,72.81
-Guinea-Bissau,2006,78
+Guinea-Bissau,2006,78.0
 Guinea-Bissau,2005,98.45
 Guinea-Bissau,2004,146.4
-Guinea-Bissau,2003,227
+Guinea-Bissau,2003,227.0
 Guinea-Bissau,2002,311.1
 Guinea-Bissau,2001,395.7
 Guinea-Bissau,2000,474.5
@@ -930,35 +930,35 @@ Indonesia,2003,8.57
 Indonesia,2002,8.8
 Indonesia,2001,9.05
 Indonesia,2000,9.3
-Iran (Islamic Republic of),2018,0
-Iran (Islamic Republic of),2017,0.073
-Iran (Islamic Republic of),2016,0.1
-Iran (Islamic Republic of),2015,0.21
-Iran (Islamic Republic of),2014,0.45
-Iran (Islamic Republic of),2013,0.61
-Iran (Islamic Republic of),2012,0.98
-Iran (Islamic Republic of),2011,2.14
-Iran (Islamic Republic of),2010,2.45
-Iran (Islamic Republic of),2009,5.83
-Iran (Islamic Republic of),2008,11.33
-Iran (Islamic Republic of),2007,21.56
-Iran (Islamic Republic of),2006,22.08
-Iran (Islamic Republic of),2005,26.62
-Iran (Islamic Republic of),2004,19.62
-Iran (Islamic Republic of),2003,33.86
-Iran (Islamic Republic of),2002,22.64
-Iran (Islamic Republic of),2001,28.44
-Iran (Islamic Republic of),2000,29.41
-Iraq,2018,0
-Iraq,2017,0
-Iraq,2016,0
-Iraq,2015,0
-Iraq,2014,0
-Iraq,2013,0
-Iraq,2012,0
-Iraq,2011,0
-Iraq,2010,0
-Iraq,2009,0
+Iran,2018,0.0
+Iran,2017,0.073
+Iran,2016,0.1
+Iran,2015,0.21
+Iran,2014,0.45
+Iran,2013,0.61
+Iran,2012,0.98
+Iran,2011,2.14
+Iran,2010,2.45
+Iran,2009,5.83
+Iran,2008,11.33
+Iran,2007,21.56
+Iran,2006,22.08
+Iran,2005,26.62
+Iran,2004,19.62
+Iran,2003,33.86
+Iran,2002,22.64
+Iran,2001,28.44
+Iran,2000,29.41
+Iraq,2018,0.0
+Iraq,2017,0.0
+Iraq,2016,0.0
+Iraq,2015,0.0
+Iraq,2014,0.0
+Iraq,2013,0.0
+Iraq,2012,0.0
+Iraq,2011,0.0
+Iraq,2010,0.0
+Iraq,2009,0.0
 Iraq,2008,0.0005
 Iraq,2007,0.0006
 Iraq,2006,0.006
@@ -968,25 +968,25 @@ Iraq,2003,0.086
 Iraq,2002,0.29
 Iraq,2001,0.4
 Iraq,2000,0.61
-Kazakhstan,2018,0
-Kazakhstan,2017,0
-Kazakhstan,2016,0
-Kazakhstan,2015,0
-Kazakhstan,2014,0
-Kazakhstan,2013,0
-Kazakhstan,2012,0
-Kazakhstan,2011,0
-Kazakhstan,2010,0
-Kazakhstan,2009,0
-Kazakhstan,2008,0
-Kazakhstan,2007,0
-Kazakhstan,2006,0
-Kazakhstan,2005,0
-Kazakhstan,2004,0
-Kazakhstan,2003,0
-Kazakhstan,2002,0
-Kazakhstan,2001,0
-Kazakhstan,2000,0
+Kazakhstan,2018,0.0
+Kazakhstan,2017,0.0
+Kazakhstan,2016,0.0
+Kazakhstan,2015,0.0
+Kazakhstan,2014,0.0
+Kazakhstan,2013,0.0
+Kazakhstan,2012,0.0
+Kazakhstan,2011,0.0
+Kazakhstan,2010,0.0
+Kazakhstan,2009,0.0
+Kazakhstan,2008,0.0
+Kazakhstan,2007,0.0
+Kazakhstan,2006,0.0
+Kazakhstan,2005,0.0
+Kazakhstan,2004,0.0
+Kazakhstan,2003,0.0
+Kazakhstan,2002,0.0
+Kazakhstan,2001,0.0
+Kazakhstan,2000,0.0
 Kenya,2018,70.1
 Kenya,2017,70.1
 Kenya,2016,70.38
@@ -1003,17 +1003,17 @@ Kenya,2006,100.1
 Kenya,2005,127.3
 Kenya,2004,166.2
 Kenya,2003,196.7
-Kenya,2002,207
+Kenya,2002,207.0
 Kenya,2001,212.5
 Kenya,2000,213.2
-Kyrgyzstan,2018,0
-Kyrgyzstan,2017,0
-Kyrgyzstan,2016,0
-Kyrgyzstan,2015,0
-Kyrgyzstan,2014,0
-Kyrgyzstan,2013,0
-Kyrgyzstan,2012,0
-Kyrgyzstan,2011,0
+Kyrgyzstan,2018,0.0
+Kyrgyzstan,2017,0.0
+Kyrgyzstan,2016,0.0
+Kyrgyzstan,2015,0.0
+Kyrgyzstan,2014,0.0
+Kyrgyzstan,2013,0.0
+Kyrgyzstan,2012,0.0
+Kyrgyzstan,2011,0.0
 Kyrgyzstan,2010,0.0007
 Kyrgyzstan,2009,0.001
 Kyrgyzstan,2008,0.004
@@ -1025,29 +1025,29 @@ Kyrgyzstan,2003,0.12
 Kyrgyzstan,2002,0.7
 Kyrgyzstan,2001,0.007
 Kyrgyzstan,2000,0.003
-Lao People's Democratic Republic,2018,4.2
-Lao People's Democratic Republic,2017,5.63
-Lao People's Democratic Republic,2016,7.77
-Lao People's Democratic Republic,2015,22.3
-Lao People's Democratic Republic,2014,29.9
-Lao People's Democratic Republic,2013,23.3
-Lao People's Democratic Republic,2012,28.76
-Lao People's Democratic Republic,2011,10.87
-Lao People's Democratic Republic,2010,15.74
-Lao People's Democratic Republic,2009,15.03
-Lao People's Democratic Republic,2008,21.5
-Lao People's Democratic Republic,2007,22.22
-Lao People's Democratic Republic,2006,23.26
-Lao People's Democratic Republic,2005,12.96
-Lao People's Democratic Republic,2004,16.53
-Lao People's Democratic Republic,2003,20.04
-Lao People's Democratic Republic,2002,22.21
-Lao People's Democratic Republic,2001,29.55
-Lao People's Democratic Republic,2000,62.72
+Laos,2018,4.2
+Laos,2017,5.63
+Laos,2016,7.77
+Laos,2015,22.3
+Laos,2014,29.9
+Laos,2013,23.3
+Laos,2012,28.76
+Laos,2011,10.87
+Laos,2010,15.74
+Laos,2009,15.03
+Laos,2008,21.5
+Laos,2007,22.22
+Laos,2006,23.26
+Laos,2005,12.96
+Laos,2004,16.53
+Laos,2003,20.04
+Laos,2002,22.21
+Laos,2001,29.55
+Laos,2000,62.72
 Liberia,2018,361.5
 Liberia,2017,401.1
 Liberia,2016,386.3
-Liberia,2015,347
+Liberia,2015,347.0
 Liberia,2014,337.6
 Liberia,2013,317.3
 Liberia,2012,307.9
@@ -1085,14 +1085,14 @@ Madagascar,2000,57.17
 Malawi,2018,213.6
 Malawi,2017,216.3
 Malawi,2016,210.7
-Malawi,2015,217
-Malawi,2014,237
+Malawi,2015,217.0
+Malawi,2014,237.0
 Malawi,2013,267.9
-Malawi,2012,314
+Malawi,2012,314.0
 Malawi,2011,362.8
-Malawi,2010,386
+Malawi,2010,386.0
 Malawi,2009,394.3
-Malawi,2008,392
+Malawi,2008,392.0
 Malawi,2007,370.1
 Malawi,2006,342.3
 Malawi,2005,329.5
@@ -1101,7 +1101,7 @@ Malawi,2003,363.8
 Malawi,2002,397.8
 Malawi,2001,426.4
 Malawi,2000,426.5
-Malaysia,2018,0
+Malaysia,2018,0.0
 Malaysia,2017,0.068
 Malaysia,2016,0.22
 Malaysia,2015,0.2
@@ -1124,7 +1124,7 @@ Mali,2018,386.8
 Mali,2017,386.8
 Mali,2016,384.2
 Mali,2015,391.8
-Mali,2014,441
+Mali,2014,441.0
 Mali,2013,452.8
 Mali,2012,435.7
 Mali,2011,404.7
@@ -1157,7 +1157,7 @@ Mauritania,2004,90.82
 Mauritania,2003,113.5
 Mauritania,2002,118.6
 Mauritania,2001,151.3
-Mauritania,2000,148
+Mauritania,2000,148.0
 Mexico,2018,0.3
 Mexico,2017,0.28
 Mexico,2016,0.21
@@ -1168,7 +1168,7 @@ Mexico,2012,0.33
 Mexico,2011,0.46
 Mexico,2010,0.51
 Mexico,2009,1.13
-Mexico,2008,1
+Mexico,2008,1.0
 Mexico,2007,1.02
 Mexico,2006,1.1
 Mexico,2005,1.32
@@ -1177,31 +1177,31 @@ Mexico,2003,1.75
 Mexico,2002,2.14
 Mexico,2001,2.35
 Mexico,2000,3.52
-Morocco,2018,0
-Morocco,2017,0
-Morocco,2016,0
-Morocco,2015,0
-Morocco,2014,0
-Morocco,2013,0
-Morocco,2012,0
-Morocco,2011,0
-Morocco,2010,0
-Morocco,2009,0
-Morocco,2008,0
-Morocco,2007,0
-Morocco,2006,0
-Morocco,2005,0
-Morocco,2004,0
+Morocco,2018,0.0
+Morocco,2017,0.0
+Morocco,2016,0.0
+Morocco,2015,0.0
+Morocco,2014,0.0
+Morocco,2013,0.0
+Morocco,2012,0.0
+Morocco,2011,0.0
+Morocco,2010,0.0
+Morocco,2009,0.0
+Morocco,2008,0.0
+Morocco,2007,0.0
+Morocco,2006,0.0
+Morocco,2005,0.0
+Morocco,2004,0.0
 Morocco,2003,0.0001
 Morocco,2002,0.0007
-Morocco,2001,0
+Morocco,2001,0.0
 Morocco,2000,0.0001
 Mozambique,2018,305.4
 Mozambique,2017,326.4
 Mozambique,2016,344.8
 Mozambique,2015,355.9
 Mozambique,2014,364.8
-Mozambique,2013,377
+Mozambique,2013,377.0
 Mozambique,2012,381.8
 Mozambique,2011,389.9
 Mozambique,2010,398.4
@@ -1326,26 +1326,26 @@ Nigeria,2006,418.2
 Nigeria,2005,415.3
 Nigeria,2004,411.4
 Nigeria,2003,409.2
-Nigeria,2002,413
-Nigeria,2001,429
+Nigeria,2002,413.0
+Nigeria,2001,429.0
 Nigeria,2000,438.8
-Oman,2018,0
-Oman,2017,0
-Oman,2016,0
-Oman,2015,0
-Oman,2014,0
-Oman,2013,0
-Oman,2012,0
-Oman,2011,0
+Oman,2018,0.0
+Oman,2017,0.0
+Oman,2016,0.0
+Oman,2015,0.0
+Oman,2014,0.0
+Oman,2013,0.0
+Oman,2012,0.0
+Oman,2011,0.0
 Oman,2010,0.002
-Oman,2009,0
-Oman,2008,0
-Oman,2007,0
-Oman,2006,0
-Oman,2005,0
-Oman,2004,0
-Oman,2003,0
-Oman,2002,0
+Oman,2009,0.0
+Oman,2008,0.0
+Oman,2007,0.0
+Oman,2006,0.0
+Oman,2005,0.0
+Oman,2004,0.0
+Oman,2003,0.0
+Oman,2002,0.0
 Oman,2001,0.0009
 Oman,2000,0.003
 Pakistan,2018,3.38
@@ -1390,10 +1390,10 @@ Papua New Guinea,2018,184.5
 Papua New Guinea,2017,177.8
 Papua New Guinea,2016,177.6
 Papua New Guinea,2015,131.5
-Papua New Guinea,2014,243
+Papua New Guinea,2014,243.0
 Papua New Guinea,2013,215.4
 Papua New Guinea,2012,169.9
-Papua New Guinea,2011,140
+Papua New Guinea,2011,140.0
 Papua New Guinea,2010,169.6
 Papua New Guinea,2009,248.3
 Papua New Guinea,2008,190.1
@@ -1405,13 +1405,13 @@ Papua New Guinea,2003,230.1
 Papua New Guinea,2002,215.5
 Papua New Guinea,2001,254.3
 Papua New Guinea,2000,260.6
-Paraguay,2018,0
-Paraguay,2017,0
-Paraguay,2016,0
-Paraguay,2015,0
-Paraguay,2014,0
-Paraguay,2013,0
-Paraguay,2012,0
+Paraguay,2018,0.0
+Paraguay,2017,0.0
+Paraguay,2016,0.0
+Paraguay,2015,0.0
+Paraguay,2014,0.0
+Paraguay,2013,0.0
+Paraguay,2012,0.0
 Paraguay,2011,0.004
 Paraguay,2010,0.08
 Paraguay,2009,0.41
@@ -1426,7 +1426,7 @@ Paraguay,2001,13.87
 Paraguay,2000,35.76
 Peru,2018,4.65
 Peru,2017,5.87
-Peru,2016,6
+Peru,2016,6.0
 Peru,2015,7.85
 Peru,2014,7.1
 Peru,2013,5.36
@@ -1462,29 +1462,29 @@ Philippines,2003,3.25
 Philippines,2002,2.56
 Philippines,2001,2.44
 Philippines,2000,2.64
-Republic of Korea,2018,0.14
-Republic of Korea,2017,0.12
-Republic of Korea,2016,0.17
-Republic of Korea,2015,0.18
-Republic of Korea,2014,0.16
-Republic of Korea,2013,0.11
-Republic of Korea,2012,0.11
-Republic of Korea,2011,0.14
-Republic of Korea,2010,0.37
-Republic of Korea,2009,0.26
-Republic of Korea,2008,0.31
-Republic of Korea,2007,0.65
-Republic of Korea,2006,0.6
-Republic of Korea,2005,0.4
-Republic of Korea,2004,0.25
-Republic of Korea,2003,0.35
-Republic of Korea,2002,0.54
-Republic of Korea,2001,0.77
-Republic of Korea,2000,1.26
+South Korea,2018,0.14
+South Korea,2017,0.12
+South Korea,2016,0.17
+South Korea,2015,0.18
+South Korea,2014,0.16
+South Korea,2013,0.11
+South Korea,2012,0.11
+South Korea,2011,0.14
+South Korea,2010,0.37
+South Korea,2009,0.26
+South Korea,2008,0.31
+South Korea,2007,0.65
+South Korea,2006,0.6
+South Korea,2005,0.4
+South Korea,2004,0.25
+South Korea,2003,0.35
+South Korea,2002,0.54
+South Korea,2001,0.77
+South Korea,2000,1.26
 Rwanda,2018,486.5
 Rwanda,2017,538.3
 Rwanda,2016,585.5
-Rwanda,2015,342
+Rwanda,2015,342.0
 Rwanda,2014,219.8
 Rwanda,2013,121.4
 Rwanda,2012,71.46
@@ -1493,7 +1493,7 @@ Rwanda,2010,126.3
 Rwanda,2009,158.2
 Rwanda,2008,72.03
 Rwanda,2007,90.64
-Rwanda,2006,154
+Rwanda,2006,154.0
 Rwanda,2005,154.6
 Rwanda,2004,126.8
 Rwanda,2003,144.9
@@ -1571,9 +1571,9 @@ Sierra Leone,2008,413.8
 Sierra Leone,2007,379.9
 Sierra Leone,2006,374.6
 Sierra Leone,2005,388.3
-Sierra Leone,2004,414
+Sierra Leone,2004,414.0
 Sierra Leone,2003,439.8
-Sierra Leone,2002,458
+Sierra Leone,2002,458.0
 Sierra Leone,2001,468.8
 Sierra Leone,2000,465.8
 Solomon Islands,2018,133.6
@@ -1591,7 +1591,7 @@ Solomon Islands,2007,319.1
 Solomon Islands,2006,591.3
 Solomon Islands,2005,613.8
 Solomon Islands,2004,743.5
-Solomon Islands,2003,540
+Solomon Islands,2003,540.0
 Solomon Islands,2002,649.8
 Solomon Islands,2001,681.3
 Solomon Islands,2000,623.2
@@ -1609,10 +1609,10 @@ Somalia,2008,63.1
 Somalia,2007,100.6
 Somalia,2006,120.1
 Somalia,2005,136.6
-Somalia,2004,120
-Somalia,2003,121
+Somalia,2004,120.0
+Somalia,2003,121.0
 Somalia,2002,126.2
-Somalia,2001,126
+Somalia,2001,126.0
 Somalia,2000,125.6
 South Africa,2018,1.65
 South Africa,2017,3.95
@@ -1633,31 +1633,31 @@ South Africa,2003,2.88
 South Africa,2002,3.39
 South Africa,2001,5.82
 South Africa,2000,4.23
-South Sudan,2018,235.9
-South Sudan,2017,245.8
-South Sudan,2016,244.6
-South Sudan,2015,240.4
-South Sudan,2014,236.1
-South Sudan,2013,234.4
-South Sudan,2012,232.7
-South Sudan,2011,235.9
-South Sudan,2010,244
-South Sudan,2009,255.1
-South Sudan,2008,267.1
-South Sudan,2007,276.7
-South Sudan,2006,289.3
-South Sudan,2005,300.7
-South Sudan,2004,315.7
-South Sudan,2003,332.8
-South Sudan,2002,347.2
-South Sudan,2001,373.8
-South Sudan,2000,380.1
-Sri Lanka,2018,0
-Sri Lanka,2017,0
-Sri Lanka,2016,0
-Sri Lanka,2015,0
-Sri Lanka,2014,0
-Sri Lanka,2013,0
+S. Sudan,2018,235.9
+S. Sudan,2017,245.8
+S. Sudan,2016,244.6
+S. Sudan,2015,240.4
+S. Sudan,2014,236.1
+S. Sudan,2013,234.4
+S. Sudan,2012,232.7
+S. Sudan,2011,235.9
+S. Sudan,2010,244.0
+S. Sudan,2009,255.1
+S. Sudan,2008,267.1
+S. Sudan,2007,276.7
+S. Sudan,2006,289.3
+S. Sudan,2005,300.7
+S. Sudan,2004,315.7
+S. Sudan,2003,332.8
+S. Sudan,2002,347.2
+S. Sudan,2001,373.8
+S. Sudan,2000,380.1
+Sri Lanka,2018,0.0
+Sri Lanka,2017,0.0
+Sri Lanka,2016,0.0
+Sri Lanka,2015,0.0
+Sri Lanka,2014,0.0
+Sri Lanka,2013,0.0
 Sri Lanka,2012,0.005
 Sri Lanka,2011,0.026
 Sri Lanka,2010,0.15
@@ -1679,17 +1679,17 @@ Sudan,2014,33.38
 Sudan,2013,31.45
 Sudan,2012,30.16
 Sudan,2011,29.97
-Sudan (until 2011),2010,30.66
-Sudan (until 2011),2009,32.29
-Sudan (until 2011),2008,35.05
-Sudan (until 2011),2007,41.08
-Sudan (until 2011),2006,46.69
-Sudan (until 2011),2005,49.59
-Sudan (until 2011),2004,52.43
-Sudan (until 2011),2003,58.1
-Sudan (until 2011),2002,63.33
-Sudan (until 2011),2001,83.81
-Sudan (until 2011),2000,89.05
+Sudan,2010,30.66
+Sudan,2009,32.29
+Sudan,2008,35.05
+Sudan,2007,41.08
+Sudan,2006,46.69
+Sudan,2005,49.59
+Sudan,2004,52.43
+Sudan,2003,58.1
+Sudan,2002,63.33
+Sudan,2001,83.81
+Sudan,2000,89.05
 Suriname,2018,0.34
 Suriname,2017,0.47
 Suriname,2016,0.91
@@ -1709,29 +1709,29 @@ Suriname,2003,152.4
 Suriname,2002,180.2
 Suriname,2001,227.4
 Suriname,2000,163.3
-Syrian Arab Republic,2018,0
-Syrian Arab Republic,2017,0
-Syrian Arab Republic,2016,0
-Syrian Arab Republic,2015,0
-Syrian Arab Republic,2014,0
-Syrian Arab Republic,2013,0
-Syrian Arab Republic,2012,0
-Syrian Arab Republic,2011,0
-Syrian Arab Republic,2010,0
-Syrian Arab Republic,2009,0
-Syrian Arab Republic,2008,0
-Syrian Arab Republic,2007,0
-Syrian Arab Republic,2006,0
-Syrian Arab Republic,2005,0
-Syrian Arab Republic,2004,0.0001
-Syrian Arab Republic,2003,0.0001
-Syrian Arab Republic,2002,0.0009
-Syrian Arab Republic,2001,0.004
-Syrian Arab Republic,2000,0.0004
-Tajikistan,2018,0
-Tajikistan,2017,0
-Tajikistan,2016,0
-Tajikistan,2015,0
+Syria,2018,0.0
+Syria,2017,0.0
+Syria,2016,0.0
+Syria,2015,0.0
+Syria,2014,0.0
+Syria,2013,0.0
+Syria,2012,0.0
+Syria,2011,0.0
+Syria,2010,0.0
+Syria,2009,0.0
+Syria,2008,0.0
+Syria,2007,0.0
+Syria,2006,0.0
+Syria,2005,0.0
+Syria,2004,0.0001
+Syria,2003,0.0001
+Syria,2002,0.0009
+Syria,2001,0.004
+Syria,2000,0.0004
+Tajikistan,2018,0.0
+Tajikistan,2017,0.0
+Tajikistan,2016,0.0
+Tajikistan,2015,0.0
 Tajikistan,2014,0.0007
 Tajikistan,2013,0.001
 Tajikistan,2012,0.007
@@ -1766,7 +1766,7 @@ Thailand,2003,3.05
 Thailand,2002,3.66
 Thailand,2001,5.27
 Thailand,2000,6.58
-Timor-Leste,2018,0
+Timor-Leste,2018,0.0
 Timor-Leste,2017,0.032
 Timor-Leste,2016,0.11
 Timor-Leste,2015,0.12
@@ -1783,7 +1783,7 @@ Timor-Leste,2005,120.8
 Timor-Leste,2004,181.3
 Timor-Leste,2003,51.9
 Timor-Leste,2002,84.79
-Timor-Leste,2001,118
+Timor-Leste,2001,118.0
 Timor-Leste,2000,122.5
 Togo,2018,267.3
 Togo,2017,278.2
@@ -1803,16 +1803,16 @@ Togo,2004,466.2
 Togo,2003,451.1
 Togo,2002,440.3
 Togo,2001,439.9
-Togo,2000,442
-Turkey,2018,0
-Turkey,2017,0
-Turkey,2016,0
-Turkey,2015,0
-Turkey,2014,0
-Turkey,2013,0
-Turkey,2012,0
-Turkey,2011,0
-Turkey,2010,0
+Togo,2000,442.0
+Turkey,2018,0.0
+Turkey,2017,0.0
+Turkey,2016,0.0
+Turkey,2015,0.0
+Turkey,2014,0.0
+Turkey,2013,0.0
+Turkey,2012,0.0
+Turkey,2011,0.0
+Turkey,2010,0.0
 Turkey,2009,0.008
 Turkey,2008,0.036
 Turkey,2007,0.069
@@ -1823,18 +1823,18 @@ Turkey,2003,2.15
 Turkey,2002,2.41
 Turkey,2001,2.59
 Turkey,2000,2.78
-Turkmenistan,2018,0
-Turkmenistan,2017,0
-Turkmenistan,2016,0
-Turkmenistan,2015,0
-Turkmenistan,2014,0
-Turkmenistan,2013,0
-Turkmenistan,2012,0
-Turkmenistan,2011,0
-Turkmenistan,2010,0
-Turkmenistan,2009,0
-Turkmenistan,2008,0
-Turkmenistan,2007,0
+Turkmenistan,2018,0.0
+Turkmenistan,2017,0.0
+Turkmenistan,2016,0.0
+Turkmenistan,2015,0.0
+Turkmenistan,2014,0.0
+Turkmenistan,2013,0.0
+Turkmenistan,2012,0.0
+Turkmenistan,2011,0.0
+Turkmenistan,2010,0.0
+Turkmenistan,2009,0.0
+Turkmenistan,2008,0.0
+Turkmenistan,2007,0.0
 Turkmenistan,2006,0.0002
 Turkmenistan,2005,0.0002
 Turkmenistan,2004,0.0006
@@ -1861,54 +1861,54 @@ Uganda,2003,492.1
 Uganda,2002,508.4
 Uganda,2001,516.3
 Uganda,2000,495.3
-United Arab Emirates,2018,0
-United Arab Emirates,2017,0
-United Arab Emirates,2016,0
-United Arab Emirates,2015,0
-United Arab Emirates,2014,0
-United Arab Emirates,2013,0
-United Arab Emirates,2012,0
-United Arab Emirates,2011,0
-United Arab Emirates,2010,0
-United Arab Emirates,2009,0
-United Arab Emirates,2008,0
-United Arab Emirates,2007,0
-United Arab Emirates,2006,0
-United Arab Emirates,2005,0
-United Arab Emirates,2004,0
-United Arab Emirates,2003,0
-United Arab Emirates,2002,0
-United Arab Emirates,2001,0
-United Arab Emirates,2000,0
-United Republic of Tanzania,2018,124.3
-United Republic of Tanzania,2017,124
-United Republic of Tanzania,2016,123.6
-United Republic of Tanzania,2015,121.7
-United Republic of Tanzania,2014,118.9
-United Republic of Tanzania,2013,111.8
-United Republic of Tanzania,2012,116.2
-United Republic of Tanzania,2011,132.5
-United Republic of Tanzania,2010,145.5
-United Republic of Tanzania,2009,157.1
-United Republic of Tanzania,2008,171
-United Republic of Tanzania,2007,184.5
-United Republic of Tanzania,2006,205.8
-United Republic of Tanzania,2005,228.9
-United Republic of Tanzania,2004,252.1
-United Republic of Tanzania,2003,277.2
-United Republic of Tanzania,2002,301.1
-United Republic of Tanzania,2001,331.2
-United Republic of Tanzania,2000,342.7
-Uzbekistan,2018,0
-Uzbekistan,2017,0
-Uzbekistan,2016,0
-Uzbekistan,2015,0
-Uzbekistan,2014,0
-Uzbekistan,2013,0
-Uzbekistan,2012,0
-Uzbekistan,2011,0
+United Arab Emirates,2018,0.0
+United Arab Emirates,2017,0.0
+United Arab Emirates,2016,0.0
+United Arab Emirates,2015,0.0
+United Arab Emirates,2014,0.0
+United Arab Emirates,2013,0.0
+United Arab Emirates,2012,0.0
+United Arab Emirates,2011,0.0
+United Arab Emirates,2010,0.0
+United Arab Emirates,2009,0.0
+United Arab Emirates,2008,0.0
+United Arab Emirates,2007,0.0
+United Arab Emirates,2006,0.0
+United Arab Emirates,2005,0.0
+United Arab Emirates,2004,0.0
+United Arab Emirates,2003,0.0
+United Arab Emirates,2002,0.0
+United Arab Emirates,2001,0.0
+United Arab Emirates,2000,0.0
+Tanzania,2018,124.3
+Tanzania,2017,124.0
+Tanzania,2016,123.6
+Tanzania,2015,121.7
+Tanzania,2014,118.9
+Tanzania,2013,111.8
+Tanzania,2012,116.2
+Tanzania,2011,132.5
+Tanzania,2010,145.5
+Tanzania,2009,157.1
+Tanzania,2008,171.0
+Tanzania,2007,184.5
+Tanzania,2006,205.8
+Tanzania,2005,228.9
+Tanzania,2004,252.1
+Tanzania,2003,277.2
+Tanzania,2002,301.1
+Tanzania,2001,331.2
+Tanzania,2000,342.7
+Uzbekistan,2018,0.0
+Uzbekistan,2017,0.0
+Uzbekistan,2016,0.0
+Uzbekistan,2015,0.0
+Uzbekistan,2014,0.0
+Uzbekistan,2013,0.0
+Uzbekistan,2012,0.0
+Uzbekistan,2011,0.0
 Uzbekistan,2010,0.002
-Uzbekistan,2009,0
+Uzbekistan,2009,0.0
 Uzbekistan,2008,0.004
 Uzbekistan,2007,0.016
 Uzbekistan,2006,0.039
@@ -1930,51 +1930,51 @@ Vanuatu,2010,66.33
 Vanuatu,2009,64.66
 Vanuatu,2008,119.1
 Vanuatu,2007,124.4
-Vanuatu,2006,107
+Vanuatu,2006,107.0
 Vanuatu,2005,122.4
 Vanuatu,2004,162.2
 Vanuatu,2003,214.6
-Vanuatu,2002,189
+Vanuatu,2002,189.0
 Vanuatu,2001,98.84
 Vanuatu,2000,125.3
-Venezuela (Bolivarian Republic of),2018,32.68
-Venezuela (Bolivarian Republic of),2017,32.63
-Venezuela (Bolivarian Republic of),2016,18.79
-Venezuela (Bolivarian Republic of),2015,10.57
-Venezuela (Bolivarian Republic of),2014,7.04
-Venezuela (Bolivarian Republic of),2013,6.17
-Venezuela (Bolivarian Republic of),2012,4.21
-Venezuela (Bolivarian Republic of),2011,3.71
-Venezuela (Bolivarian Republic of),2010,4.07
-Venezuela (Bolivarian Republic of),2009,2.99
-Venezuela (Bolivarian Republic of),2008,2.71
-Venezuela (Bolivarian Republic of),2007,3.59
-Venezuela (Bolivarian Republic of),2006,3.25
-Venezuela (Bolivarian Republic of),2005,4.01
-Venezuela (Bolivarian Republic of),2004,4.23
-Venezuela (Bolivarian Republic of),2003,2.94
-Venezuela (Bolivarian Republic of),2002,2.79
-Venezuela (Bolivarian Republic of),2001,1.93
-Venezuela (Bolivarian Republic of),2000,2.94
-Viet Nam,2018,0.082
-Viet Nam,2017,0.079
-Viet Nam,2016,0.073
-Viet Nam,2015,0.17
-Viet Nam,2014,0.28
-Viet Nam,2013,0.31
-Viet Nam,2012,0.36
-Viet Nam,2011,0.31
-Viet Nam,2010,0.35
-Viet Nam,2009,0.36
-Viet Nam,2008,0.28
-Viet Nam,2007,0.45
-Viet Nam,2006,0.7
-Viet Nam,2005,0.66
-Viet Nam,2004,0.92
-Viet Nam,2003,1.59
-Viet Nam,2002,2.19
-Viet Nam,2001,3.11
-Viet Nam,2000,3.42
+Venezuela,2018,32.68
+Venezuela,2017,32.63
+Venezuela,2016,18.79
+Venezuela,2015,10.57
+Venezuela,2014,7.04
+Venezuela,2013,6.17
+Venezuela,2012,4.21
+Venezuela,2011,3.71
+Venezuela,2010,4.07
+Venezuela,2009,2.99
+Venezuela,2008,2.71
+Venezuela,2007,3.59
+Venezuela,2006,3.25
+Venezuela,2005,4.01
+Venezuela,2004,4.23
+Venezuela,2003,2.94
+Venezuela,2002,2.79
+Venezuela,2001,1.93
+Venezuela,2000,2.94
+Vietnam,2018,0.082
+Vietnam,2017,0.079
+Vietnam,2016,0.073
+Vietnam,2015,0.17
+Vietnam,2014,0.28
+Vietnam,2013,0.31
+Vietnam,2012,0.36
+Vietnam,2011,0.31
+Vietnam,2010,0.35
+Vietnam,2009,0.36
+Vietnam,2008,0.28
+Vietnam,2007,0.45
+Vietnam,2006,0.7
+Vietnam,2005,0.66
+Vietnam,2004,0.92
+Vietnam,2003,1.59
+Vietnam,2002,2.19
+Vietnam,2001,3.11
+Vietnam,2000,3.42
 Yemen,2018,45.84
 Yemen,2017,41.64
 Yemen,2016,37.75
@@ -1995,25 +1995,25 @@ Yemen,2002,46.67
 Yemen,2001,48.6
 Yemen,2000,47.47
 Zambia,2018,156.7
-Zambia,2017,160
+Zambia,2017,160.0
 Zambia,2016,181.4
 Zambia,2015,202.5
-Zambia,2014,223
+Zambia,2014,223.0
 Zambia,2013,225.8
 Zambia,2012,203.1
 Zambia,2011,186.7
-Zambia,2010,177
-Zambia,2009,172
+Zambia,2010,177.0
+Zambia,2009,172.0
 Zambia,2008,176.7
 Zambia,2007,195.7
 Zambia,2006,222.5
 Zambia,2005,255.9
 Zambia,2004,299.3
-Zambia,2003,339
+Zambia,2003,339.0
 Zambia,2002,363.8
 Zambia,2001,391.1
 Zambia,2000,385.7
-Zimbabwe,2018,51
+Zimbabwe,2018,51.0
 Zimbabwe,2017,108.6
 Zimbabwe,2016,65.78
 Zimbabwe,2015,97.65
@@ -2031,4 +2031,4 @@ Zimbabwe,2004,120.2
 Zimbabwe,2003,120.9
 Zimbabwe,2002,121.5
 Zimbabwe,2001,122.1
-Zimbabwe,2000,123
+Zimbabwe,2000,123.0

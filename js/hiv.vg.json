@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Malaria Incidence (per 1000 population)",
+  "title": "HIV Incidence (per 1000 population)",
   "width": 1000,
   "height": 500,
   "projection": {"type": "equalEarth"},
@@ -11,8 +11,8 @@
       "bind": {
         "input": "range",
         "min": 2000,
-        "max": 2018,
-        "step": 1,
+        "max": 2019,
+        "step": 5,
         "name": "Year: "
       }
     }
@@ -36,7 +36,7 @@
     },
     
     {
-      "data": { "url": "./data/incidenceOfMalaria.csv" },
+      "data": { "url": "./data/incidenceOfHIV.csv" },
       "transform": [
         {
           "lookup": "Location",
@@ -58,7 +58,7 @@
           "field": "Total",
           "type": "quantitative",
           "scale": {
-            "domain": [0, 1000],
+            "domain": [0, 100],
             "scheme": "reds"
           }
         },

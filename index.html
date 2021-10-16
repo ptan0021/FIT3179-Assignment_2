@@ -19,9 +19,11 @@
 <body>
     <button type="button" onclick="showMap1()">Malaria</button>
     <button type="button" onclick="showMap2()">Tuberculosis</button>
+    <button type="button" onclick="showMap3()">HIV</button>
     <div id="map-container">
         <div id="map1" class="map"></div>
         <div id="map2" class="map"></div>
+        <div id="map3" class="map"></div>
     </div>
 </body>
 
@@ -29,9 +31,11 @@
     function showMap1() {
         var x = document.getElementById("map1");
         var y = document.getElementById("map2");
+        var z = document.getElementById("map3");
         if (x.style.display === "none") {
             x.style.display = "block";
             y.style.display = "none";
+            z.style.display = "none"
         }
         else {
             x.style.display = "none";
@@ -41,9 +45,25 @@
     function showMap2() {
         var x = document.getElementById("map2");
         var y = document.getElementById("map1");
+        var z = document.getElementById("map3");
         if (x.style.display === "none") {
             x.style.display = "block";
             y.style.display = "none";
+            z.style.display = "none"
+        }
+        else {
+            x.style.display = "none";
+        }
+    }
+
+    function showMap3() {
+        var x = document.getElementById("map3");
+        var y = document.getElementById("map1");
+        var z = document.getElementById("map2");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            y.style.display = "none";
+            z.style.display = "none"
         }
         else {
             x.style.display = "none";

@@ -9,8 +9,17 @@ write_file = csv.DictWriter(open(write_file, 'w'), fieldnames=field_names, delim
 write_file.writeheader()
 
 for row in input_file:
-    write_file.writerow({
-        "Location": row["ï»¿Location"],
-        "Period": row["Period"],
-        "Total": row["First Tooltip"].split()[0]
-    })
+    data =  row["First Tooltip"].split()[0]
+
+    if data[0] == "<":
+        data = data[1:]
+    
+    try:
+        data = float(data)
+        write_file.writerow({
+            "Location": row["ï»¿Location"],
+            "Period": row["Period"],
+            "Total": data
+        })
+    except:
+        pass
