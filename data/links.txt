@@ -1,1 +1,8 @@
-https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete
+https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cases-and-deaths
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/incidence-of-tuberculosis-(per-100-000-population-per-year)
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/tuberculosis-treatment-coverage
+
+https://colorhunt.co/palette/08d9d6252a34ff2e63eaeaea
+http://eyetracking.upol.cz/color/#
+
+https://observablehq.com/@didoesdigital/18-may-2020-donut-chart-in-vega-lite
