@@ -1,0 +1,4052 @@
+ParentLocation,Location,Year,Incidence
+Eastern Mediterranean,Afghanistan,2020,193
+Eastern Mediterranean,Afghanistan,2019,189
+Eastern Mediterranean,Afghanistan,2018,189
+Eastern Mediterranean,Afghanistan,2017,189
+Eastern Mediterranean,Afghanistan,2016,189
+Eastern Mediterranean,Afghanistan,2015,189
+Eastern Mediterranean,Afghanistan,2014,189
+Eastern Mediterranean,Afghanistan,2013,189
+Eastern Mediterranean,Afghanistan,2012,189
+Eastern Mediterranean,Afghanistan,2011,189
+Eastern Mediterranean,Afghanistan,2010,189
+Eastern Mediterranean,Afghanistan,2009,189
+Eastern Mediterranean,Afghanistan,2008,189
+Eastern Mediterranean,Afghanistan,2007,189
+Eastern Mediterranean,Afghanistan,2006,189
+Eastern Mediterranean,Afghanistan,2005,189
+Eastern Mediterranean,Afghanistan,2004,189
+Eastern Mediterranean,Afghanistan,2003,189
+Eastern Mediterranean,Afghanistan,2002,189
+Eastern Mediterranean,Afghanistan,2001,189
+Eastern Mediterranean,Afghanistan,2000,190
+Europe,Albania,2020,15
+Europe,Albania,2019,16
+Europe,Albania,2018,18
+Europe,Albania,2017,20
+Europe,Albania,2016,17
+Europe,Albania,2015,17
+Europe,Albania,2014,16
+Europe,Albania,2013,19
+Europe,Albania,2012,16
+Europe,Albania,2011,17
+Europe,Albania,2010,17
+Europe,Albania,2009,17
+Europe,Albania,2008,16
+Europe,Albania,2007,17
+Europe,Albania,2006,18
+Europe,Albania,2005,19
+Europe,Albania,2004,20
+Europe,Albania,2003,20
+Europe,Albania,2002,22
+Europe,Albania,2001,20
+Europe,Albania,2000,22
+Africa,Algeria,2020,59
+Africa,Algeria,2019,61
+Africa,Algeria,2018,69
+Africa,Algeria,2017,70
+Africa,Algeria,2016,70
+Africa,Algeria,2015,75
+Africa,Algeria,2014,72
+Africa,Algeria,2013,68
+Africa,Algeria,2012,73
+Africa,Algeria,2011,73
+Africa,Algeria,2010,78
+Africa,Algeria,2009,77
+Africa,Algeria,2008,74
+Africa,Algeria,2007,78
+Africa,Algeria,2006,79
+Africa,Algeria,2005,80
+Africa,Algeria,2004,76
+Africa,Algeria,2003,76
+Africa,Algeria,2002,74
+Africa,Algeria,2001,73
+Africa,Algeria,2000,75
+Europe,Andorra,2020,3
+Europe,Andorra,2019,7.5
+Europe,Andorra,2018,3
+Europe,Andorra,2017,1.5
+Europe,Andorra,2016,6
+Europe,Andorra,2015,5.9
+Europe,Andorra,2014,8.7
+Europe,Andorra,2013,7.1
+Europe,Andorra,2012,13
+Europe,Andorra,2011,4.1
+Europe,Andorra,2010,9.5
+Europe,Andorra,2009,11
+Europe,Andorra,2008,5.5
+Europe,Andorra,2007,7
+Europe,Andorra,2006,17
+Europe,Andorra,2005,15
+Europe,Andorra,2004,11
+Europe,Andorra,2003,17
+Europe,Andorra,2002,8.2
+Europe,Andorra,2001,17
+Europe,Andorra,2000,21
+Africa,Angola,2020,350
+Africa,Angola,2019,351
+Africa,Angola,2018,355
+Africa,Angola,2017,359
+Africa,Angola,2016,362
+Africa,Angola,2015,366
+Africa,Angola,2014,370
+Africa,Angola,2013,376
+Africa,Angola,2012,380
+Africa,Angola,2011,383
+Africa,Angola,2010,384
+Africa,Angola,2009,385
+Africa,Angola,2008,382
+Africa,Angola,2007,379
+Africa,Angola,2006,377
+Africa,Angola,2005,368
+Africa,Angola,2004,350
+Africa,Angola,2003,334
+Africa,Angola,2002,320
+Africa,Angola,2001,308
+Africa,Angola,2000,297
+Americas,Antigua and Barbuda,2020,2.3
+Americas,Antigua and Barbuda,2019,0
+Americas,Antigua and Barbuda,2018,6
+Americas,Antigua and Barbuda,2017,1.2
+Americas,Antigua and Barbuda,2016,3.7
+Americas,Antigua and Barbuda,2015,4.2
+Americas,Antigua and Barbuda,2014,3.7
+Americas,Antigua and Barbuda,2013,13
+Americas,Antigua and Barbuda,2012,3.8
+Americas,Antigua and Barbuda,2011,7.7
+Americas,Antigua and Barbuda,2010,9.1
+Americas,Antigua and Barbuda,2009,4
+Americas,Antigua and Barbuda,2008,1.3
+Americas,Antigua and Barbuda,2007,2.7
+Americas,Antigua and Barbuda,2006,5.6
+Americas,Antigua and Barbuda,2005,8.5
+Americas,Antigua and Barbuda,2004,5.4
+Americas,Antigua and Barbuda,2003,1.4
+Americas,Antigua and Barbuda,2002,5.9
+Americas,Antigua and Barbuda,2001,1.5
+Americas,Antigua and Barbuda,2000,6.1
+Americas,Argentina,2020,31
+Americas,Argentina,2019,29
+Americas,Argentina,2018,27
+Americas,Argentina,2017,27
+Americas,Argentina,2016,27
+Americas,Argentina,2015,26
+Americas,Argentina,2014,25
+Americas,Argentina,2013,24
+Americas,Argentina,2012,24
+Americas,Argentina,2011,27
+Americas,Argentina,2010,21
+Americas,Argentina,2009,22
+Americas,Argentina,2008,26
+Americas,Argentina,2007,30
+Americas,Argentina,2006,28
+Americas,Argentina,2005,31
+Americas,Argentina,2004,34
+Americas,Argentina,2003,33
+Americas,Argentina,2002,35
+Americas,Argentina,2001,35
+Americas,Argentina,2000,37
+Europe,Armenia,2020,23
+Europe,Armenia,2019,26
+Europe,Armenia,2018,31
+Europe,Armenia,2017,36
+Europe,Armenia,2016,44
+Europe,Armenia,2015,50
+Europe,Armenia,2014,57
+Europe,Armenia,2013,60
+Europe,Armenia,2012,53
+Europe,Armenia,2011,55
+Europe,Armenia,2010,61
+Europe,Armenia,2009,68
+Europe,Armenia,2008,71
+Europe,Armenia,2007,72
+Europe,Armenia,2006,75
+Europe,Armenia,2005,92
+Europe,Armenia,2004,69
+Europe,Armenia,2003,64
+Europe,Armenia,2002,59
+Europe,Armenia,2001,57
+Europe,Armenia,2000,54
+Western Pacific,Australia,2020,7.3
+Western Pacific,Australia,2019,6.9
+Western Pacific,Australia,2018,6.6
+Western Pacific,Australia,2017,6.7
+Western Pacific,Australia,2016,6.5
+Western Pacific,Australia,2015,6
+Western Pacific,Australia,2014,6.5
+Western Pacific,Australia,2013,6.2
+Western Pacific,Australia,2012,6.6
+Western Pacific,Australia,2011,6.3
+Western Pacific,Australia,2010,6.5
+Western Pacific,Australia,2009,6.8
+Western Pacific,Australia,2008,6.5
+Western Pacific,Australia,2007,6.2
+Western Pacific,Australia,2006,6.5
+Western Pacific,Australia,2005,6
+Western Pacific,Australia,2004,6.2
+Western Pacific,Australia,2003,5.6
+Western Pacific,Australia,2002,6
+Western Pacific,Australia,2001,5.9
+Western Pacific,Australia,2000,6.3
+Europe,Austria,2020,4.9
+Europe,Austria,2019,6
+Europe,Austria,2018,6.1
+Europe,Austria,2017,7.3
+Europe,Austria,2016,8.1
+Europe,Austria,2015,7.5
+Europe,Austria,2014,7.5
+Europe,Austria,2013,8.4
+Europe,Austria,2012,8.4
+Europe,Austria,2011,9.2
+Europe,Austria,2010,9.1
+Europe,Austria,2009,9.1
+Europe,Austria,2008,10
+Europe,Austria,2007,11
+Europe,Austria,2006,12
+Europe,Austria,2005,13
+Europe,Austria,2004,13
+Europe,Austria,2003,13
+Europe,Austria,2002,15
+Europe,Austria,2001,14
+Europe,Austria,2000,17
+Europe,Azerbaijan,2020,58
+Europe,Azerbaijan,2019,60
+Europe,Azerbaijan,2018,63
+Europe,Azerbaijan,2017,66
+Europe,Azerbaijan,2016,66
+Europe,Azerbaijan,2015,71
+Europe,Azerbaijan,2014,76
+Europe,Azerbaijan,2013,78
+Europe,Azerbaijan,2012,86
+Europe,Azerbaijan,2011,125
+Europe,Azerbaijan,2010,104
+Europe,Azerbaijan,2009,133
+Europe,Azerbaijan,2008,108
+Europe,Azerbaijan,2007,79
+Europe,Azerbaijan,2006,83
+Europe,Azerbaijan,2005,88
+Europe,Azerbaijan,2004,80
+Europe,Azerbaijan,2003,57
+Europe,Azerbaijan,2002,78
+Europe,Azerbaijan,2001,75
+Europe,Azerbaijan,2000,80
+Americas,Bahamas,2020,9.1
+Americas,Bahamas,2019,15
+Americas,Bahamas,2018,14
+Americas,Bahamas,2017,15
+Americas,Bahamas,2016,27
+Americas,Bahamas,2015,19
+Americas,Bahamas,2014,16
+Americas,Bahamas,2013,10
+Americas,Bahamas,2012,10
+Americas,Bahamas,2011,13
+Americas,Bahamas,2010,10
+Americas,Bahamas,2009,15
+Americas,Bahamas,2008,16
+Americas,Bahamas,2007,16
+Americas,Bahamas,2006,21
+Americas,Bahamas,2005,17
+Americas,Bahamas,2004,19
+Americas,Bahamas,2003,14
+Americas,Bahamas,2002,16
+Americas,Bahamas,2001,24
+Americas,Bahamas,2000,32
+Eastern Mediterranean,Bahrain,2020,13
+Eastern Mediterranean,Bahrain,2019,12
+Eastern Mediterranean,Bahrain,2018,11
+Eastern Mediterranean,Bahrain,2017,12
+Eastern Mediterranean,Bahrain,2016,12
+Eastern Mediterranean,Bahrain,2015,15
+Eastern Mediterranean,Bahrain,2014,16
+Eastern Mediterranean,Bahrain,2013,18
+Eastern Mediterranean,Bahrain,2012,20
+Eastern Mediterranean,Bahrain,2011,20
+Eastern Mediterranean,Bahrain,2010,23
+Eastern Mediterranean,Bahrain,2009,32
+Eastern Mediterranean,Bahrain,2008,31
+Eastern Mediterranean,Bahrain,2007,33
+Eastern Mediterranean,Bahrain,2006,33
+Eastern Mediterranean,Bahrain,2005,36
+Eastern Mediterranean,Bahrain,2004,34
+Eastern Mediterranean,Bahrain,2003,39
+Eastern Mediterranean,Bahrain,2002,30
+Eastern Mediterranean,Bahrain,2001,31
+Eastern Mediterranean,Bahrain,2000,36
+South-East Asia,Bangladesh,2020,218
+South-East Asia,Bangladesh,2019,221
+South-East Asia,Bangladesh,2018,221
+South-East Asia,Bangladesh,2017,221
+South-East Asia,Bangladesh,2016,221
+South-East Asia,Bangladesh,2015,221
+South-East Asia,Bangladesh,2014,221
+South-East Asia,Bangladesh,2013,221
+South-East Asia,Bangladesh,2012,221
+South-East Asia,Bangladesh,2011,221
+South-East Asia,Bangladesh,2010,221
+South-East Asia,Bangladesh,2009,221
+South-East Asia,Bangladesh,2008,221
+South-East Asia,Bangladesh,2007,221
+South-East Asia,Bangladesh,2006,221
+South-East Asia,Bangladesh,2005,221
+South-East Asia,Bangladesh,2004,221
+South-East Asia,Bangladesh,2003,221
+South-East Asia,Bangladesh,2002,221
+South-East Asia,Bangladesh,2001,221
+South-East Asia,Bangladesh,2000,221
+Americas,Barbados,2020,2.4
+Americas,Barbados,2019,0
+Americas,Barbados,2018,0.4
+Americas,Barbados,2017,0
+Americas,Barbados,2016,1.2
+Americas,Barbados,2015,0
+Americas,Barbados,2014,2
+Americas,Barbados,2013,1.6
+Americas,Barbados,2012,1.6
+Americas,Barbados,2011,0
+Americas,Barbados,2010,2.4
+Americas,Barbados,2009,0.82
+Americas,Barbados,2008,1.2
+Americas,Barbados,2007,6.6
+Americas,Barbados,2006,2.1
+Americas,Barbados,2005,4.1
+Americas,Barbados,2004,7.9
+Americas,Barbados,2003,3.7
+Americas,Barbados,2002,2.1
+Americas,Barbados,2001,2.5
+Americas,Barbados,2000,1.3
+Europe,Belarus,2020,26
+Europe,Belarus,2019,29
+Europe,Belarus,2018,31
+Europe,Belarus,2017,37
+Europe,Belarus,2016,42
+Europe,Belarus,2015,50
+Europe,Belarus,2014,51
+Europe,Belarus,2013,59
+Europe,Belarus,2012,63
+Europe,Belarus,2011,62
+Europe,Belarus,2010,68
+Europe,Belarus,2009,70
+Europe,Belarus,2008,68
+Europe,Belarus,2007,71
+Europe,Belarus,2006,68
+Europe,Belarus,2005,69
+Europe,Belarus,2004,71
+Europe,Belarus,2003,77
+Europe,Belarus,2002,66
+Europe,Belarus,2001,70
+Europe,Belarus,2000,86
+Europe,Belgium,2020,7.7
+Europe,Belgium,2019,8.9
+Europe,Belgium,2018,9.1
+Europe,Belgium,2017,9.2
+Europe,Belgium,2016,10
+Europe,Belgium,2015,9.5
+Europe,Belgium,2014,9.1
+Europe,Belgium,2013,9.3
+Europe,Belgium,2012,9.4
+Europe,Belgium,2011,10
+Europe,Belgium,2010,11
+Europe,Belgium,2009,9.7
+Europe,Belgium,2008,10
+Europe,Belgium,2007,10
+Europe,Belgium,2006,11
+Europe,Belgium,2005,12
+Europe,Belgium,2004,12
+Europe,Belgium,2003,12
+Europe,Belgium,2002,13
+Europe,Belgium,2001,15
+Europe,Belgium,2000,14
+Americas,Belize,2020,23
+Americas,Belize,2019,27
+Americas,Belize,2018,30
+Americas,Belize,2017,36
+Americas,Belize,2016,37
+Americas,Belize,2015,25
+Americas,Belize,2014,23
+Americas,Belize,2013,40
+Americas,Belize,2012,29
+Americas,Belize,2011,26
+Americas,Belize,2010,52
+Americas,Belize,2009,32
+Americas,Belize,2008,33
+Americas,Belize,2007,24
+Americas,Belize,2006,34
+Americas,Belize,2005,41
+Americas,Belize,2004,35
+Americas,Belize,2003,42
+Americas,Belize,2002,59
+Americas,Belize,2001,61
+Americas,Belize,2000,49
+Africa,Benin,2020,55
+Africa,Benin,2019,55
+Africa,Benin,2018,56
+Africa,Benin,2017,58
+Africa,Benin,2016,59
+Africa,Benin,2015,60
+Africa,Benin,2014,61
+Africa,Benin,2013,64
+Africa,Benin,2012,66
+Africa,Benin,2011,67
+Africa,Benin,2010,68
+Africa,Benin,2009,69
+Africa,Benin,2008,69
+Africa,Benin,2007,69
+Africa,Benin,2006,71
+Africa,Benin,2005,73
+Africa,Benin,2004,75
+Africa,Benin,2003,78
+Africa,Benin,2002,80
+Africa,Benin,2001,83
+Africa,Benin,2000,86
+South-East Asia,Bhutan,2020,165
+South-East Asia,Bhutan,2019,165
+South-East Asia,Bhutan,2018,149
+South-East Asia,Bhutan,2017,145
+South-East Asia,Bhutan,2016,193
+South-East Asia,Bhutan,2015,165
+South-East Asia,Bhutan,2014,185
+South-East Asia,Bhutan,2013,190
+South-East Asia,Bhutan,2012,201
+South-East Asia,Bhutan,2011,223
+South-East Asia,Bhutan,2010,239
+South-East Asia,Bhutan,2009,207
+South-East Asia,Bhutan,2008,179
+South-East Asia,Bhutan,2007,188
+South-East Asia,Bhutan,2006,174
+South-East Asia,Bhutan,2005,194
+South-East Asia,Bhutan,2004,193
+South-East Asia,Bhutan,2003,204
+South-East Asia,Bhutan,2002,221
+South-East Asia,Bhutan,2001,215
+South-East Asia,Bhutan,2000,241
+Americas,Bolivia,2020,105
+Americas,Bolivia,2019,106
+Americas,Bolivia,2018,108
+Americas,Bolivia,2017,111
+Americas,Bolivia,2016,114
+Americas,Bolivia,2015,117
+Americas,Bolivia,2014,120
+Americas,Bolivia,2013,123
+Americas,Bolivia,2012,127
+Americas,Bolivia,2011,131
+Americas,Bolivia,2010,135
+Americas,Bolivia,2009,139
+Americas,Bolivia,2008,144
+Americas,Bolivia,2007,148
+Americas,Bolivia,2006,153
+Americas,Bolivia,2005,158
+Americas,Bolivia,2004,163
+Americas,Bolivia,2003,168
+Americas,Bolivia,2002,173
+Americas,Bolivia,2001,179
+Americas,Bolivia,2000,184
+Europe,Bosnia and Herz.,2020,26
+Europe,Bosnia and Herz.,2019,27
+Europe,Bosnia and Herz.,2018,25
+Europe,Bosnia and Herz.,2017,29
+Europe,Bosnia and Herz.,2016,33
+Europe,Bosnia and Herz.,2015,40
+Europe,Bosnia and Herz.,2014,43
+Europe,Bosnia and Herz.,2013,44
+Europe,Bosnia and Herz.,2012,49
+Europe,Bosnia and Herz.,2011,46
+Europe,Bosnia and Herz.,2010,45
+Europe,Bosnia and Herz.,2009,58
+Europe,Bosnia and Herz.,2008,57
+Europe,Bosnia and Herz.,2007,79
+Europe,Bosnia and Herz.,2006,59
+Europe,Bosnia and Herz.,2005,70
+Europe,Bosnia and Herz.,2004,78
+Europe,Bosnia and Herz.,2003,59
+Europe,Bosnia and Herz.,2002,56
+Europe,Bosnia and Herz.,2001,82
+Europe,Bosnia and Herz.,2000,83
+Africa,Botswana,2020,236
+Africa,Botswana,2019,253
+Africa,Botswana,2018,275
+Africa,Botswana,2017,300
+Africa,Botswana,2016,326
+Africa,Botswana,2015,356
+Africa,Botswana,2014,385
+Africa,Botswana,2013,414
+Africa,Botswana,2012,445
+Africa,Botswana,2011,480
+Africa,Botswana,2010,518
+Africa,Botswana,2009,557
+Africa,Botswana,2008,598
+Africa,Botswana,2007,641
+Africa,Botswana,2006,684
+Africa,Botswana,2005,728
+Africa,Botswana,2004,773
+Africa,Botswana,2003,816
+Africa,Botswana,2002,855
+Africa,Botswana,2001,888
+Africa,Botswana,2000,914
+Americas,Brazil,2020,45
+Americas,Brazil,2019,46
+Americas,Brazil,2018,46
+Americas,Brazil,2017,44
+Americas,Brazil,2016,43
+Americas,Brazil,2015,43
+Americas,Brazil,2014,43
+Americas,Brazil,2013,44
+Americas,Brazil,2012,44
+Americas,Brazil,2011,44
+Americas,Brazil,2010,44
+Americas,Brazil,2009,45
+Americas,Brazil,2008,46
+Americas,Brazil,2007,46
+Americas,Brazil,2006,46
+Americas,Brazil,2005,50
+Americas,Brazil,2004,54
+Americas,Brazil,2003,53
+Americas,Brazil,2002,52
+Americas,Brazil,2001,48
+Americas,Brazil,2000,51
+Western Pacific,Brunei,2020,83
+Western Pacific,Brunei,2019,64
+Western Pacific,Brunei,2018,68
+Western Pacific,Brunei,2017,64
+Western Pacific,Brunei,2016,66
+Western Pacific,Brunei,2015,59
+Western Pacific,Brunei,2014,56
+Western Pacific,Brunei,2013,60
+Western Pacific,Brunei,2012,70
+Western Pacific,Brunei,2011,67
+Western Pacific,Brunei,2010,70
+Western Pacific,Brunei,2009,64
+Western Pacific,Brunei,2008,68
+Western Pacific,Brunei,2007,64
+Western Pacific,Brunei,2006,63
+Western Pacific,Brunei,2005,51
+Western Pacific,Brunei,2004,59
+Western Pacific,Brunei,2003,68
+Western Pacific,Brunei,2002,76
+Western Pacific,Brunei,2001,73
+Western Pacific,Brunei,2000,106
+Europe,Bulgaria,2020,19
+Europe,Bulgaria,2019,21
+Europe,Bulgaria,2018,23
+Europe,Bulgaria,2017,25
+Europe,Bulgaria,2016,27
+Europe,Bulgaria,2015,28
+Europe,Bulgaria,2014,31
+Europe,Bulgaria,2013,33
+Europe,Bulgaria,2012,35
+Europe,Bulgaria,2011,37
+Europe,Bulgaria,2010,41
+Europe,Bulgaria,2009,44
+Europe,Bulgaria,2008,49
+Europe,Bulgaria,2007,47
+Europe,Bulgaria,2006,51
+Europe,Bulgaria,2005,52
+Europe,Bulgaria,2004,49
+Europe,Bulgaria,2003,52
+Europe,Bulgaria,2002,53
+Europe,Bulgaria,2001,61
+Europe,Bulgaria,2000,52
+Africa,Burkina Faso,2020,46
+Africa,Burkina Faso,2019,47
+Africa,Burkina Faso,2018,48
+Africa,Burkina Faso,2017,49
+Africa,Burkina Faso,2016,51
+Africa,Burkina Faso,2015,52
+Africa,Burkina Faso,2014,54
+Africa,Burkina Faso,2013,54
+Africa,Burkina Faso,2012,55
+Africa,Burkina Faso,2011,57
+Africa,Burkina Faso,2010,58
+Africa,Burkina Faso,2009,60
+Africa,Burkina Faso,2008,61
+Africa,Burkina Faso,2007,62
+Africa,Burkina Faso,2006,63
+Africa,Burkina Faso,2005,64
+Africa,Burkina Faso,2004,65
+Africa,Burkina Faso,2003,66
+Africa,Burkina Faso,2002,67
+Africa,Burkina Faso,2001,69
+Africa,Burkina Faso,2000,70
+Africa,Burundi,2020,103
+Africa,Burundi,2019,107
+Africa,Burundi,2018,111
+Africa,Burundi,2017,114
+Africa,Burundi,2016,118
+Africa,Burundi,2015,122
+Africa,Burundi,2014,126
+Africa,Burundi,2013,128
+Africa,Burundi,2012,133
+Africa,Burundi,2011,138
+Africa,Burundi,2010,144
+Africa,Burundi,2009,152
+Africa,Burundi,2008,160
+Africa,Burundi,2007,169
+Africa,Burundi,2006,181
+Africa,Burundi,2005,195
+Africa,Burundi,2004,211
+Africa,Burundi,2003,230
+Africa,Burundi,2002,250
+Africa,Burundi,2001,270
+Africa,Burundi,2000,290
+Africa,Côte d'Ivoire,2020,135
+Africa,Côte d'Ivoire,2019,137
+Africa,Côte d'Ivoire,2018,142
+Africa,Côte d'Ivoire,2017,148
+Africa,Côte d'Ivoire,2016,153
+Africa,Côte d'Ivoire,2015,159
+Africa,Côte d'Ivoire,2014,165
+Africa,Côte d'Ivoire,2013,170
+Africa,Côte d'Ivoire,2012,178
+Africa,Côte d'Ivoire,2011,186
+Africa,Côte d'Ivoire,2010,196
+Africa,Côte d'Ivoire,2009,207
+Africa,Côte d'Ivoire,2008,219
+Africa,Côte d'Ivoire,2007,233
+Africa,Côte d'Ivoire,2006,249
+Africa,Côte d'Ivoire,2005,267
+Africa,Côte d'Ivoire,2004,288
+Africa,Côte d'Ivoire,2003,309
+Africa,Côte d'Ivoire,2002,330
+Africa,Côte d'Ivoire,2001,350
+Africa,Côte d'Ivoire,2000,367
+Africa,Cabo Verde,2020,39
+Africa,Cabo Verde,2019,46
+Africa,Cabo Verde,2018,46
+Africa,Cabo Verde,2017,58
+Africa,Cabo Verde,2016,58
+Africa,Cabo Verde,2015,64
+Africa,Cabo Verde,2014,66
+Africa,Cabo Verde,2013,74
+Africa,Cabo Verde,2012,104
+Africa,Cabo Verde,2011,95
+Africa,Cabo Verde,2010,90
+Africa,Cabo Verde,2009,85
+Africa,Cabo Verde,2008,87
+Africa,Cabo Verde,2007,72
+Africa,Cabo Verde,2006,70
+Africa,Cabo Verde,2005,79
+Africa,Cabo Verde,2004,80
+Africa,Cabo Verde,2003,88
+Africa,Cabo Verde,2002,55
+Africa,Cabo Verde,2001,83
+Africa,Cabo Verde,2000,82
+Western Pacific,Cambodia,2020,274
+Western Pacific,Cambodia,2019,287
+Western Pacific,Cambodia,2018,308
+Western Pacific,Cambodia,2017,329
+Western Pacific,Cambodia,2016,348
+Western Pacific,Cambodia,2015,366
+Western Pacific,Cambodia,2014,383
+Western Pacific,Cambodia,2013,398
+Western Pacific,Cambodia,2012,412
+Western Pacific,Cambodia,2011,425
+Western Pacific,Cambodia,2010,438
+Western Pacific,Cambodia,2009,452
+Western Pacific,Cambodia,2008,466
+Western Pacific,Cambodia,2007,481
+Western Pacific,Cambodia,2006,495
+Western Pacific,Cambodia,2005,510
+Western Pacific,Cambodia,2004,525
+Western Pacific,Cambodia,2003,539
+Western Pacific,Cambodia,2002,553
+Western Pacific,Cambodia,2001,566
+Western Pacific,Cambodia,2000,579
+Africa,Cameroon,2020,174
+Africa,Cameroon,2019,179
+Africa,Cameroon,2018,186
+Africa,Cameroon,2017,194
+Africa,Cameroon,2016,203
+Africa,Cameroon,2015,212
+Africa,Cameroon,2014,220
+Africa,Cameroon,2013,235
+Africa,Cameroon,2012,242
+Africa,Cameroon,2011,251
+Africa,Cameroon,2010,260
+Africa,Cameroon,2009,271
+Africa,Cameroon,2008,282
+Africa,Cameroon,2007,292
+Africa,Cameroon,2006,303
+Africa,Cameroon,2005,311
+Africa,Cameroon,2004,318
+Africa,Cameroon,2003,321
+Africa,Cameroon,2002,321
+Africa,Cameroon,2001,317
+Africa,Cameroon,2000,309
+Americas,Canada,2020,5.9
+Americas,Canada,2019,5.9
+Americas,Canada,2018,5.6
+Americas,Canada,2017,5.6
+Americas,Canada,2016,5.5
+Americas,Canada,2015,5.2
+Americas,Canada,2014,5.1
+Americas,Canada,2013,5.3
+Americas,Canada,2012,5.4
+Americas,Canada,2011,4.8
+Americas,Canada,2010,4.6
+Americas,Canada,2009,5.3
+Americas,Canada,2008,5.4
+Americas,Canada,2007,5.3
+Americas,Canada,2006,5.4
+Americas,Canada,2005,5.5
+Americas,Canada,2004,5.6
+Americas,Canada,2003,5.9
+Americas,Canada,2002,6.1
+Americas,Canada,2001,6.6
+Americas,Canada,2000,6.5
+Africa,Central African Rep.,2020,540
+Africa,Central African Rep.,2019,540
+Africa,Central African Rep.,2018,540
+Africa,Central African Rep.,2017,540
+Africa,Central African Rep.,2016,540
+Africa,Central African Rep.,2015,540
+Africa,Central African Rep.,2014,540
+Africa,Central African Rep.,2013,540
+Africa,Central African Rep.,2012,540
+Africa,Central African Rep.,2011,540
+Africa,Central African Rep.,2010,540
+Africa,Central African Rep.,2009,540
+Africa,Central African Rep.,2008,540
+Africa,Central African Rep.,2007,540
+Africa,Central African Rep.,2006,540
+Africa,Central African Rep.,2005,540
+Africa,Central African Rep.,2004,540
+Africa,Central African Rep.,2003,540
+Africa,Central African Rep.,2002,540
+Africa,Central African Rep.,2001,540
+Africa,Central African Rep.,2000,540
+Africa,Chad,2020,144
+Africa,Chad,2019,142
+Africa,Chad,2018,142
+Africa,Chad,2017,143
+Africa,Chad,2016,144
+Africa,Chad,2015,144
+Africa,Chad,2014,145
+Africa,Chad,2013,146
+Africa,Chad,2012,146
+Africa,Chad,2011,147
+Africa,Chad,2010,147
+Africa,Chad,2009,148
+Africa,Chad,2008,149
+Africa,Chad,2007,149
+Africa,Chad,2006,150
+Africa,Chad,2005,151
+Africa,Chad,2004,151
+Africa,Chad,2003,152
+Africa,Chad,2002,152
+Africa,Chad,2001,152
+Africa,Chad,2000,151
+Americas,Chile,2020,15
+Americas,Chile,2019,18
+Americas,Chile,2018,18
+Americas,Chile,2017,17
+Americas,Chile,2016,16
+Americas,Chile,2015,16
+Americas,Chile,2014,15
+Americas,Chile,2013,16
+Americas,Chile,2012,16
+Americas,Chile,2011,16
+Americas,Chile,2010,16
+Americas,Chile,2009,16
+Americas,Chile,2008,17
+Americas,Chile,2007,17
+Americas,Chile,2006,18
+Americas,Chile,2005,18
+Americas,Chile,2004,19
+Americas,Chile,2003,16
+Americas,Chile,2002,18
+Americas,Chile,2001,22
+Americas,Chile,2000,23
+Western Pacific,China,2020,59
+Western Pacific,China,2019,58
+Western Pacific,China,2018,61
+Western Pacific,China,2017,62
+Western Pacific,China,2016,63
+Western Pacific,China,2015,65
+Western Pacific,China,2014,67
+Western Pacific,China,2013,70
+Western Pacific,China,2012,73
+Western Pacific,China,2011,75
+Western Pacific,China,2010,76
+Western Pacific,China,2009,81
+Western Pacific,China,2008,82
+Western Pacific,China,2007,85
+Western Pacific,China,2006,88
+Western Pacific,China,2005,91
+Western Pacific,China,2004,94
+Western Pacific,China,2003,97
+Western Pacific,China,2002,100
+Western Pacific,China,2001,104
+Western Pacific,China,2000,107
+Americas,Colombia,2020,37
+Americas,Colombia,2019,35
+Americas,Colombia,2018,33
+Americas,Colombia,2017,33
+Americas,Colombia,2016,33
+Americas,Colombia,2015,31
+Americas,Colombia,2014,31
+Americas,Colombia,2013,32
+Americas,Colombia,2012,33
+Americas,Colombia,2011,33
+Americas,Colombia,2010,32
+Americas,Colombia,2009,32
+Americas,Colombia,2008,32
+Americas,Colombia,2007,31
+Americas,Colombia,2006,32
+Americas,Colombia,2005,30
+Americas,Colombia,2004,33
+Americas,Colombia,2003,35
+Americas,Colombia,2002,35
+Americas,Colombia,2001,36
+Americas,Colombia,2000,37
+Africa,Comoros,2020,35
+Africa,Comoros,2019,35
+Africa,Comoros,2018,35
+Africa,Comoros,2017,35
+Africa,Comoros,2016,35
+Africa,Comoros,2015,35
+Africa,Comoros,2014,35
+Africa,Comoros,2013,34
+Africa,Comoros,2012,34
+Africa,Comoros,2011,34
+Africa,Comoros,2010,33
+Africa,Comoros,2009,33
+Africa,Comoros,2008,34
+Africa,Comoros,2007,35
+Africa,Comoros,2006,36
+Africa,Comoros,2005,36
+Africa,Comoros,2004,36
+Africa,Comoros,2003,37
+Africa,Comoros,2002,37
+Africa,Comoros,2001,38
+Africa,Comoros,2000,39
+Africa,Congo,2020,379
+Africa,Congo,2019,373
+Africa,Congo,2018,375
+Africa,Congo,2017,376
+Africa,Congo,2016,378
+Africa,Congo,2015,379
+Africa,Congo,2014,381
+Africa,Congo,2013,382
+Africa,Congo,2012,382
+Africa,Congo,2011,383
+Africa,Congo,2010,386
+Africa,Congo,2009,393
+Africa,Congo,2008,403
+Africa,Congo,2007,413
+Africa,Congo,2006,422
+Africa,Congo,2005,426
+Africa,Congo,2004,423
+Africa,Congo,2003,413
+Africa,Congo,2002,398
+Africa,Congo,2001,379
+Africa,Congo,2000,356
+Western Pacific,Cook Islands,2020,13
+Western Pacific,Cook Islands,2019,13
+Western Pacific,Cook Islands,2018,0
+Western Pacific,Cook Islands,2017,0
+Western Pacific,Cook Islands,2016,13
+Western Pacific,Cook Islands,2015,0
+Western Pacific,Cook Islands,2014,13
+Western Pacific,Cook Islands,2013,13
+Western Pacific,Cook Islands,2012,6.4
+Western Pacific,Cook Islands,2011,6.3
+Western Pacific,Cook Islands,2010,0
+Western Pacific,Cook Islands,2009,12
+Western Pacific,Cook Islands,2008,12
+Western Pacific,Cook Islands,2007,6.8
+Western Pacific,Cook Islands,2006,6
+Western Pacific,Cook Islands,2005,6
+Western Pacific,Cook Islands,2004,6.1
+Western Pacific,Cook Islands,2003,0
+Western Pacific,Cook Islands,2002,6.3
+Western Pacific,Cook Islands,2001,13
+Western Pacific,Cook Islands,2000,6.4
+Americas,Costa Rica,2020,10
+Americas,Costa Rica,2019,10
+Americas,Costa Rica,2018,10
+Americas,Costa Rica,2017,9.6
+Americas,Costa Rica,2016,9.4
+Americas,Costa Rica,2015,11
+Americas,Costa Rica,2014,12
+Americas,Costa Rica,2013,11
+Americas,Costa Rica,2012,13
+Americas,Costa Rica,2011,14
+Americas,Costa Rica,2010,13
+Americas,Costa Rica,2009,12
+Americas,Costa Rica,2008,14
+Americas,Costa Rica,2007,16
+Americas,Costa Rica,2006,14
+Americas,Costa Rica,2005,16
+Americas,Costa Rica,2004,21
+Americas,Costa Rica,2003,16
+Americas,Costa Rica,2002,17
+Americas,Costa Rica,2001,20
+Americas,Costa Rica,2000,18
+Europe,Croatia,2020,6.6
+Europe,Croatia,2019,8.3
+Europe,Croatia,2018,10
+Europe,Croatia,2017,10
+Europe,Croatia,2016,12
+Europe,Croatia,2015,13
+Europe,Croatia,2014,13
+Europe,Croatia,2013,14
+Europe,Croatia,2012,14
+Europe,Croatia,2011,17
+Europe,Croatia,2010,18
+Europe,Croatia,2009,22
+Europe,Croatia,2008,26
+Europe,Croatia,2007,25
+Europe,Croatia,2006,27
+Europe,Croatia,2005,28
+Europe,Croatia,2004,31
+Europe,Croatia,2003,36
+Europe,Croatia,2002,38
+Europe,Croatia,2001,36
+Europe,Croatia,2000,42
+Americas,Cuba,2020,6.3
+Americas,Cuba,2019,6.5
+Americas,Cuba,2018,7.2
+Americas,Cuba,2017,7.2
+Americas,Cuba,2016,6.9
+Americas,Cuba,2015,7.1
+Americas,Cuba,2014,7.4
+Americas,Cuba,2013,7.7
+Americas,Cuba,2012,7.5
+Americas,Cuba,2011,8.2
+Americas,Cuba,2010,8.5
+Americas,Cuba,2009,7.3
+Americas,Cuba,2008,8.4
+Americas,Cuba,2007,7.8
+Americas,Cuba,2006,7.8
+Americas,Cuba,2005,7.9
+Americas,Cuba,2004,8
+Americas,Cuba,2003,8.6
+Americas,Cuba,2002,9.2
+Americas,Cuba,2001,9.5
+Americas,Cuba,2000,12
+Europe,Cyprus,2020,5.7
+Europe,Cyprus,2019,6.3
+Europe,Cyprus,2018,4.9
+Europe,Cyprus,2017,5.1
+Europe,Cyprus,2016,5.6
+Europe,Cyprus,2015,6.2
+Europe,Cyprus,2014,3.9
+Europe,Cyprus,2013,4.1
+Europe,Cyprus,2012,6.4
+Europe,Cyprus,2011,5.2
+Europe,Cyprus,2010,6.3
+Europe,Cyprus,2009,5.3
+Europe,Cyprus,2008,5.1
+Europe,Cyprus,2007,4.4
+Europe,Cyprus,2006,4
+Europe,Cyprus,2005,3.8
+Europe,Cyprus,2004,3.4
+Europe,Cyprus,2003,4.1
+Europe,Cyprus,2002,2.4
+Europe,Cyprus,2001,4.8
+Europe,Cyprus,2000,4
+Europe,Czechia,2020,3.9
+Europe,Czechia,2019,4.9
+Europe,Czechia,2018,4.7
+Europe,Czechia,2017,5.4
+Europe,Czechia,2016,5.5
+Europe,Czechia,2015,5.5
+Europe,Czechia,2014,5.1
+Europe,Czechia,2013,5.1
+Europe,Czechia,2012,6.1
+Europe,Czechia,2011,6.2
+Europe,Czechia,2010,6.8
+Europe,Czechia,2009,6.9
+Europe,Czechia,2008,8.9
+Europe,Czechia,2007,8.8
+Europe,Czechia,2006,11
+Europe,Czechia,2005,11
+Europe,Czechia,2004,12
+Europe,Czechia,2003,13
+Europe,Czechia,2002,13
+Europe,Czechia,2001,14
+Europe,Czechia,2000,16
+South-East Asia,North Korea,2020,523
+South-East Asia,North Korea,2019,513
+South-East Asia,North Korea,2018,513
+South-East Asia,North Korea,2017,513
+South-East Asia,North Korea,2016,513
+South-East Asia,North Korea,2015,513
+South-East Asia,North Korea,2014,513
+South-East Asia,North Korea,2013,513
+South-East Asia,North Korea,2012,513
+South-East Asia,North Korea,2011,513
+South-East Asia,North Korea,2010,513
+South-East Asia,North Korea,2009,513
+South-East Asia,North Korea,2008,513
+South-East Asia,North Korea,2007,513
+South-East Asia,North Korea,2006,513
+South-East Asia,North Korea,2005,513
+South-East Asia,North Korea,2004,513
+South-East Asia,North Korea,2003,513
+South-East Asia,North Korea,2002,513
+South-East Asia,North Korea,2001,513
+South-East Asia,North Korea,2000,513
+Africa,Dem. Rep. Congo,2020,319
+Africa,Dem. Rep. Congo,2019,320
+Africa,Dem. Rep. Congo,2018,321
+Africa,Dem. Rep. Congo,2017,322
+Africa,Dem. Rep. Congo,2016,323
+Africa,Dem. Rep. Congo,2015,324
+Africa,Dem. Rep. Congo,2014,325
+Africa,Dem. Rep. Congo,2013,326
+Africa,Dem. Rep. Congo,2012,327
+Africa,Dem. Rep. Congo,2011,327
+Africa,Dem. Rep. Congo,2010,327
+Africa,Dem. Rep. Congo,2009,327
+Africa,Dem. Rep. Congo,2008,327
+Africa,Dem. Rep. Congo,2007,327
+Africa,Dem. Rep. Congo,2006,327
+Africa,Dem. Rep. Congo,2005,327
+Africa,Dem. Rep. Congo,2004,327
+Africa,Dem. Rep. Congo,2003,327
+Africa,Dem. Rep. Congo,2002,327
+Africa,Dem. Rep. Congo,2001,327
+Africa,Dem. Rep. Congo,2000,327
+Europe,Denmark,2020,4.9
+Europe,Denmark,2019,5.2
+Europe,Denmark,2018,5.4
+Europe,Denmark,2017,5.1
+Europe,Denmark,2016,5.9
+Europe,Denmark,2015,6.5
+Europe,Denmark,2014,5.9
+Europe,Denmark,2013,6.7
+Europe,Denmark,2012,7
+Europe,Denmark,2011,7.4
+Europe,Denmark,2010,6.9
+Europe,Denmark,2009,6.1
+Europe,Denmark,2008,6.9
+Europe,Denmark,2007,7.5
+Europe,Denmark,2006,7.2
+Europe,Denmark,2005,8.4
+Europe,Denmark,2004,7.6
+Europe,Denmark,2003,8.3
+Europe,Denmark,2002,8.6
+Europe,Denmark,2001,11
+Europe,Denmark,2000,13
+Eastern Mediterranean,Djibouti,2020,224
+Eastern Mediterranean,Djibouti,2019,234
+Eastern Mediterranean,Djibouti,2018,260
+Eastern Mediterranean,Djibouti,2017,272
+Eastern Mediterranean,Djibouti,2016,339
+Eastern Mediterranean,Djibouti,2015,367
+Eastern Mediterranean,Djibouti,2014,337
+Eastern Mediterranean,Djibouti,2013,447
+Eastern Mediterranean,Djibouti,2012,500
+Eastern Mediterranean,Djibouti,2011,540
+Eastern Mediterranean,Djibouti,2010,621
+Eastern Mediterranean,Djibouti,2009,571
+Eastern Mediterranean,Djibouti,2008,564
+Eastern Mediterranean,Djibouti,2007,496
+Eastern Mediterranean,Djibouti,2006,474
+Eastern Mediterranean,Djibouti,2005,496
+Eastern Mediterranean,Djibouti,2004,476
+Eastern Mediterranean,Djibouti,2003,532
+Eastern Mediterranean,Djibouti,2002,534
+Eastern Mediterranean,Djibouti,2001,716
+Eastern Mediterranean,Djibouti,2000,692
+Americas,Dominica,2020,47
+Americas,Dominica,2019,16
+Americas,Dominica,2018,6.4
+Americas,Dominica,2017,1.6
+Americas,Dominica,2016,8.1
+Americas,Dominica,2015,11
+Americas,Dominica,2014,1.6
+Americas,Dominica,2013,4.9
+Americas,Dominica,2012,11
+Americas,Dominica,2011,3.2
+Americas,Dominica,2010,13
+Americas,Dominica,2009,6.5
+Americas,Dominica,2008,21
+Americas,Dominica,2007,4.9
+Americas,Dominica,2006,31
+Americas,Dominica,2005,12
+Americas,Dominica,2004,10
+Americas,Dominica,2003,8.4
+Americas,Dominica,2002,3.3
+Americas,Dominica,2001,5.6
+Americas,Dominica,2000,4.5
+Americas,Dominican Rep.,2020,41
+Americas,Dominican Rep.,2019,42
+Americas,Dominican Rep.,2018,45
+Americas,Dominican Rep.,2017,46
+Americas,Dominican Rep.,2016,51
+Americas,Dominican Rep.,2015,55
+Americas,Dominican Rep.,2014,54
+Americas,Dominican Rep.,2013,55
+Americas,Dominican Rep.,2012,54
+Americas,Dominican Rep.,2011,55
+Americas,Dominican Rep.,2010,51
+Americas,Dominican Rep.,2009,56
+Americas,Dominican Rep.,2008,57
+Americas,Dominican Rep.,2007,56
+Americas,Dominican Rep.,2006,62
+Americas,Dominican Rep.,2005,69
+Americas,Dominican Rep.,2004,63
+Americas,Dominican Rep.,2003,68
+Americas,Dominican Rep.,2002,58
+Americas,Dominican Rep.,2001,69
+Americas,Dominican Rep.,2000,78
+Americas,Ecuador,2020,48
+Americas,Ecuador,2019,46
+Americas,Ecuador,2018,44
+Americas,Ecuador,2017,43
+Americas,Ecuador,2016,40
+Americas,Ecuador,2015,39
+Americas,Ecuador,2014,40
+Americas,Ecuador,2013,42
+Americas,Ecuador,2012,44
+Americas,Ecuador,2011,42
+Americas,Ecuador,2010,40
+Americas,Ecuador,2009,40
+Americas,Ecuador,2008,42
+Americas,Ecuador,2007,43
+Americas,Ecuador,2006,41
+Americas,Ecuador,2005,40
+Americas,Ecuador,2004,58
+Americas,Ecuador,2003,64
+Americas,Ecuador,2002,55
+Americas,Ecuador,2001,58
+Americas,Ecuador,2000,68
+Eastern Mediterranean,Egypt,2020,11
+Eastern Mediterranean,Egypt,2019,12
+Eastern Mediterranean,Egypt,2018,12
+Eastern Mediterranean,Egypt,2017,13
+Eastern Mediterranean,Egypt,2016,14
+Eastern Mediterranean,Egypt,2015,15
+Eastern Mediterranean,Egypt,2014,15
+Eastern Mediterranean,Egypt,2013,16
+Eastern Mediterranean,Egypt,2012,17
+Eastern Mediterranean,Egypt,2011,17
+Eastern Mediterranean,Egypt,2010,18
+Eastern Mediterranean,Egypt,2009,19
+Eastern Mediterranean,Egypt,2008,19
+Eastern Mediterranean,Egypt,2007,20
+Eastern Mediterranean,Egypt,2006,21
+Eastern Mediterranean,Egypt,2005,21
+Eastern Mediterranean,Egypt,2004,22
+Eastern Mediterranean,Egypt,2003,23
+Eastern Mediterranean,Egypt,2002,24
+Eastern Mediterranean,Egypt,2001,25
+Eastern Mediterranean,Egypt,2000,26
+Americas,El Salvador,2020,55
+Americas,El Salvador,2019,58
+Americas,El Salvador,2018,70
+Americas,El Salvador,2017,72
+Americas,El Salvador,2016,60
+Americas,El Salvador,2015,48
+Americas,El Salvador,2014,44
+Americas,El Salvador,2013,43
+Americas,El Salvador,2012,41
+Americas,El Salvador,2011,38
+Americas,El Salvador,2010,34
+Americas,El Salvador,2009,34
+Americas,El Salvador,2008,35
+Americas,El Salvador,2007,34
+Americas,El Salvador,2006,34
+Americas,El Salvador,2005,37
+Americas,El Salvador,2004,29
+Americas,El Salvador,2003,29
+Americas,El Salvador,2002,32
+Americas,El Salvador,2001,31
+Americas,El Salvador,2000,32
+Africa,Eq. Guinea,2020,280
+Africa,Eq. Guinea,2019,286
+Africa,Eq. Guinea,2018,254
+Africa,Eq. Guinea,2017,286
+Africa,Eq. Guinea,2016,294
+Africa,Eq. Guinea,2015,274
+Africa,Eq. Guinea,2014,260
+Africa,Eq. Guinea,2013,248
+Africa,Eq. Guinea,2012,236
+Africa,Eq. Guinea,2011,224
+Africa,Eq. Guinea,2010,217
+Africa,Eq. Guinea,2009,196
+Africa,Eq. Guinea,2008,209
+Africa,Eq. Guinea,2007,203
+Africa,Eq. Guinea,2006,198
+Africa,Eq. Guinea,2005,192
+Africa,Eq. Guinea,2004,187
+Africa,Eq. Guinea,2003,187
+Africa,Eq. Guinea,2002,187
+Africa,Eq. Guinea,2001,187
+Africa,Eq. Guinea,2000,187
+Africa,Eritrea,2020,81
+Africa,Eritrea,2019,86
+Africa,Eritrea,2018,89
+Africa,Eritrea,2017,99
+Africa,Eritrea,2016,108
+Africa,Eritrea,2015,102
+Africa,Eritrea,2014,119
+Africa,Eritrea,2013,144
+Africa,Eritrea,2012,160
+Africa,Eritrea,2011,157
+Africa,Eritrea,2010,149
+Africa,Eritrea,2009,154
+Africa,Eritrea,2008,160
+Africa,Eritrea,2007,200
+Africa,Eritrea,2006,171
+Africa,Eritrea,2005,209
+Africa,Eritrea,2004,257
+Africa,Eritrea,2003,299
+Africa,Eritrea,2002,173
+Africa,Eritrea,2001,175
+Africa,Eritrea,2000,177
+Europe,Estonia,2020,10
+Europe,Estonia,2019,13
+Europe,Estonia,2018,13
+Europe,Estonia,2017,15
+Europe,Estonia,2016,16
+Europe,Estonia,2015,18
+Europe,Estonia,2014,21
+Europe,Estonia,2013,23
+Europe,Estonia,2012,23
+Europe,Estonia,2011,25
+Europe,Estonia,2010,25
+Europe,Estonia,2009,31
+Europe,Estonia,2008,34
+Europe,Estonia,2007,39
+Europe,Estonia,2006,36
+Europe,Estonia,2005,41
+Europe,Estonia,2004,45
+Europe,Estonia,2003,49
+Europe,Estonia,2002,52
+Europe,Estonia,2001,59
+Europe,Estonia,2000,65
+Africa,eSwatini,2020,319
+Africa,eSwatini,2019,363
+Africa,eSwatini,2018,441
+Africa,eSwatini,2017,502
+Africa,eSwatini,2016,537
+Africa,eSwatini,2015,648
+Africa,eSwatini,2014,855
+Africa,eSwatini,2013,1030
+Africa,eSwatini,2012,1110
+Africa,eSwatini,2011,1300
+Africa,eSwatini,2010,1590
+Africa,eSwatini,2009,1590
+Africa,eSwatini,2008,1390
+Africa,eSwatini,2007,1430
+Africa,eSwatini,2006,1460
+Africa,eSwatini,2005,1420
+Africa,eSwatini,2004,1320
+Africa,eSwatini,2003,1270
+Africa,eSwatini,2002,1110
+Africa,eSwatini,2001,1010
+Africa,eSwatini,2000,981
+Africa,Ethiopia,2020,132
+Africa,Ethiopia,2019,140
+Africa,Ethiopia,2018,151
+Africa,Ethiopia,2017,164
+Africa,Ethiopia,2016,177
+Africa,Ethiopia,2015,192
+Africa,Ethiopia,2014,207
+Africa,Ethiopia,2013,224
+Africa,Ethiopia,2012,239
+Africa,Ethiopia,2011,253
+Africa,Ethiopia,2010,268
+Africa,Ethiopia,2009,282
+Africa,Ethiopia,2008,296
+Africa,Ethiopia,2007,310
+Africa,Ethiopia,2006,325
+Africa,Ethiopia,2005,341
+Africa,Ethiopia,2004,358
+Africa,Ethiopia,2003,376
+Africa,Ethiopia,2002,393
+Africa,Ethiopia,2001,409
+Africa,Ethiopia,2000,421
+Western Pacific,Fiji,2020,66
+Western Pacific,Fiji,2019,66
+Western Pacific,Fiji,2018,54
+Western Pacific,Fiji,2017,51
+Western Pacific,Fiji,2016,45
+Western Pacific,Fiji,2015,52
+Western Pacific,Fiji,2014,55
+Western Pacific,Fiji,2013,37
+Western Pacific,Fiji,2012,30
+Western Pacific,Fiji,2011,31
+Western Pacific,Fiji,2010,27
+Western Pacific,Fiji,2009,21
+Western Pacific,Fiji,2008,16
+Western Pacific,Fiji,2007,14
+Western Pacific,Fiji,2006,17
+Western Pacific,Fiji,2005,20
+Western Pacific,Fiji,2004,20
+Western Pacific,Fiji,2003,28
+Western Pacific,Fiji,2002,23
+Western Pacific,Fiji,2001,28
+Western Pacific,Fiji,2000,22
+Europe,Finland,2020,3.6
+Europe,Finland,2019,4.7
+Europe,Finland,2018,4.8
+Europe,Finland,2017,4.9
+Europe,Finland,2016,4.7
+Europe,Finland,2015,5.6
+Europe,Finland,2014,5.3
+Europe,Finland,2013,5.6
+Europe,Finland,2012,5.5
+Europe,Finland,2011,6.7
+Europe,Finland,2010,6.6
+Europe,Finland,2009,8.7
+Europe,Finland,2008,7.2
+Europe,Finland,2007,6.5
+Europe,Finland,2006,6.1
+Europe,Finland,2005,7.4
+Europe,Finland,2004,7
+Europe,Finland,2003,8.7
+Europe,Finland,2002,9.9
+Europe,Finland,2001,10
+Europe,Finland,2000,12
+Europe,France,2020,8.2
+Europe,France,2019,9
+Europe,France,2018,8.9
+Europe,France,2017,9
+Europe,France,2016,8.7
+Europe,France,2015,8.4
+Europe,France,2014,8.5
+Europe,France,2013,8.9
+Europe,France,2012,9
+Europe,France,2011,9
+Europe,France,2010,9.2
+Europe,France,2009,9.5
+Europe,France,2008,11
+Europe,France,2007,11
+Europe,France,2006,9.8
+Europe,France,2005,9.9
+Europe,France,2004,10
+Europe,France,2003,12
+Europe,France,2002,12
+Europe,France,2001,12
+Europe,France,2000,13
+Africa,Gabon,2020,527
+Africa,Gabon,2019,521
+Africa,Gabon,2018,525
+Africa,Gabon,2017,529
+Africa,Gabon,2016,533
+Africa,Gabon,2015,537
+Africa,Gabon,2014,541
+Africa,Gabon,2013,546
+Africa,Gabon,2012,550
+Africa,Gabon,2011,554
+Africa,Gabon,2010,559
+Africa,Gabon,2009,563
+Africa,Gabon,2008,567
+Africa,Gabon,2007,572
+Africa,Gabon,2006,576
+Africa,Gabon,2005,592
+Africa,Gabon,2004,596
+Africa,Gabon,2003,590
+Africa,Gabon,2002,574
+Africa,Gabon,2001,548
+Africa,Gabon,2000,515
+Africa,Gambia,2020,157
+Africa,Gambia,2019,158
+Africa,Gambia,2018,162
+Africa,Gambia,2017,166
+Africa,Gambia,2016,170
+Africa,Gambia,2015,173
+Africa,Gambia,2014,175
+Africa,Gambia,2013,176
+Africa,Gambia,2012,177
+Africa,Gambia,2011,178
+Africa,Gambia,2010,179
+Africa,Gambia,2009,180
+Africa,Gambia,2008,183
+Africa,Gambia,2007,186
+Africa,Gambia,2006,188
+Africa,Gambia,2005,190
+Africa,Gambia,2004,191
+Africa,Gambia,2003,191
+Africa,Gambia,2002,190
+Africa,Gambia,2001,189
+Africa,Gambia,2000,187
+Europe,Georgia,2020,70
+Europe,Georgia,2019,74
+Europe,Georgia,2018,80
+Europe,Georgia,2017,86
+Europe,Georgia,2016,92
+Europe,Georgia,2015,99
+Europe,Georgia,2014,106
+Europe,Georgia,2013,116
+Europe,Georgia,2012,119
+Europe,Georgia,2011,122
+Europe,Georgia,2010,127
+Europe,Georgia,2009,133
+Europe,Georgia,2008,140
+Europe,Georgia,2007,149
+Europe,Georgia,2006,161
+Europe,Georgia,2005,175
+Europe,Georgia,2004,192
+Europe,Georgia,2003,210
+Europe,Georgia,2002,228
+Europe,Georgia,2001,243
+Europe,Georgia,2000,254
+Europe,Germany,2020,5.5
+Europe,Germany,2019,6.4
+Europe,Germany,2018,7.3
+Europe,Germany,2017,7.4
+Europe,Germany,2016,8
+Europe,Germany,2015,8
+Europe,Germany,2014,6.1
+Europe,Germany,2013,5.9
+Europe,Germany,2012,5.7
+Europe,Germany,2011,5.8
+Europe,Germany,2010,5.8
+Europe,Germany,2009,5.9
+Europe,Germany,2008,5.9
+Europe,Germany,2007,6.6
+Europe,Germany,2006,7.3
+Europe,Germany,2005,8
+Europe,Germany,2004,8.7
+Europe,Germany,2003,9.9
+Europe,Germany,2002,9.8
+Europe,Germany,2001,9.8
+Europe,Germany,2000,13
+Africa,Ghana,2020,143
+Africa,Ghana,2019,144
+Africa,Ghana,2018,148
+Africa,Ghana,2017,152
+Africa,Ghana,2016,156
+Africa,Ghana,2015,160
+Africa,Ghana,2014,165
+Africa,Ghana,2013,168
+Africa,Ghana,2012,173
+Africa,Ghana,2011,178
+Africa,Ghana,2010,183
+Africa,Ghana,2009,187
+Africa,Ghana,2008,191
+Africa,Ghana,2007,196
+Africa,Ghana,2006,199
+Africa,Ghana,2005,203
+Africa,Ghana,2004,206
+Africa,Ghana,2003,209
+Africa,Ghana,2002,212
+Africa,Ghana,2001,214
+Africa,Ghana,2000,216
+Europe,Greece,2020,4.5
+Europe,Greece,2019,4.8
+Europe,Greece,2018,4.4
+Europe,Greece,2017,4.7
+Europe,Greece,2016,4.4
+Europe,Greece,2015,4.7
+Europe,Greece,2014,5.2
+Europe,Greece,2013,5.3
+Europe,Greece,2012,5.5
+Europe,Greece,2011,4.8
+Europe,Greece,2010,4.7
+Europe,Greece,2009,5.7
+Europe,Greece,2008,6.1
+Europe,Greece,2007,6.4
+Europe,Greece,2006,6.4
+Europe,Greece,2005,7.1
+Europe,Greece,2004,7.5
+Europe,Greece,2003,6.1
+Europe,Greece,2002,5.9
+Europe,Greece,2001,5.2
+Europe,Greece,2000,7.3
+Americas,Grenada,2020,2.8
+Americas,Grenada,2019,3.1
+Americas,Grenada,2018,2.1
+Americas,Grenada,2017,3.1
+Americas,Grenada,2016,6.3
+Americas,Grenada,2015,5.2
+Americas,Grenada,2014,0
+Americas,Grenada,2013,0.54
+Americas,Grenada,2012,1.1
+Americas,Grenada,2011,2.2
+Americas,Grenada,2010,4.3
+Americas,Grenada,2009,5.4
+Americas,Grenada,2008,5.5
+Americas,Grenada,2007,3.3
+Americas,Grenada,2006,1.1
+Americas,Grenada,2005,1.7
+Americas,Grenada,2004,2.2
+Americas,Grenada,2003,2.2
+Americas,Grenada,2002,1.1
+Americas,Grenada,2001,0.55
+Americas,Grenada,2000,0
+Americas,Guatemala,2020,27
+Americas,Guatemala,2019,26
+Americas,Guatemala,2018,26
+Americas,Guatemala,2017,25
+Americas,Guatemala,2016,24
+Americas,Guatemala,2015,26
+Americas,Guatemala,2014,25
+Americas,Guatemala,2013,27
+Americas,Guatemala,2012,28
+Americas,Guatemala,2011,25
+Americas,Guatemala,2010,28
+Americas,Guatemala,2009,25
+Americas,Guatemala,2008,29
+Americas,Guatemala,2007,29
+Americas,Guatemala,2006,34
+Americas,Guatemala,2005,36
+Americas,Guatemala,2004,32
+Americas,Guatemala,2003,26
+Americas,Guatemala,2002,30
+Americas,Guatemala,2001,25
+Americas,Guatemala,2000,31
+Africa,Guinea,2020,179
+Africa,Guinea,2019,176
+Africa,Guinea,2018,176
+Africa,Guinea,2017,176
+Africa,Guinea,2016,176
+Africa,Guinea,2015,177
+Africa,Guinea,2014,177
+Africa,Guinea,2013,177
+Africa,Guinea,2012,180
+Africa,Guinea,2011,183
+Africa,Guinea,2010,186
+Africa,Guinea,2009,190
+Africa,Guinea,2008,195
+Africa,Guinea,2007,200
+Africa,Guinea,2006,206
+Africa,Guinea,2005,210
+Africa,Guinea,2004,214
+Africa,Guinea,2003,218
+Africa,Guinea,2002,221
+Africa,Guinea,2001,224
+Africa,Guinea,2000,228
+Africa,Guinea-Bissau,2020,361
+Africa,Guinea-Bissau,2019,361
+Africa,Guinea-Bissau,2018,361
+Africa,Guinea-Bissau,2017,361
+Africa,Guinea-Bissau,2016,361
+Africa,Guinea-Bissau,2015,361
+Africa,Guinea-Bissau,2014,361
+Africa,Guinea-Bissau,2013,361
+Africa,Guinea-Bissau,2012,361
+Africa,Guinea-Bissau,2011,361
+Africa,Guinea-Bissau,2010,361
+Africa,Guinea-Bissau,2009,361
+Africa,Guinea-Bissau,2008,361
+Africa,Guinea-Bissau,2007,361
+Africa,Guinea-Bissau,2006,361
+Africa,Guinea-Bissau,2005,361
+Africa,Guinea-Bissau,2004,353
+Africa,Guinea-Bissau,2003,342
+Africa,Guinea-Bissau,2002,330
+Africa,Guinea-Bissau,2001,317
+Africa,Guinea-Bissau,2000,305
+Americas,Guyana,2020,79
+Americas,Guyana,2019,79
+Americas,Guyana,2018,83
+Americas,Guyana,2017,84
+Americas,Guyana,2016,94
+Americas,Guyana,2015,93
+Americas,Guyana,2014,89
+Americas,Guyana,2013,112
+Americas,Guyana,2012,124
+Americas,Guyana,2011,118
+Americas,Guyana,2010,119
+Americas,Guyana,2009,128
+Americas,Guyana,2008,109
+Americas,Guyana,2007,99
+Americas,Guyana,2006,119
+Americas,Guyana,2005,107
+Americas,Guyana,2004,101
+Americas,Guyana,2003,106
+Americas,Guyana,2002,99
+Americas,Guyana,2001,71
+Americas,Guyana,2000,71
+Americas,Haiti,2020,168
+Americas,Haiti,2019,170
+Americas,Haiti,2018,176
+Americas,Haiti,2017,181
+Americas,Haiti,2016,188
+Americas,Haiti,2015,194
+Americas,Haiti,2014,200
+Americas,Haiti,2013,206
+Americas,Haiti,2012,213
+Americas,Haiti,2011,220
+Americas,Haiti,2010,229
+Americas,Haiti,2009,238
+Americas,Haiti,2008,248
+Americas,Haiti,2007,257
+Americas,Haiti,2006,266
+Americas,Haiti,2005,272
+Americas,Haiti,2004,276
+Americas,Haiti,2003,277
+Americas,Haiti,2002,277
+Americas,Haiti,2001,274
+Americas,Haiti,2000,270
+Americas,Honduras,2020,30
+Americas,Honduras,2019,31
+Americas,Honduras,2018,37
+Americas,Honduras,2017,37
+Americas,Honduras,2016,39
+Americas,Honduras,2015,40
+Americas,Honduras,2014,39
+Americas,Honduras,2013,42
+Americas,Honduras,2012,44
+Americas,Honduras,2011,48
+Americas,Honduras,2010,43
+Americas,Honduras,2009,45
+Americas,Honduras,2008,44
+Americas,Honduras,2007,44
+Americas,Honduras,2006,52
+Americas,Honduras,2005,56
+Americas,Honduras,2004,62
+Americas,Honduras,2003,71
+Americas,Honduras,2002,81
+Americas,Honduras,2001,93
+Americas,Honduras,2000,122
+Europe,Hungary,2020,4.6
+Europe,Hungary,2019,6.3
+Europe,Hungary,2018,7.1
+Europe,Hungary,2017,7.7
+Europe,Hungary,2016,8.7
+Europe,Hungary,2015,10
+Europe,Hungary,2014,9.4
+Europe,Hungary,2013,12
+Europe,Hungary,2012,14
+Europe,Hungary,2011,15
+Europe,Hungary,2010,18
+Europe,Hungary,2009,15
+Europe,Hungary,2008,16
+Europe,Hungary,2007,18
+Europe,Hungary,2006,19
+Europe,Hungary,2005,21
+Europe,Hungary,2004,26
+Europe,Hungary,2003,31
+Europe,Hungary,2002,31
+Europe,Hungary,2001,33
+Europe,Hungary,2000,35
+Europe,Iceland,2020,2.8
+Europe,Iceland,2019,4.4
+Europe,Iceland,2018,2.7
+Europe,Iceland,2017,4.5
+Europe,Iceland,2016,2.1
+Europe,Iceland,2015,2.4
+Europe,Iceland,2014,2.8
+Europe,Iceland,2013,3.9
+Europe,Iceland,2012,3.5
+Europe,Iceland,2011,2.8
+Europe,Iceland,2010,7.9
+Europe,Iceland,2009,3.3
+Europe,Iceland,2008,2.2
+Europe,Iceland,2007,4.5
+Europe,Iceland,2006,5
+Europe,Iceland,2005,3.9
+Europe,Iceland,2004,4.3
+Europe,Iceland,2003,2
+Europe,Iceland,2002,3.2
+Europe,Iceland,2001,4.9
+Europe,Iceland,2000,5.3
+South-East Asia,India,2020,188
+South-East Asia,India,2019,193
+South-East Asia,India,2018,199
+South-East Asia,India,2017,204
+South-East Asia,India,2016,211
+South-East Asia,India,2015,217
+South-East Asia,India,2014,223
+South-East Asia,India,2013,228
+South-East Asia,India,2012,234
+South-East Asia,India,2011,241
+South-East Asia,India,2010,247
+South-East Asia,India,2009,254
+South-East Asia,India,2008,261
+South-East Asia,India,2007,268
+South-East Asia,India,2006,274
+South-East Asia,India,2005,279
+South-East Asia,India,2004,282
+South-East Asia,India,2003,285
+South-East Asia,India,2002,287
+South-East Asia,India,2001,288
+South-East Asia,India,2000,289
+South-East Asia,Indonesia,2020,301
+South-East Asia,Indonesia,2019,312
+South-East Asia,Indonesia,2018,316
+South-East Asia,Indonesia,2017,319
+South-East Asia,Indonesia,2016,322
+South-East Asia,Indonesia,2015,325
+South-East Asia,Indonesia,2014,329
+South-East Asia,Indonesia,2013,332
+South-East Asia,Indonesia,2012,335
+South-East Asia,Indonesia,2011,338
+South-East Asia,Indonesia,2010,342
+South-East Asia,Indonesia,2009,345
+South-East Asia,Indonesia,2008,349
+South-East Asia,Indonesia,2007,353
+South-East Asia,Indonesia,2006,357
+South-East Asia,Indonesia,2005,360
+South-East Asia,Indonesia,2004,363
+South-East Asia,Indonesia,2003,366
+South-East Asia,Indonesia,2002,367
+South-East Asia,Indonesia,2001,369
+South-East Asia,Indonesia,2000,370
+Eastern Mediterranean,Iran,2020,13
+Eastern Mediterranean,Iran,2019,13
+Eastern Mediterranean,Iran,2018,14
+Eastern Mediterranean,Iran,2017,14
+Eastern Mediterranean,Iran,2016,15
+Eastern Mediterranean,Iran,2015,16
+Eastern Mediterranean,Iran,2014,16
+Eastern Mediterranean,Iran,2013,18
+Eastern Mediterranean,Iran,2012,18
+Eastern Mediterranean,Iran,2011,18
+Eastern Mediterranean,Iran,2010,18
+Eastern Mediterranean,Iran,2009,17
+Eastern Mediterranean,Iran,2008,16
+Eastern Mediterranean,Iran,2007,16
+Eastern Mediterranean,Iran,2006,17
+Eastern Mediterranean,Iran,2005,17
+Eastern Mediterranean,Iran,2004,18
+Eastern Mediterranean,Iran,2003,20
+Eastern Mediterranean,Iran,2002,21
+Eastern Mediterranean,Iran,2001,22
+Eastern Mediterranean,Iran,2000,23
+Eastern Mediterranean,Iraq,2020,27
+Eastern Mediterranean,Iraq,2019,28
+Eastern Mediterranean,Iraq,2018,31
+Eastern Mediterranean,Iraq,2017,33
+Eastern Mediterranean,Iraq,2016,35
+Eastern Mediterranean,Iraq,2015,37
+Eastern Mediterranean,Iraq,2014,39
+Eastern Mediterranean,Iraq,2013,41
+Eastern Mediterranean,Iraq,2012,43
+Eastern Mediterranean,Iraq,2011,44
+Eastern Mediterranean,Iraq,2010,45
+Eastern Mediterranean,Iraq,2009,46
+Eastern Mediterranean,Iraq,2008,47
+Eastern Mediterranean,Iraq,2007,47
+Eastern Mediterranean,Iraq,2006,48
+Eastern Mediterranean,Iraq,2005,48
+Eastern Mediterranean,Iraq,2004,49
+Eastern Mediterranean,Iraq,2003,49
+Eastern Mediterranean,Iraq,2002,49
+Eastern Mediterranean,Iraq,2001,50
+Eastern Mediterranean,Iraq,2000,50
+Europe,Ireland,2020,5.3
+Europe,Ireland,2019,5.8
+Europe,Ireland,2018,7
+Europe,Ireland,2017,7.3
+Europe,Ireland,2016,7.2
+Europe,Ireland,2015,7.3
+Europe,Ireland,2014,7.4
+Europe,Ireland,2013,8.9
+Europe,Ireland,2012,8.5
+Europe,Ireland,2011,9.7
+Europe,Ireland,2010,9.8
+Europe,Ireland,2009,11
+Europe,Ireland,2008,11
+Europe,Ireland,2007,12
+Europe,Ireland,2006,12
+Europe,Ireland,2005,12
+Europe,Ireland,2004,12
+Europe,Ireland,2003,12
+Europe,Ireland,2002,11
+Europe,Ireland,2001,12
+Europe,Ireland,2000,12
+Europe,Israel,2020,2.1
+Europe,Israel,2019,2.9
+Europe,Israel,2018,4
+Europe,Israel,2017,3.3
+Europe,Israel,2016,3.5
+Europe,Israel,2015,4
+Europe,Israel,2014,5.3
+Europe,Israel,2013,4.6
+Europe,Israel,2012,7.6
+Europe,Israel,2011,6.3
+Europe,Israel,2010,5.3
+Europe,Israel,2009,5.6
+Europe,Israel,2008,5.3
+Europe,Israel,2007,6.7
+Europe,Israel,2006,5.9
+Europe,Israel,2005,6.5
+Europe,Israel,2004,8.2
+Europe,Israel,2003,8.6
+Europe,Israel,2002,8.7
+Europe,Israel,2001,9.7
+Europe,Israel,2000,10
+Europe,Italy,2020,6.6
+Europe,Italy,2019,6
+Europe,Italy,2018,7.2
+Europe,Italy,2017,7.3
+Europe,Italy,2016,7.2
+Europe,Italy,2015,6.6
+Europe,Italy,2014,6.6
+Europe,Italy,2013,5.8
+Europe,Italy,2012,5.9
+Europe,Italy,2011,6.6
+Europe,Italy,2010,8.8
+Europe,Italy,2009,8
+Europe,Italy,2008,8.1
+Europe,Italy,2007,5.4
+Europe,Italy,2006,8.1
+Europe,Italy,2005,7.6
+Europe,Italy,2004,7.9
+Europe,Italy,2003,8.7
+Europe,Italy,2002,7.9
+Europe,Italy,2001,8.7
+Europe,Italy,2000,7.1
+Americas,Jamaica,2020,2.4
+Americas,Jamaica,2019,3.2
+Americas,Jamaica,2018,3.5
+Americas,Jamaica,2017,5.2
+Americas,Jamaica,2016,4.4
+Americas,Jamaica,2015,4.5
+Americas,Jamaica,2014,3.7
+Americas,Jamaica,2013,4.2
+Americas,Jamaica,2012,4
+Americas,Jamaica,2011,4.6
+Americas,Jamaica,2010,5.8
+Americas,Jamaica,2009,6.2
+Americas,Jamaica,2008,4.7
+Americas,Jamaica,2007,4.7
+Americas,Jamaica,2006,4.3
+Americas,Jamaica,2005,4.1
+Americas,Jamaica,2004,5.3
+Americas,Jamaica,2003,5.5
+Americas,Jamaica,2002,4.9
+Americas,Jamaica,2001,5.7
+Americas,Jamaica,2000,6
+Western Pacific,Japan,2020,12
+Western Pacific,Japan,2019,13
+Western Pacific,Japan,2018,14
+Western Pacific,Japan,2017,15
+Western Pacific,Japan,2016,16
+Western Pacific,Japan,2015,16
+Western Pacific,Japan,2014,18
+Western Pacific,Japan,2013,18
+Western Pacific,Japan,2012,19
+Western Pacific,Japan,2011,20
+Western Pacific,Japan,2010,20
+Western Pacific,Japan,2009,21
+Western Pacific,Japan,2008,22
+Western Pacific,Japan,2007,22
+Western Pacific,Japan,2006,23
+Western Pacific,Japan,2005,24
+Western Pacific,Japan,2004,27
+Western Pacific,Japan,2003,28
+Western Pacific,Japan,2002,30
+Western Pacific,Japan,2001,32
+Western Pacific,Japan,2000,36
+Eastern Mediterranean,Jordan,2020,4.7
+Eastern Mediterranean,Jordan,2019,5.5
+Eastern Mediterranean,Jordan,2018,5
+Eastern Mediterranean,Jordan,2017,6.7
+Eastern Mediterranean,Jordan,2016,5.4
+Eastern Mediterranean,Jordan,2015,5.7
+Eastern Mediterranean,Jordan,2014,5.4
+Eastern Mediterranean,Jordan,2013,5.1
+Eastern Mediterranean,Jordan,2012,5.1
+Eastern Mediterranean,Jordan,2011,5.4
+Eastern Mediterranean,Jordan,2010,5.8
+Eastern Mediterranean,Jordan,2009,6.7
+Eastern Mediterranean,Jordan,2008,6.8
+Eastern Mediterranean,Jordan,2007,6.7
+Eastern Mediterranean,Jordan,2006,7.8
+Eastern Mediterranean,Jordan,2005,8
+Eastern Mediterranean,Jordan,2004,7.3
+Eastern Mediterranean,Jordan,2003,7.4
+Eastern Mediterranean,Jordan,2002,7.3
+Eastern Mediterranean,Jordan,2001,8.2
+Eastern Mediterranean,Jordan,2000,7.5
+Europe,Kazakhstan,2020,69
+Europe,Kazakhstan,2019,68
+Europe,Kazakhstan,2018,67
+Europe,Kazakhstan,2017,69
+Europe,Kazakhstan,2016,73
+Europe,Kazakhstan,2015,81
+Europe,Kazakhstan,2014,91
+Europe,Kazakhstan,2013,106
+Europe,Kazakhstan,2012,122
+Europe,Kazakhstan,2011,135
+Europe,Kazakhstan,2010,144
+Europe,Kazakhstan,2009,152
+Europe,Kazakhstan,2008,158
+Europe,Kazakhstan,2007,164
+Europe,Kazakhstan,2006,175
+Europe,Kazakhstan,2005,187
+Europe,Kazakhstan,2004,195
+Europe,Kazakhstan,2003,196
+Europe,Kazakhstan,2002,193
+Europe,Kazakhstan,2001,185
+Europe,Kazakhstan,2000,171
+Africa,Kenya,2020,259
+Africa,Kenya,2019,267
+Africa,Kenya,2018,292
+Africa,Kenya,2017,319
+Africa,Kenya,2016,348
+Africa,Kenya,2015,380
+Africa,Kenya,2014,423
+Africa,Kenya,2013,443
+Africa,Kenya,2012,471
+Africa,Kenya,2011,506
+Africa,Kenya,2010,531
+Africa,Kenya,2009,566
+Africa,Kenya,2008,564
+Africa,Kenya,2007,618
+Africa,Kenya,2006,646
+Africa,Kenya,2005,630
+Africa,Kenya,2004,634
+Africa,Kenya,2003,610
+Africa,Kenya,2002,534
+Africa,Kenya,2001,499
+Africa,Kenya,2000,451
+Western Pacific,Kiribati,2020,425
+Western Pacific,Kiribati,2019,436
+Western Pacific,Kiribati,2018,349
+Western Pacific,Kiribati,2017,422
+Western Pacific,Kiribati,2016,575
+Western Pacific,Kiribati,2015,559
+Western Pacific,Kiribati,2014,473
+Western Pacific,Kiribati,2013,472
+Western Pacific,Kiribati,2012,407
+Western Pacific,Kiribati,2011,409
+Western Pacific,Kiribati,2010,347
+Western Pacific,Kiribati,2009,344
+Western Pacific,Kiribati,2008,424
+Western Pacific,Kiribati,2007,433
+Western Pacific,Kiribati,2006,501
+Western Pacific,Kiribati,2005,450
+Western Pacific,Kiribati,2004,428
+Western Pacific,Kiribati,2003,400
+Western Pacific,Kiribati,2002,281
+Western Pacific,Kiribati,2001,275
+Western Pacific,Kiribati,2000,373
+Eastern Mediterranean,Kuwait,2020,19
+Eastern Mediterranean,Kuwait,2019,22
+Eastern Mediterranean,Kuwait,2018,23
+Eastern Mediterranean,Kuwait,2017,28
+Eastern Mediterranean,Kuwait,2016,24
+Eastern Mediterranean,Kuwait,2015,22
+Eastern Mediterranean,Kuwait,2014,23
+Eastern Mediterranean,Kuwait,2013,23
+Eastern Mediterranean,Kuwait,2012,25
+Eastern Mediterranean,Kuwait,2011,24
+Eastern Mediterranean,Kuwait,2010,37
+Eastern Mediterranean,Kuwait,2009,38
+Eastern Mediterranean,Kuwait,2008,38
+Eastern Mediterranean,Kuwait,2007,30
+Eastern Mediterranean,Kuwait,2006,31
+Eastern Mediterranean,Kuwait,2005,26
+Eastern Mediterranean,Kuwait,2004,29
+Eastern Mediterranean,Kuwait,2003,30
+Eastern Mediterranean,Kuwait,2002,31
+Eastern Mediterranean,Kuwait,2001,27
+Eastern Mediterranean,Kuwait,2000,29
+Europe,Kyrgyzstan,2020,105
+Europe,Kyrgyzstan,2019,110
+Europe,Kyrgyzstan,2018,116
+Europe,Kyrgyzstan,2017,124
+Europe,Kyrgyzstan,2016,133
+Europe,Kyrgyzstan,2015,136
+Europe,Kyrgyzstan,2014,126
+Europe,Kyrgyzstan,2013,142
+Europe,Kyrgyzstan,2012,127
+Europe,Kyrgyzstan,2011,125
+Europe,Kyrgyzstan,2010,120
+Europe,Kyrgyzstan,2009,128
+Europe,Kyrgyzstan,2008,148
+Europe,Kyrgyzstan,2007,135
+Europe,Kyrgyzstan,2006,139
+Europe,Kyrgyzstan,2005,143
+Europe,Kyrgyzstan,2004,139
+Europe,Kyrgyzstan,2003,146
+Europe,Kyrgyzstan,2002,152
+Europe,Kyrgyzstan,2001,154
+Europe,Kyrgyzstan,2000,145
+Western Pacific,Laos,2020,149
+Western Pacific,Laos,2019,155
+Western Pacific,Laos,2018,162
+Western Pacific,Laos,2017,168
+Western Pacific,Laos,2016,175
+Western Pacific,Laos,2015,182
+Western Pacific,Laos,2014,189
+Western Pacific,Laos,2013,197
+Western Pacific,Laos,2012,204
+Western Pacific,Laos,2011,213
+Western Pacific,Laos,2010,221
+Western Pacific,Laos,2009,230
+Western Pacific,Laos,2008,240
+Western Pacific,Laos,2007,249
+Western Pacific,Laos,2006,260
+Western Pacific,Laos,2005,270
+Western Pacific,Laos,2004,282
+Western Pacific,Laos,2003,293
+Western Pacific,Laos,2002,305
+Western Pacific,Laos,2001,317
+Western Pacific,Laos,2000,330
+Europe,Latvia,2020,23
+Europe,Latvia,2019,26
+Europe,Latvia,2018,29
+Europe,Latvia,2017,32
+Europe,Latvia,2016,37
+Europe,Latvia,2015,40
+Europe,Latvia,2014,42
+Europe,Latvia,2013,49
+Europe,Latvia,2012,53
+Europe,Latvia,2011,47
+Europe,Latvia,2010,50
+Europe,Latvia,2009,51
+Europe,Latvia,2008,55
+Europe,Latvia,2007,64
+Europe,Latvia,2006,67
+Europe,Latvia,2005,72
+Europe,Latvia,2004,80
+Europe,Latvia,2003,84
+Europe,Latvia,2002,89
+Europe,Latvia,2001,98
+Europe,Latvia,2000,96
+Eastern Mediterranean,Lebanon,2020,13
+Eastern Mediterranean,Lebanon,2019,13
+Eastern Mediterranean,Lebanon,2018,11
+Eastern Mediterranean,Lebanon,2017,10
+Eastern Mediterranean,Lebanon,2016,11
+Eastern Mediterranean,Lebanon,2015,12
+Eastern Mediterranean,Lebanon,2014,12
+Eastern Mediterranean,Lebanon,2013,13
+Eastern Mediterranean,Lebanon,2012,13
+Eastern Mediterranean,Lebanon,2011,11
+Eastern Mediterranean,Lebanon,2010,12
+Eastern Mediterranean,Lebanon,2009,12
+Eastern Mediterranean,Lebanon,2008,13
+Eastern Mediterranean,Lebanon,2007,11
+Eastern Mediterranean,Lebanon,2006,9.1
+Eastern Mediterranean,Lebanon,2005,9.6
+Eastern Mediterranean,Lebanon,2004,9.9
+Eastern Mediterranean,Lebanon,2003,10
+Eastern Mediterranean,Lebanon,2002,12
+Eastern Mediterranean,Lebanon,2001,15
+Eastern Mediterranean,Lebanon,2000,17
+Africa,Lesotho,2020,650
+Africa,Lesotho,2019,654
+Africa,Lesotho,2018,659
+Africa,Lesotho,2017,681
+Africa,Lesotho,2016,721
+Africa,Lesotho,2015,780
+Africa,Lesotho,2014,853
+Africa,Lesotho,2013,948
+Africa,Lesotho,2012,1040
+Africa,Lesotho,2011,1120
+Africa,Lesotho,2010,1180
+Africa,Lesotho,2009,1230
+Africa,Lesotho,2008,1240
+Africa,Lesotho,2007,1230
+Africa,Lesotho,2006,1230
+Africa,Lesotho,2005,1200
+Africa,Lesotho,2004,1150
+Africa,Lesotho,2003,1080
+Africa,Lesotho,2002,1010
+Africa,Lesotho,2001,923
+Africa,Lesotho,2000,827
+Africa,Liberia,2020,314
+Africa,Liberia,2019,308
+Africa,Liberia,2018,308
+Africa,Liberia,2017,308
+Africa,Liberia,2016,308
+Africa,Liberia,2015,308
+Africa,Liberia,2014,308
+Africa,Liberia,2013,308
+Africa,Liberia,2012,304
+Africa,Liberia,2011,299
+Africa,Liberia,2010,293
+Africa,Liberia,2009,288
+Africa,Liberia,2008,282
+Africa,Liberia,2007,277
+Africa,Liberia,2006,272
+Africa,Liberia,2005,267
+Africa,Liberia,2004,262
+Africa,Liberia,2003,256
+Africa,Liberia,2002,250
+Africa,Liberia,2001,245
+Africa,Liberia,2000,240
+Eastern Mediterranean,Libya,2020,59
+Eastern Mediterranean,Libya,2019,59
+Eastern Mediterranean,Libya,2018,40
+Eastern Mediterranean,Libya,2017,40
+Eastern Mediterranean,Libya,2016,40
+Eastern Mediterranean,Libya,2015,40
+Eastern Mediterranean,Libya,2014,40
+Eastern Mediterranean,Libya,2013,40
+Eastern Mediterranean,Libya,2012,40
+Eastern Mediterranean,Libya,2011,40
+Eastern Mediterranean,Libya,2010,40
+Eastern Mediterranean,Libya,2009,40
+Eastern Mediterranean,Libya,2008,40
+Eastern Mediterranean,Libya,2007,40
+Eastern Mediterranean,Libya,2006,40
+Eastern Mediterranean,Libya,2005,40
+Eastern Mediterranean,Libya,2004,40
+Eastern Mediterranean,Libya,2003,40
+Eastern Mediterranean,Libya,2002,40
+Eastern Mediterranean,Libya,2001,40
+Eastern Mediterranean,Libya,2000,40
+Europe,Lithuania,2020,29
+Europe,Lithuania,2019,42
+Europe,Lithuania,2018,44
+Europe,Lithuania,2017,51
+Europe,Lithuania,2016,54
+Europe,Lithuania,2015,55
+Europe,Lithuania,2014,57
+Europe,Lithuania,2013,60
+Europe,Lithuania,2012,62
+Europe,Lithuania,2011,65
+Europe,Lithuania,2010,64
+Europe,Lithuania,2009,69
+Europe,Lithuania,2008,75
+Europe,Lithuania,2007,79
+Europe,Lithuania,2006,82
+Europe,Lithuania,2005,73
+Europe,Lithuania,2004,69
+Europe,Lithuania,2003,88
+Europe,Lithuania,2002,81
+Europe,Lithuania,2001,86
+Europe,Lithuania,2000,87
+Europe,Luxembourg,2020,5.9
+Europe,Luxembourg,2019,9
+Europe,Luxembourg,2018,8
+Europe,Luxembourg,2017,6.2
+Europe,Luxembourg,2016,5.8
+Europe,Luxembourg,2015,6.1
+Europe,Luxembourg,2014,5
+Europe,Luxembourg,2013,8.1
+Europe,Luxembourg,2012,9.7
+Europe,Luxembourg,2011,5.5
+Europe,Luxembourg,2010,6.6
+Europe,Luxembourg,2009,6.3
+Europe,Luxembourg,2008,6.6
+Europe,Luxembourg,2007,9.4
+Europe,Luxembourg,2006,8.2
+Europe,Luxembourg,2005,9.3
+Europe,Luxembourg,2004,7.9
+Europe,Luxembourg,2003,14
+Europe,Luxembourg,2002,8
+Europe,Luxembourg,2001,8.1
+Europe,Luxembourg,2000,12
+Africa,Madagascar,2020,238
+Africa,Madagascar,2019,233
+Africa,Madagascar,2018,233
+Africa,Madagascar,2017,233
+Africa,Madagascar,2016,233
+Africa,Madagascar,2015,233
+Africa,Madagascar,2014,233
+Africa,Madagascar,2013,233
+Africa,Madagascar,2012,236
+Africa,Madagascar,2011,238
+Africa,Madagascar,2010,241
+Africa,Madagascar,2009,244
+Africa,Madagascar,2008,248
+Africa,Madagascar,2007,252
+Africa,Madagascar,2006,257
+Africa,Madagascar,2005,262
+Africa,Madagascar,2004,268
+Africa,Madagascar,2003,273
+Africa,Madagascar,2002,280
+Africa,Madagascar,2001,286
+Africa,Madagascar,2000,293
+Africa,Malawi,2020,141
+Africa,Malawi,2019,146
+Africa,Malawi,2018,153
+Africa,Malawi,2017,162
+Africa,Malawi,2016,176
+Africa,Malawi,2015,197
+Africa,Malawi,2014,228
+Africa,Malawi,2013,261
+Africa,Malawi,2012,291
+Africa,Malawi,2011,316
+Africa,Malawi,2010,338
+Africa,Malawi,2009,356
+Africa,Malawi,2008,371
+Africa,Malawi,2007,383
+Africa,Malawi,2006,392
+Africa,Malawi,2005,398
+Africa,Malawi,2004,402
+Africa,Malawi,2003,403
+Africa,Malawi,2002,401
+Africa,Malawi,2001,395
+Africa,Malawi,2000,386
+Western Pacific,Malaysia,2020,92
+Western Pacific,Malaysia,2019,92
+Western Pacific,Malaysia,2018,92
+Western Pacific,Malaysia,2017,94
+Western Pacific,Malaysia,2016,94
+Western Pacific,Malaysia,2015,90
+Western Pacific,Malaysia,2014,93
+Western Pacific,Malaysia,2013,91
+Western Pacific,Malaysia,2012,86
+Western Pacific,Malaysia,2011,80
+Western Pacific,Malaysia,2010,75
+Western Pacific,Malaysia,2009,72
+Western Pacific,Malaysia,2008,72
+Western Pacific,Malaysia,2007,69
+Western Pacific,Malaysia,2006,70
+Western Pacific,Malaysia,2005,69
+Western Pacific,Malaysia,2004,68
+Western Pacific,Malaysia,2003,73
+Western Pacific,Malaysia,2002,68
+Western Pacific,Malaysia,2001,72
+Western Pacific,Malaysia,2000,75
+South-East Asia,Maldives,2020,37
+South-East Asia,Maldives,2019,36
+South-East Asia,Maldives,2018,33
+South-East Asia,Maldives,2017,34
+South-East Asia,Maldives,2016,44
+South-East Asia,Maldives,2015,42
+South-East Asia,Maldives,2014,36
+South-East Asia,Maldives,2013,34
+South-East Asia,Maldives,2012,35
+South-East Asia,Maldives,2011,29
+South-East Asia,Maldives,2010,32
+South-East Asia,Maldives,2009,35
+South-East Asia,Maldives,2008,44
+South-East Asia,Maldives,2007,47
+South-East Asia,Maldives,2006,38
+South-East Asia,Maldives,2005,48
+South-East Asia,Maldives,2004,48
+South-East Asia,Maldives,2003,57
+South-East Asia,Maldives,2002,53
+South-East Asia,Maldives,2001,61
+South-East Asia,Maldives,2000,59
+Africa,Mali,2020,52
+Africa,Mali,2019,52
+Africa,Mali,2018,53
+Africa,Mali,2017,55
+Africa,Mali,2016,56
+Africa,Mali,2015,57
+Africa,Mali,2014,58
+Africa,Mali,2013,60
+Africa,Mali,2012,61
+Africa,Mali,2011,62
+Africa,Mali,2010,63
+Africa,Mali,2009,64
+Africa,Mali,2008,65
+Africa,Mali,2007,66
+Africa,Mali,2006,68
+Africa,Mali,2005,69
+Africa,Mali,2004,71
+Africa,Mali,2003,73
+Africa,Mali,2002,74
+Africa,Mali,2001,76
+Africa,Mali,2000,77
+Europe,Malta,2020,36
+Europe,Malta,2019,26
+Europe,Malta,2018,14
+Europe,Malta,2017,11
+Europe,Malta,2016,13
+Europe,Malta,2015,8.5
+Europe,Malta,2014,12
+Europe,Malta,2013,13
+Europe,Malta,2012,11
+Europe,Malta,2011,8.3
+Europe,Malta,2010,8.1
+Europe,Malta,2009,12
+Europe,Malta,2008,13
+Europe,Malta,2007,11
+Europe,Malta,2006,8.5
+Europe,Malta,2005,6.3
+Europe,Malta,2004,5.1
+Europe,Malta,2003,2
+Europe,Malta,2002,6.9
+Europe,Malta,2001,4.6
+Europe,Malta,2000,4.7
+Western Pacific,Marshall Islands,2020,483
+Western Pacific,Marshall Islands,2019,483
+Western Pacific,Marshall Islands,2018,918
+Western Pacific,Marshall Islands,2017,439
+Western Pacific,Marshall Islands,2016,388
+Western Pacific,Marshall Islands,2015,300
+Western Pacific,Marshall Islands,2014,310
+Western Pacific,Marshall Islands,2013,327
+Western Pacific,Marshall Islands,2012,320
+Western Pacific,Marshall Islands,2011,307
+Western Pacific,Marshall Islands,2010,428
+Western Pacific,Marshall Islands,2009,313
+Western Pacific,Marshall Islands,2008,278
+Western Pacific,Marshall Islands,2007,352
+Western Pacific,Marshall Islands,2006,312
+Western Pacific,Marshall Islands,2005,251
+Western Pacific,Marshall Islands,2004,268
+Western Pacific,Marshall Islands,2003,140
+Western Pacific,Marshall Islands,2002,122
+Western Pacific,Marshall Islands,2001,136
+Western Pacific,Marshall Islands,2000,84
+Africa,Mauritania,2020,87
+Africa,Mauritania,2019,89
+Africa,Mauritania,2018,93
+Africa,Mauritania,2017,97
+Africa,Mauritania,2016,102
+Africa,Mauritania,2015,107
+Africa,Mauritania,2014,111
+Africa,Mauritania,2013,115
+Africa,Mauritania,2012,121
+Africa,Mauritania,2011,128
+Africa,Mauritania,2010,135
+Africa,Mauritania,2009,143
+Africa,Mauritania,2008,151
+Africa,Mauritania,2007,160
+Africa,Mauritania,2006,170
+Africa,Mauritania,2005,181
+Africa,Mauritania,2004,193
+Africa,Mauritania,2003,206
+Africa,Mauritania,2002,220
+Africa,Mauritania,2001,235
+Africa,Mauritania,2000,250
+Africa,Mauritius,2020,12
+Africa,Mauritius,2019,12
+Africa,Mauritius,2018,13
+Africa,Mauritius,2017,12
+Africa,Mauritius,2016,12
+Africa,Mauritius,2015,13
+Africa,Mauritius,2014,13
+Africa,Mauritius,2013,13
+Africa,Mauritius,2012,13
+Africa,Mauritius,2011,11
+Africa,Mauritius,2010,12
+Africa,Mauritius,2009,12
+Africa,Mauritius,2008,11
+Africa,Mauritius,2007,11
+Africa,Mauritius,2006,12
+Africa,Mauritius,2005,13
+Africa,Mauritius,2004,14
+Africa,Mauritius,2003,14
+Africa,Mauritius,2002,14
+Africa,Mauritius,2001,13
+Africa,Mauritius,2000,17
+Americas,Mexico,2020,24
+Americas,Mexico,2019,23
+Americas,Mexico,2018,23
+Americas,Mexico,2017,23
+Americas,Mexico,2016,22
+Americas,Mexico,2015,22
+Americas,Mexico,2014,22
+Americas,Mexico,2013,22
+Americas,Mexico,2012,22
+Americas,Mexico,2011,21
+Americas,Mexico,2010,22
+Americas,Mexico,2009,21
+Americas,Mexico,2008,21
+Americas,Mexico,2007,21
+Americas,Mexico,2006,21
+Americas,Mexico,2005,22
+Americas,Mexico,2004,18
+Americas,Mexico,2003,23
+Americas,Mexico,2002,22
+Americas,Mexico,2001,24
+Americas,Mexico,2000,23
+Western Pacific,Micronesia (Federated States of),2020,75
+Western Pacific,Micronesia (Federated States of),2019,100
+Western Pacific,Micronesia (Federated States of),2018,108
+Western Pacific,Micronesia (Federated States of),2017,156
+Western Pacific,Micronesia (Federated States of),2016,169
+Western Pacific,Micronesia (Federated States of),2015,119
+Western Pacific,Micronesia (Federated States of),2014,219
+Western Pacific,Micronesia (Federated States of),2013,180
+Western Pacific,Micronesia (Federated States of),2012,172
+Western Pacific,Micronesia (Federated States of),2011,179
+Western Pacific,Micronesia (Federated States of),2010,199
+Western Pacific,Micronesia (Federated States of),2009,180
+Western Pacific,Micronesia (Federated States of),2008,198
+Western Pacific,Micronesia (Federated States of),2007,168
+Western Pacific,Micronesia (Federated States of),2006,123
+Western Pacific,Micronesia (Federated States of),2005,115
+Western Pacific,Micronesia (Federated States of),2004,138
+Western Pacific,Micronesia (Federated States of),2003,124
+Western Pacific,Micronesia (Federated States of),2002,148
+Western Pacific,Micronesia (Federated States of),2001,121
+Western Pacific,Micronesia (Federated States of),2000,106
+Europe,Monaco,2020,0
+Europe,Monaco,2019,0
+Europe,Monaco,2018,3
+Europe,Monaco,2017,0
+Europe,Monaco,2016,6
+Europe,Monaco,2015,0
+Europe,Monaco,2014,0
+Europe,Monaco,2013,1.1
+Europe,Monaco,2012,1.1
+Europe,Monaco,2011,0.99
+Europe,Monaco,2010,3.2
+Europe,Monaco,2009,0.83
+Europe,Monaco,2008,0.76
+Europe,Monaco,2007,0.68
+Europe,Monaco,2006,0.61
+Europe,Monaco,2005,0.53
+Europe,Monaco,2004,0.46
+Europe,Monaco,2003,0.38
+Europe,Monaco,2002,0
+Europe,Monaco,2001,0
+Europe,Monaco,2000,0
+Western Pacific,Mongolia,2020,437
+Western Pacific,Mongolia,2019,428
+Western Pacific,Mongolia,2018,428
+Western Pacific,Mongolia,2017,428
+Western Pacific,Mongolia,2016,428
+Western Pacific,Mongolia,2015,428
+Western Pacific,Mongolia,2014,428
+Western Pacific,Mongolia,2013,428
+Western Pacific,Mongolia,2012,428
+Western Pacific,Mongolia,2011,428
+Western Pacific,Mongolia,2010,428
+Western Pacific,Mongolia,2009,428
+Western Pacific,Mongolia,2008,428
+Western Pacific,Mongolia,2007,428
+Western Pacific,Mongolia,2006,428
+Western Pacific,Mongolia,2005,428
+Western Pacific,Mongolia,2004,428
+Western Pacific,Mongolia,2003,428
+Western Pacific,Mongolia,2002,428
+Western Pacific,Mongolia,2001,428
+Western Pacific,Mongolia,2000,428
+Europe,Montenegro,2020,16
+Europe,Montenegro,2019,15
+Europe,Montenegro,2018,15
+Europe,Montenegro,2017,14
+Europe,Montenegro,2016,16
+Europe,Montenegro,2015,15
+Europe,Montenegro,2014,21
+Europe,Montenegro,2013,22
+Europe,Montenegro,2012,18
+Europe,Montenegro,2011,20
+Europe,Montenegro,2010,20
+Europe,Montenegro,2009,21
+Europe,Montenegro,2008,24
+Europe,Montenegro,2007,27
+Europe,Montenegro,2006,31
+Europe,Montenegro,2005,29
+Eastern Mediterranean,Morocco,2020,98
+Eastern Mediterranean,Morocco,2019,97
+Eastern Mediterranean,Morocco,2018,99
+Eastern Mediterranean,Morocco,2017,100
+Eastern Mediterranean,Morocco,2016,103
+Eastern Mediterranean,Morocco,2015,102
+Eastern Mediterranean,Morocco,2014,101
+Eastern Mediterranean,Morocco,2013,99
+Eastern Mediterranean,Morocco,2012,99
+Eastern Mediterranean,Morocco,2011,100
+Eastern Mediterranean,Morocco,2010,101
+Eastern Mediterranean,Morocco,2009,99
+Eastern Mediterranean,Morocco,2008,98
+Eastern Mediterranean,Morocco,2007,94
+Eastern Mediterranean,Morocco,2006,97
+Eastern Mediterranean,Morocco,2005,99
+Eastern Mediterranean,Morocco,2004,99
+Eastern Mediterranean,Morocco,2003,103
+Eastern Mediterranean,Morocco,2002,116
+Eastern Mediterranean,Morocco,2001,112
+Eastern Mediterranean,Morocco,2000,115
+Africa,Mozambique,2020,368
+Africa,Mozambique,2019,361
+Africa,Mozambique,2018,361
+Africa,Mozambique,2017,361
+Africa,Mozambique,2016,361
+Africa,Mozambique,2015,361
+Africa,Mozambique,2014,361
+Africa,Mozambique,2013,361
+Africa,Mozambique,2012,361
+Africa,Mozambique,2011,359
+Africa,Mozambique,2010,357
+Africa,Mozambique,2009,354
+Africa,Mozambique,2008,351
+Africa,Mozambique,2007,348
+Africa,Mozambique,2006,345
+Africa,Mozambique,2005,342
+Africa,Mozambique,2004,341
+Africa,Mozambique,2003,339
+Africa,Mozambique,2002,339
+Africa,Mozambique,2001,338
+Africa,Mozambique,2000,336
+South-East Asia,Myanmar,2020,308
+South-East Asia,Myanmar,2019,322
+South-East Asia,Myanmar,2018,338
+South-East Asia,Myanmar,2017,355
+South-East Asia,Myanmar,2016,372
+South-East Asia,Myanmar,2015,391
+South-East Asia,Myanmar,2014,411
+South-East Asia,Myanmar,2013,431
+South-East Asia,Myanmar,2012,453
+South-East Asia,Myanmar,2011,476
+South-East Asia,Myanmar,2010,500
+South-East Asia,Myanmar,2009,525
+South-East Asia,Myanmar,2008,530
+South-East Asia,Myanmar,2007,535
+South-East Asia,Myanmar,2006,540
+South-East Asia,Myanmar,2005,545
+South-East Asia,Myanmar,2004,549
+South-East Asia,Myanmar,2003,552
+South-East Asia,Myanmar,2002,554
+South-East Asia,Myanmar,2001,555
+South-East Asia,Myanmar,2000,555
+Africa,Namibia,2020,460
+Africa,Namibia,2019,486
+Africa,Namibia,2018,524
+Africa,Namibia,2017,565
+Africa,Namibia,2016,604
+Africa,Namibia,2015,639
+Africa,Namibia,2014,674
+Africa,Namibia,2013,710
+Africa,Namibia,2012,754
+Africa,Namibia,2011,815
+Africa,Namibia,2010,892
+Africa,Namibia,2009,974
+Africa,Namibia,2008,1060
+Africa,Namibia,2007,1140
+Africa,Namibia,2006,1210
+Africa,Namibia,2005,1250
+Africa,Namibia,2004,1260
+Africa,Namibia,2003,1240
+Africa,Namibia,2002,1190
+Africa,Namibia,2001,1100
+Africa,Namibia,2000,985
+Western Pacific,Nauru,2020,180
+Western Pacific,Nauru,2019,182
+Western Pacific,Nauru,2018,54
+Western Pacific,Nauru,2017,98
+Western Pacific,Nauru,2016,110
+Western Pacific,Nauru,2015,111
+Western Pacific,Nauru,2014,89
+Western Pacific,Nauru,2013,80
+Western Pacific,Nauru,2012,70
+Western Pacific,Nauru,2011,57
+Western Pacific,Nauru,2010,34
+Western Pacific,Nauru,2009,46
+Western Pacific,Nauru,2008,58
+Western Pacific,Nauru,2007,35
+Western Pacific,Nauru,2006,140
+Western Pacific,Nauru,2005,128
+Western Pacific,Nauru,2004,76
+Western Pacific,Nauru,2003,35
+Western Pacific,Nauru,2002,57
+Western Pacific,Nauru,2001,34
+Western Pacific,Nauru,2000,45
+South-East Asia,Nepal,2020,235
+South-East Asia,Nepal,2019,238
+South-East Asia,Nepal,2018,245
+South-East Asia,Nepal,2017,253
+South-East Asia,Nepal,2016,260
+South-East Asia,Nepal,2015,268
+South-East Asia,Nepal,2014,276
+South-East Asia,Nepal,2013,284
+South-East Asia,Nepal,2012,293
+South-East Asia,Nepal,2011,302
+South-East Asia,Nepal,2010,311
+South-East Asia,Nepal,2009,320
+South-East Asia,Nepal,2008,329
+South-East Asia,Nepal,2007,339
+South-East Asia,Nepal,2006,350
+South-East Asia,Nepal,2005,360
+South-East Asia,Nepal,2004,371
+South-East Asia,Nepal,2003,382
+South-East Asia,Nepal,2002,393
+South-East Asia,Nepal,2001,405
+South-East Asia,Nepal,2000,417
+Europe,Netherlands,2020,4.1
+Europe,Netherlands,2019,5
+Europe,Netherlands,2018,5.3
+Europe,Netherlands,2017,5.2
+Europe,Netherlands,2016,5.9
+Europe,Netherlands,2015,5.8
+Europe,Netherlands,2014,5.5
+Europe,Netherlands,2013,5.7
+Europe,Netherlands,2012,6.3
+Europe,Netherlands,2011,6.7
+Europe,Netherlands,2010,7.1
+Europe,Netherlands,2009,7.8
+Europe,Netherlands,2008,6.7
+Europe,Netherlands,2007,6.5
+Europe,Netherlands,2006,7
+Europe,Netherlands,2005,7.9
+Europe,Netherlands,2004,9.3
+Europe,Netherlands,2003,9.3
+Europe,Netherlands,2002,9.7
+Europe,Netherlands,2001,10
+Europe,Netherlands,2000,9
+Western Pacific,New Zealand,2020,7.5
+Western Pacific,New Zealand,2019,7.5
+Western Pacific,New Zealand,2018,7.3
+Western Pacific,New Zealand,2017,7.4
+Western Pacific,New Zealand,2016,7.3
+Western Pacific,New Zealand,2015,7.3
+Western Pacific,New Zealand,2014,7.5
+Western Pacific,New Zealand,2013,6.9
+Western Pacific,New Zealand,2012,7.5
+Western Pacific,New Zealand,2011,7.9
+Western Pacific,New Zealand,2010,7.9
+Western Pacific,New Zealand,2009,7.9
+Western Pacific,New Zealand,2008,7.8
+Western Pacific,New Zealand,2007,7.4
+Western Pacific,New Zealand,2006,9.5
+Western Pacific,New Zealand,2005,9.2
+Western Pacific,New Zealand,2004,10
+Western Pacific,New Zealand,2003,12
+Western Pacific,New Zealand,2002,9.5
+Western Pacific,New Zealand,2001,11
+Western Pacific,New Zealand,2000,10
+Americas,Nicaragua,2020,42
+Americas,Nicaragua,2019,43
+Americas,Nicaragua,2018,41
+Americas,Nicaragua,2017,44
+Americas,Nicaragua,2016,46
+Americas,Nicaragua,2015,50
+Americas,Nicaragua,2014,54
+Americas,Nicaragua,2013,57
+Americas,Nicaragua,2012,58
+Americas,Nicaragua,2011,57
+Americas,Nicaragua,2010,53
+Americas,Nicaragua,2009,50
+Americas,Nicaragua,2008,52
+Americas,Nicaragua,2007,51
+Americas,Nicaragua,2006,45
+Americas,Nicaragua,2005,44
+Americas,Nicaragua,2004,52
+Americas,Nicaragua,2003,54
+Americas,Nicaragua,2002,50
+Americas,Nicaragua,2001,59
+Americas,Nicaragua,2000,59
+Africa,Niger,2020,83
+Africa,Niger,2019,84
+Africa,Niger,2018,87
+Africa,Niger,2017,90
+Africa,Niger,2016,93
+Africa,Niger,2015,95
+Africa,Niger,2014,98
+Africa,Niger,2013,102
+Africa,Niger,2012,105
+Africa,Niger,2011,109
+Africa,Niger,2010,113
+Africa,Niger,2009,118
+Africa,Niger,2008,123
+Africa,Niger,2007,129
+Africa,Niger,2006,136
+Africa,Niger,2005,143
+Africa,Niger,2004,151
+Africa,Niger,2003,159
+Africa,Niger,2002,168
+Africa,Niger,2001,179
+Africa,Niger,2000,191
+Africa,Nigeria,2020,219
+Africa,Nigeria,2019,219
+Africa,Nigeria,2018,219
+Africa,Nigeria,2017,219
+Africa,Nigeria,2016,219
+Africa,Nigeria,2015,219
+Africa,Nigeria,2014,219
+Africa,Nigeria,2013,219
+Africa,Nigeria,2012,219
+Africa,Nigeria,2011,219
+Africa,Nigeria,2010,219
+Africa,Nigeria,2009,219
+Africa,Nigeria,2008,219
+Africa,Nigeria,2007,219
+Africa,Nigeria,2006,219
+Africa,Nigeria,2005,219
+Africa,Nigeria,2004,219
+Africa,Nigeria,2003,219
+Africa,Nigeria,2002,219
+Africa,Nigeria,2001,219
+Africa,Nigeria,2000,219
+Western Pacific,Niue,2020,48
+Western Pacific,Niue,2019,0
+Western Pacific,Niue,2018,143
+Western Pacific,Niue,2017,0
+Western Pacific,Niue,2016,29
+Western Pacific,Niue,2015,0
+Western Pacific,Niue,2014,0
+Western Pacific,Niue,2013,0
+Western Pacific,Niue,2012,0
+Western Pacific,Niue,2011,71
+Western Pacific,Niue,2010,0
+Western Pacific,Niue,2009,0
+Western Pacific,Niue,2008,0
+Western Pacific,Niue,2007,0
+Western Pacific,Niue,2006,0
+Western Pacific,Niue,2005,0
+Western Pacific,Niue,2004,0
+Western Pacific,Niue,2003,0
+Western Pacific,Niue,2002,256
+Western Pacific,Niue,2001,0
+Western Pacific,Niue,2000,0
+Europe,Norway,2020,3.1
+Europe,Norway,2019,3.3
+Europe,Norway,2018,4.1
+Europe,Norway,2017,5.1
+Europe,Norway,2016,6.1
+Europe,Norway,2015,6.3
+Europe,Norway,2014,6.8
+Europe,Norway,2013,8.2
+Europe,Norway,2012,7.9
+Europe,Norway,2011,7.4
+Europe,Norway,2010,6.9
+Europe,Norway,2009,7.8
+Europe,Norway,2008,7.2
+Europe,Norway,2007,6.9
+Europe,Norway,2006,6.8
+Europe,Norway,2005,6.9
+Europe,Norway,2004,7.1
+Europe,Norway,2003,8.4
+Europe,Norway,2002,6.1
+Europe,Norway,2001,7
+Europe,Norway,2000,5.6
+Eastern Mediterranean,Oman,2020,7
+Eastern Mediterranean,Oman,2019,8.5
+Eastern Mediterranean,Oman,2018,5.9
+Eastern Mediterranean,Oman,2017,6.7
+Eastern Mediterranean,Oman,2016,8.9
+Eastern Mediterranean,Oman,2015,8.8
+Eastern Mediterranean,Oman,2014,10
+Eastern Mediterranean,Oman,2013,10
+Eastern Mediterranean,Oman,2012,13
+Eastern Mediterranean,Oman,2011,12
+Eastern Mediterranean,Oman,2010,12
+Eastern Mediterranean,Oman,2009,13
+Eastern Mediterranean,Oman,2008,15
+Eastern Mediterranean,Oman,2007,14
+Eastern Mediterranean,Oman,2006,15
+Eastern Mediterranean,Oman,2005,12
+Eastern Mediterranean,Oman,2004,14
+Eastern Mediterranean,Oman,2003,12
+Eastern Mediterranean,Oman,2002,14
+Eastern Mediterranean,Oman,2001,15
+Eastern Mediterranean,Oman,2000,16
+Eastern Mediterranean,Pakistan,2020,259
+Eastern Mediterranean,Pakistan,2019,263
+Eastern Mediterranean,Pakistan,2018,265
+Eastern Mediterranean,Pakistan,2017,267
+Eastern Mediterranean,Pakistan,2016,268
+Eastern Mediterranean,Pakistan,2015,270
+Eastern Mediterranean,Pakistan,2014,270
+Eastern Mediterranean,Pakistan,2013,275
+Eastern Mediterranean,Pakistan,2012,276
+Eastern Mediterranean,Pakistan,2011,276
+Eastern Mediterranean,Pakistan,2010,276
+Eastern Mediterranean,Pakistan,2009,276
+Eastern Mediterranean,Pakistan,2008,276
+Eastern Mediterranean,Pakistan,2007,276
+Eastern Mediterranean,Pakistan,2006,276
+Eastern Mediterranean,Pakistan,2005,276
+Eastern Mediterranean,Pakistan,2004,276
+Eastern Mediterranean,Pakistan,2003,276
+Eastern Mediterranean,Pakistan,2002,275
+Eastern Mediterranean,Pakistan,2001,275
+Eastern Mediterranean,Pakistan,2000,275
+Western Pacific,Palau,2020,64
+Western Pacific,Palau,2019,38
+Western Pacific,Palau,2018,109
+Western Pacific,Palau,2017,129
+Western Pacific,Palau,2016,149
+Western Pacific,Palau,2015,91
+Western Pacific,Palau,2014,91
+Western Pacific,Palau,2013,52
+Western Pacific,Palau,2012,26
+Western Pacific,Palau,2011,78
+Western Pacific,Palau,2010,122
+Western Pacific,Palau,2009,119
+Western Pacific,Palau,2008,93
+Western Pacific,Palau,2007,66
+Western Pacific,Palau,2006,71
+Western Pacific,Palau,2005,58
+Western Pacific,Palau,2004,29
+Western Pacific,Palau,2003,52
+Western Pacific,Palau,2002,64
+Western Pacific,Palau,2001,64
+Western Pacific,Palau,2000,64
+Americas,Panama,2020,32
+Americas,Panama,2019,37
+Americas,Panama,2018,52
+Americas,Panama,2017,57
+Americas,Panama,2016,56
+Americas,Panama,2015,52
+Americas,Panama,2014,47
+Americas,Panama,2013,47
+Americas,Panama,2012,50
+Americas,Panama,2011,55
+Americas,Panama,2010,53
+Americas,Panama,2009,54
+Americas,Panama,2008,58
+Americas,Panama,2007,58
+Americas,Panama,2006,60
+Americas,Panama,2005,61
+Americas,Panama,2004,65
+Americas,Panama,2003,63
+Americas,Panama,2002,63
+Americas,Panama,2001,70
+Americas,Panama,2000,48
+Western Pacific,Papua New Guinea,2020,441
+Western Pacific,Papua New Guinea,2019,432
+Western Pacific,Papua New Guinea,2018,432
+Western Pacific,Papua New Guinea,2017,432
+Western Pacific,Papua New Guinea,2016,432
+Western Pacific,Papua New Guinea,2015,432
+Western Pacific,Papua New Guinea,2014,432
+Western Pacific,Papua New Guinea,2013,432
+Western Pacific,Papua New Guinea,2012,432
+Western Pacific,Papua New Guinea,2011,432
+Western Pacific,Papua New Guinea,2010,432
+Western Pacific,Papua New Guinea,2009,432
+Western Pacific,Papua New Guinea,2008,432
+Western Pacific,Papua New Guinea,2007,432
+Western Pacific,Papua New Guinea,2006,432
+Western Pacific,Papua New Guinea,2005,432
+Western Pacific,Papua New Guinea,2004,432
+Western Pacific,Papua New Guinea,2003,432
+Western Pacific,Papua New Guinea,2002,432
+Western Pacific,Papua New Guinea,2001,432
+Western Pacific,Papua New Guinea,2000,432
+Americas,Paraguay,2020,48
+Americas,Paraguay,2019,46
+Americas,Paraguay,2018,43
+Americas,Paraguay,2017,43
+Americas,Paraguay,2016,41
+Americas,Paraguay,2015,40
+Americas,Paraguay,2014,39
+Americas,Paraguay,2013,40
+Americas,Paraguay,2012,43
+Americas,Paraguay,2011,43
+Americas,Paraguay,2010,42
+Americas,Paraguay,2009,44
+Americas,Paraguay,2008,42
+Americas,Paraguay,2007,43
+Americas,Paraguay,2006,48
+Americas,Paraguay,2005,43
+Americas,Paraguay,2004,47
+Americas,Paraguay,2003,47
+Americas,Paraguay,2002,44
+Americas,Paraguay,2001,44
+Americas,Paraguay,2000,42
+Americas,Peru,2020,116
+Americas,Peru,2019,119
+Americas,Peru,2018,119
+Americas,Peru,2017,119
+Americas,Peru,2016,120
+Americas,Peru,2015,122
+Americas,Peru,2014,125
+Americas,Peru,2013,125
+Americas,Peru,2012,126
+Americas,Peru,2011,133
+Americas,Peru,2010,134
+Americas,Peru,2009,138
+Americas,Peru,2008,141
+Americas,Peru,2007,143
+Americas,Peru,2006,153
+Americas,Peru,2005,151
+Americas,Peru,2004,151
+Americas,Peru,2003,146
+Americas,Peru,2002,166
+Americas,Peru,2001,173
+Americas,Peru,2000,183
+Western Pacific,Philippines,2020,539
+Western Pacific,Philippines,2019,554
+Western Pacific,Philippines,2018,554
+Western Pacific,Philippines,2017,554
+Western Pacific,Philippines,2016,554
+Western Pacific,Philippines,2015,550
+Western Pacific,Philippines,2014,546
+Western Pacific,Philippines,2013,543
+Western Pacific,Philippines,2012,539
+Western Pacific,Philippines,2011,535
+Western Pacific,Philippines,2010,531
+Western Pacific,Philippines,2009,528
+Western Pacific,Philippines,2008,524
+Western Pacific,Philippines,2007,520
+Western Pacific,Philippines,2006,530
+Western Pacific,Philippines,2005,539
+Western Pacific,Philippines,2004,549
+Western Pacific,Philippines,2003,559
+Western Pacific,Philippines,2002,569
+Western Pacific,Philippines,2001,579
+Western Pacific,Philippines,2000,590
+Europe,Poland,2020,9.6
+Europe,Poland,2019,15
+Europe,Poland,2018,16
+Europe,Poland,2017,17
+Europe,Poland,2016,19
+Europe,Poland,2015,19
+Europe,Poland,2014,20
+Europe,Poland,2013,21
+Europe,Poland,2012,21
+Europe,Poland,2011,24
+Europe,Poland,2010,21
+Europe,Poland,2009,23
+Europe,Poland,2008,22
+Europe,Poland,2007,24
+Europe,Poland,2006,24
+Europe,Poland,2005,25
+Europe,Poland,2004,26
+Europe,Poland,2003,30
+Europe,Poland,2002,30
+Europe,Poland,2001,30
+Europe,Poland,2000,33
+Europe,Portugal,2020,16
+Europe,Portugal,2019,19
+Europe,Portugal,2018,21
+Europe,Portugal,2017,20
+Europe,Portugal,2016,20
+Europe,Portugal,2015,23
+Europe,Portugal,2014,24
+Europe,Portugal,2013,26
+Europe,Portugal,2012,27
+Europe,Portugal,2011,27
+Europe,Portugal,2010,28
+Europe,Portugal,2009,29
+Europe,Portugal,2008,31
+Europe,Portugal,2007,32
+Europe,Portugal,2006,35
+Europe,Portugal,2005,36
+Europe,Portugal,2004,40
+Europe,Portugal,2003,44
+Europe,Portugal,2002,49
+Europe,Portugal,2001,48
+Europe,Portugal,2000,47
+Eastern Mediterranean,Qatar,2020,34
+Eastern Mediterranean,Qatar,2019,35
+Eastern Mediterranean,Qatar,2018,31
+Eastern Mediterranean,Qatar,2017,25
+Eastern Mediterranean,Qatar,2016,22
+Eastern Mediterranean,Qatar,2015,24
+Eastern Mediterranean,Qatar,2014,22
+Eastern Mediterranean,Qatar,2013,30
+Eastern Mediterranean,Qatar,2012,38
+Eastern Mediterranean,Qatar,2011,31
+Eastern Mediterranean,Qatar,2010,36
+Eastern Mediterranean,Qatar,2009,43
+Eastern Mediterranean,Qatar,2008,45
+Eastern Mediterranean,Qatar,2007,38
+Eastern Mediterranean,Qatar,2006,38
+Eastern Mediterranean,Qatar,2005,43
+Eastern Mediterranean,Qatar,2004,42
+Eastern Mediterranean,Qatar,2003,47
+Eastern Mediterranean,Qatar,2002,50
+Eastern Mediterranean,Qatar,2001,53
+Eastern Mediterranean,Qatar,2000,54
+Western Pacific,South Korea,2020,49
+Western Pacific,South Korea,2019,59
+Western Pacific,South Korea,2018,65
+Western Pacific,South Korea,2017,70
+Western Pacific,South Korea,2016,76
+Western Pacific,South Korea,2015,79
+Western Pacific,South Korea,2014,85
+Western Pacific,South Korea,2013,88
+Western Pacific,South Korea,2012,93
+Western Pacific,South Korea,2011,99
+Western Pacific,South Korea,2010,95
+Western Pacific,South Korea,2009,94
+Western Pacific,South Korea,2008,88
+Western Pacific,South Korea,2007,91
+Western Pacific,South Korea,2006,92
+Western Pacific,South Korea,2005,94
+Western Pacific,South Korea,2004,77
+Western Pacific,South Korea,2003,82
+Western Pacific,South Korea,2002,78
+Western Pacific,South Korea,2001,84
+Western Pacific,South Korea,2000,49
+Europe,Moldova,2020,74
+Europe,Moldova,2019,80
+Europe,Moldova,2018,86
+Europe,Moldova,2017,95
+Europe,Moldova,2016,101
+Europe,Moldova,2015,102
+Europe,Moldova,2014,115
+Europe,Moldova,2013,127
+Europe,Moldova,2012,124
+Europe,Moldova,2011,119
+Europe,Moldova,2010,116
+Europe,Moldova,2009,125
+Europe,Moldova,2008,125
+Europe,Moldova,2007,135
+Europe,Moldova,2006,138
+Europe,Moldova,2005,142
+Europe,Moldova,2004,133
+Europe,Moldova,2003,119
+Europe,Moldova,2002,104
+Europe,Moldova,2001,99
+Europe,Moldova,2000,80
+Europe,Romania,2020,64
+Europe,Romania,2019,66
+Europe,Romania,2018,68
+Europe,Romania,2017,72
+Europe,Romania,2016,74
+Europe,Romania,2015,82
+Europe,Romania,2014,85
+Europe,Romania,2013,89
+Europe,Romania,2012,92
+Europe,Romania,2011,96
+Europe,Romania,2010,104
+Europe,Romania,2009,115
+Europe,Romania,2008,120
+Europe,Romania,2007,124
+Europe,Romania,2006,132
+Europe,Romania,2005,140
+Europe,Romania,2004,152
+Europe,Romania,2003,157
+Europe,Romania,2002,157
+Europe,Romania,2001,149
+Europe,Romania,2000,143
+Europe,Russia,2020,46
+Europe,Russia,2019,50
+Europe,Russia,2018,54
+Europe,Russia,2017,59
+Europe,Russia,2016,63
+Europe,Russia,2015,67
+Europe,Russia,2014,70
+Europe,Russia,2013,73
+Europe,Russia,2012,77
+Europe,Russia,2011,81
+Europe,Russia,2010,85
+Europe,Russia,2009,89
+Europe,Russia,2008,90
+Europe,Russia,2007,90
+Europe,Russia,2006,88
+Europe,Russia,2005,88
+Europe,Russia,2004,87
+Europe,Russia,2003,88
+Europe,Russia,2002,90
+Europe,Russia,2001,92
+Europe,Russia,2000,95
+Africa,Rwanda,2020,58
+Africa,Rwanda,2019,57
+Africa,Rwanda,2018,59
+Africa,Rwanda,2017,58
+Africa,Rwanda,2016,62
+Africa,Rwanda,2015,61
+Africa,Rwanda,2014,65
+Africa,Rwanda,2013,66
+Africa,Rwanda,2012,72
+Africa,Rwanda,2011,80
+Africa,Rwanda,2010,83
+Africa,Rwanda,2009,95
+Africa,Rwanda,2008,101
+Africa,Rwanda,2007,106
+Africa,Rwanda,2006,112
+Africa,Rwanda,2005,102
+Africa,Rwanda,2004,93
+Africa,Rwanda,2003,100
+Africa,Rwanda,2002,89
+Africa,Rwanda,2001,83
+Africa,Rwanda,2000,96
+Americas,Saint Kitts and Nevis,2020,4.3
+Americas,Saint Kitts and Nevis,2019,4.4
+Americas,Saint Kitts and Nevis,2018,0
+Americas,Saint Kitts and Nevis,2017,2.2
+Americas,Saint Kitts and Nevis,2016,0
+Americas,Saint Kitts and Nevis,2015,4.7
+Americas,Saint Kitts and Nevis,2014,16
+Americas,Saint Kitts and Nevis,2013,0
+Americas,Saint Kitts and Nevis,2012,4.6
+Americas,Saint Kitts and Nevis,2011,2.3
+Americas,Saint Kitts and Nevis,2010,4.7
+Americas,Saint Kitts and Nevis,2009,9.5
+Americas,Saint Kitts and Nevis,2008,12
+Americas,Saint Kitts and Nevis,2007,9.6
+Americas,Saint Kitts and Nevis,2006,2.4
+Americas,Saint Kitts and Nevis,2005,0
+Americas,Saint Kitts and Nevis,2004,5
+Americas,Saint Kitts and Nevis,2003,2.5
+Americas,Saint Kitts and Nevis,2002,7.6
+Americas,Saint Kitts and Nevis,2001,5.2
+Americas,Saint Kitts and Nevis,2000,0
+Americas,Saint Lucia,2020,2.2
+Americas,Saint Lucia,2019,3.8
+Americas,Saint Lucia,2018,3.2
+Americas,Saint Lucia,2017,7
+Americas,Saint Lucia,2016,1.9
+Americas,Saint Lucia,2015,9
+Americas,Saint Lucia,2014,3.9
+Americas,Saint Lucia,2013,5.8
+Americas,Saint Lucia,2012,7.2
+Americas,Saint Lucia,2011,4.6
+Americas,Saint Lucia,2010,5.9
+Americas,Saint Lucia,2009,6.7
+Americas,Saint Lucia,2008,14
+Americas,Saint Lucia,2007,13
+Americas,Saint Lucia,2006,10
+Americas,Saint Lucia,2005,9.9
+Americas,Saint Lucia,2004,11
+Americas,Saint Lucia,2003,11
+Americas,Saint Lucia,2002,12
+Americas,Saint Lucia,2001,11
+Americas,Saint Lucia,2000,6.6
+Americas,Saint Vincent and the Grenadines,2020,6.7
+Americas,Saint Vincent and the Grenadines,2019,4.2
+Americas,Saint Vincent and the Grenadines,2018,6.3
+Americas,Saint Vincent and the Grenadines,2017,2.1
+Americas,Saint Vincent and the Grenadines,2016,6.3
+Americas,Saint Vincent and the Grenadines,2015,7.4
+Americas,Saint Vincent and the Grenadines,2014,5.3
+Americas,Saint Vincent and the Grenadines,2013,3.2
+Americas,Saint Vincent and the Grenadines,2012,32
+Americas,Saint Vincent and the Grenadines,2011,18
+Americas,Saint Vincent and the Grenadines,2010,16
+Americas,Saint Vincent and the Grenadines,2009,9.6
+Americas,Saint Vincent and the Grenadines,2008,13
+Americas,Saint Vincent and the Grenadines,2007,13
+Americas,Saint Vincent and the Grenadines,2006,14
+Americas,Saint Vincent and the Grenadines,2005,7.4
+Americas,Saint Vincent and the Grenadines,2004,8.5
+Americas,Saint Vincent and the Grenadines,2003,15
+Americas,Saint Vincent and the Grenadines,2002,11
+Americas,Saint Vincent and the Grenadines,2001,11
+Americas,Saint Vincent and the Grenadines,2000,17
+Western Pacific,Samoa,2020,6.1
+Western Pacific,Samoa,2019,11
+Western Pacific,Samoa,2018,6.4
+Western Pacific,Samoa,2017,18
+Western Pacific,Samoa,2016,7.7
+Western Pacific,Samoa,2015,11
+Western Pacific,Samoa,2014,14
+Western Pacific,Samoa,2013,13
+Western Pacific,Samoa,2012,13
+Western Pacific,Samoa,2011,12
+Western Pacific,Samoa,2010,8.7
+Western Pacific,Samoa,2009,10
+Western Pacific,Samoa,2008,7.5
+Western Pacific,Samoa,2007,13
+Western Pacific,Samoa,2006,16
+Western Pacific,Samoa,2005,15
+Western Pacific,Samoa,2004,22
+Western Pacific,Samoa,2003,17
+Western Pacific,Samoa,2002,20
+Western Pacific,Samoa,2001,14
+Western Pacific,Samoa,2000,28
+Europe,San Marino,2020,0
+Europe,San Marino,2019,0
+Europe,San Marino,2018,0
+Europe,San Marino,2017,0
+Europe,San Marino,2016,0
+Europe,San Marino,2015,0
+Europe,San Marino,2014,0
+Europe,San Marino,2013,0
+Europe,San Marino,2012,0
+Europe,San Marino,2011,0
+Europe,San Marino,2010,0
+Europe,San Marino,2009,0
+Europe,San Marino,2008,0
+Europe,San Marino,2007,0
+Europe,San Marino,2006,0
+Europe,San Marino,2005,0
+Europe,San Marino,2004,0
+Europe,San Marino,2003,4
+Europe,San Marino,2002,4.1
+Europe,San Marino,2001,0
+Europe,San Marino,2000,4.2
+Africa,Sao Tome and Principe,2020,118
+Africa,Sao Tome and Principe,2019,114
+Africa,Sao Tome and Principe,2018,124
+Africa,Sao Tome and Principe,2017,117
+Africa,Sao Tome and Principe,2016,162
+Africa,Sao Tome and Principe,2015,156
+Africa,Sao Tome and Principe,2014,141
+Africa,Sao Tome and Principe,2013,134
+Africa,Sao Tome and Principe,2012,107
+Africa,Sao Tome and Principe,2011,129
+Africa,Sao Tome and Principe,2010,117
+Africa,Sao Tome and Principe,2009,78
+Africa,Sao Tome and Principe,2008,70
+Africa,Sao Tome and Principe,2007,98
+Africa,Sao Tome and Principe,2006,166
+Africa,Sao Tome and Principe,2005,151
+Africa,Sao Tome and Principe,2004,138
+Africa,Sao Tome and Principe,2003,125
+Africa,Sao Tome and Principe,2002,112
+Africa,Sao Tome and Principe,2001,117
+Africa,Sao Tome and Principe,2000,119
+Eastern Mediterranean,Saudi Arabia,2020,8.1
+Eastern Mediterranean,Saudi Arabia,2019,9.9
+Eastern Mediterranean,Saudi Arabia,2018,10
+Eastern Mediterranean,Saudi Arabia,2017,10
+Eastern Mediterranean,Saudi Arabia,2016,10
+Eastern Mediterranean,Saudi Arabia,2015,12
+Eastern Mediterranean,Saudi Arabia,2014,12
+Eastern Mediterranean,Saudi Arabia,2013,13
+Eastern Mediterranean,Saudi Arabia,2012,15
+Eastern Mediterranean,Saudi Arabia,2011,16
+Eastern Mediterranean,Saudi Arabia,2010,19
+Eastern Mediterranean,Saudi Arabia,2009,17
+Eastern Mediterranean,Saudi Arabia,2008,18
+Eastern Mediterranean,Saudi Arabia,2007,18
+Eastern Mediterranean,Saudi Arabia,2006,18
+Eastern Mediterranean,Saudi Arabia,2005,17
+Eastern Mediterranean,Saudi Arabia,2004,16
+Eastern Mediterranean,Saudi Arabia,2003,17
+Eastern Mediterranean,Saudi Arabia,2002,18
+Eastern Mediterranean,Saudi Arabia,2001,18
+Eastern Mediterranean,Saudi Arabia,2000,19
+Africa,Senegal,2020,117
+Africa,Senegal,2019,117
+Africa,Senegal,2018,118
+Africa,Senegal,2017,120
+Africa,Senegal,2016,122
+Africa,Senegal,2015,123
+Africa,Senegal,2014,125
+Africa,Senegal,2013,127
+Africa,Senegal,2012,129
+Africa,Senegal,2011,130
+Africa,Senegal,2010,132
+Africa,Senegal,2009,134
+Africa,Senegal,2008,136
+Africa,Senegal,2007,138
+Africa,Senegal,2006,139
+Africa,Senegal,2005,141
+Africa,Senegal,2004,144
+Africa,Senegal,2003,147
+Africa,Senegal,2002,150
+Africa,Senegal,2001,153
+Africa,Senegal,2000,155
+Europe,Serbia,2020,13
+Europe,Serbia,2019,14
+Europe,Serbia,2018,17
+Europe,Serbia,2017,19
+Europe,Serbia,2016,19
+Europe,Serbia,2015,21
+Europe,Serbia,2014,23
+Europe,Serbia,2013,27
+Europe,Serbia,2012,24
+Europe,Serbia,2011,28
+Europe,Serbia,2010,30
+Europe,Serbia,2009,32
+Europe,Serbia,2008,35
+Europe,Serbia,2007,37
+Europe,Serbia,2006,40
+Europe,Serbia,2005,40
+Africa,Seychelles,2020,11
+Africa,Seychelles,2019,16
+Africa,Seychelles,2018,18
+Africa,Seychelles,2017,19
+Africa,Seychelles,2016,14
+Africa,Seychelles,2015,9.7
+Africa,Seychelles,2014,16
+Africa,Seychelles,2013,30
+Africa,Seychelles,2012,25
+Africa,Seychelles,2011,26
+Africa,Seychelles,2010,21
+Africa,Seychelles,2009,19
+Africa,Seychelles,2008,7.6
+Africa,Seychelles,2007,22
+Africa,Seychelles,2006,23
+Africa,Seychelles,2005,18
+Africa,Seychelles,2004,24
+Africa,Seychelles,2003,13
+Africa,Seychelles,2002,40
+Africa,Seychelles,2001,27
+Africa,Seychelles,2000,28
+Africa,Sierra Leone,2020,298
+Africa,Sierra Leone,2019,295
+Africa,Sierra Leone,2018,298
+Africa,Sierra Leone,2017,301
+Africa,Sierra Leone,2016,304
+Africa,Sierra Leone,2015,307
+Africa,Sierra Leone,2014,310
+Africa,Sierra Leone,2013,313
+Africa,Sierra Leone,2012,314
+Africa,Sierra Leone,2011,316
+Africa,Sierra Leone,2010,317
+Africa,Sierra Leone,2009,318
+Africa,Sierra Leone,2008,318
+Africa,Sierra Leone,2007,318
+Africa,Sierra Leone,2006,317
+Africa,Sierra Leone,2005,316
+Africa,Sierra Leone,2004,314
+Africa,Sierra Leone,2003,313
+Africa,Sierra Leone,2002,311
+Africa,Sierra Leone,2001,309
+Africa,Sierra Leone,2000,305
+Western Pacific,Singapore,2020,46
+Western Pacific,Singapore,2019,41
+Western Pacific,Singapore,2018,47
+Western Pacific,Singapore,2017,47
+Western Pacific,Singapore,2016,50
+Western Pacific,Singapore,2015,45
+Western Pacific,Singapore,2014,45
+Western Pacific,Singapore,2013,46
+Western Pacific,Singapore,2012,49
+Western Pacific,Singapore,2011,36
+Western Pacific,Singapore,2010,35
+Western Pacific,Singapore,2009,35
+Western Pacific,Singapore,2008,38
+Western Pacific,Singapore,2007,34
+Western Pacific,Singapore,2006,35
+Western Pacific,Singapore,2005,37
+Western Pacific,Singapore,2004,39
+Western Pacific,Singapore,2003,44
+Western Pacific,Singapore,2002,42
+Western Pacific,Singapore,2001,43
+Western Pacific,Singapore,2000,49
+Europe,Slovakia,2020,3.2
+Europe,Slovakia,2019,4.5
+Europe,Slovakia,2018,5.8
+Europe,Slovakia,2017,4.8
+Europe,Slovakia,2016,5.9
+Europe,Slovakia,2015,6.5
+Europe,Slovakia,2014,6.8
+Europe,Slovakia,2013,8.4
+Europe,Slovakia,2012,6.8
+Europe,Slovakia,2011,8
+Europe,Slovakia,2010,8.7
+Europe,Slovakia,2009,9.6
+Europe,Slovakia,2008,12
+Europe,Slovakia,2007,13
+Europe,Slovakia,2006,14
+Europe,Slovakia,2005,15
+Europe,Slovakia,2004,14
+Europe,Slovakia,2003,21
+Europe,Slovakia,2002,21
+Europe,Slovakia,2001,21
+Europe,Slovakia,2000,22
+Europe,Slovenia,2020,4.1
+Europe,Slovenia,2019,5.4
+Europe,Slovenia,2018,5.4
+Europe,Slovenia,2017,6.2
+Europe,Slovenia,2016,6.5
+Europe,Slovenia,2015,7.2
+Europe,Slovenia,2014,7.9
+Europe,Slovenia,2013,7.7
+Europe,Slovenia,2012,7.5
+Europe,Slovenia,2011,10
+Europe,Slovenia,2010,9.5
+Europe,Slovenia,2009,11
+Europe,Slovenia,2008,12
+Europe,Slovenia,2007,12
+Europe,Slovenia,2006,12
+Europe,Slovenia,2005,16
+Europe,Slovenia,2004,14
+Europe,Slovenia,2003,16
+Europe,Slovenia,2002,20
+Europe,Slovenia,2001,21
+Europe,Slovenia,2000,21
+Western Pacific,Solomon Is.,2020,65
+Western Pacific,Solomon Is.,2019,66
+Western Pacific,Solomon Is.,2018,74
+Western Pacific,Solomon Is.,2017,73
+Western Pacific,Solomon Is.,2016,81
+Western Pacific,Solomon Is.,2015,86
+Western Pacific,Solomon Is.,2014,73
+Western Pacific,Solomon Is.,2013,79
+Western Pacific,Solomon Is.,2012,81
+Western Pacific,Solomon Is.,2011,92
+Western Pacific,Solomon Is.,2010,80
+Western Pacific,Solomon Is.,2009,89
+Western Pacific,Solomon Is.,2008,96
+Western Pacific,Solomon Is.,2007,101
+Western Pacific,Solomon Is.,2006,96
+Western Pacific,Solomon Is.,2005,106
+Western Pacific,Solomon Is.,2004,93
+Western Pacific,Solomon Is.,2003,82
+Western Pacific,Solomon Is.,2002,73
+Western Pacific,Solomon Is.,2001,86
+Western Pacific,Solomon Is.,2000,91
+Eastern Mediterranean,Somalia,2020,259
+Eastern Mediterranean,Somalia,2019,258
+Eastern Mediterranean,Somalia,2018,262
+Eastern Mediterranean,Somalia,2017,266
+Eastern Mediterranean,Somalia,2016,270
+Eastern Mediterranean,Somalia,2015,274
+Eastern Mediterranean,Somalia,2014,274
+Eastern Mediterranean,Somalia,2013,285
+Eastern Mediterranean,Somalia,2012,286
+Eastern Mediterranean,Somalia,2011,286
+Eastern Mediterranean,Somalia,2010,286
+Eastern Mediterranean,Somalia,2009,286
+Eastern Mediterranean,Somalia,2008,286
+Eastern Mediterranean,Somalia,2007,285
+Eastern Mediterranean,Somalia,2006,285
+Eastern Mediterranean,Somalia,2005,285
+Eastern Mediterranean,Somalia,2004,285
+Eastern Mediterranean,Somalia,2003,285
+Eastern Mediterranean,Somalia,2002,285
+Eastern Mediterranean,Somalia,2001,285
+Eastern Mediterranean,Somalia,2000,285
+Africa,South Africa,2020,554
+Africa,South Africa,2019,615
+Africa,South Africa,2018,677
+Africa,South Africa,2017,738
+Africa,South Africa,2016,805
+Africa,South Africa,2015,988
+Africa,South Africa,2014,1070
+Africa,South Africa,2013,1110
+Africa,South Africa,2012,1160
+Africa,South Africa,2011,1200
+Africa,South Africa,2010,1230
+Africa,South Africa,2009,1260
+Africa,South Africa,2008,1270
+Africa,South Africa,2007,1270
+Africa,South Africa,2006,1250
+Africa,South Africa,2005,1210
+Africa,South Africa,2004,1150
+Africa,South Africa,2003,1070
+Africa,South Africa,2002,971
+Africa,South Africa,2001,867
+Africa,South Africa,2000,762
+Africa,S. Sudan,2020,232
+Africa,S. Sudan,2019,227
+Africa,S. Sudan,2018,227
+Africa,S. Sudan,2017,227
+Africa,S. Sudan,2016,227
+Africa,S. Sudan,2015,227
+Africa,S. Sudan,2014,227
+Africa,S. Sudan,2013,227
+Africa,S. Sudan,2012,227
+Africa,S. Sudan,2011,227
+Europe,Spain,2020,7.3
+Europe,Spain,2019,10
+Europe,Spain,2018,11
+Europe,Spain,2017,11
+Europe,Spain,2016,12
+Europe,Spain,2015,9.9
+Europe,Spain,2014,12
+Europe,Spain,2013,13
+Europe,Spain,2012,14
+Europe,Spain,2011,16
+Europe,Spain,2010,17
+Europe,Spain,2009,18
+Europe,Spain,2008,19
+Europe,Spain,2007,19
+Europe,Spain,2006,20
+Europe,Spain,2005,19
+Europe,Spain,2004,16
+Europe,Spain,2003,27
+Europe,Spain,2002,20
+Europe,Spain,2001,19
+Europe,Spain,2000,23
+South-East Asia,Sri Lanka,2020,64
+South-East Asia,Sri Lanka,2019,64
+South-East Asia,Sri Lanka,2018,64
+South-East Asia,Sri Lanka,2017,64
+South-East Asia,Sri Lanka,2016,65
+South-East Asia,Sri Lanka,2015,65
+South-East Asia,Sri Lanka,2014,65
+South-East Asia,Sri Lanka,2013,66
+South-East Asia,Sri Lanka,2012,66
+South-East Asia,Sri Lanka,2011,66
+South-East Asia,Sri Lanka,2010,66
+South-East Asia,Sri Lanka,2009,66
+South-East Asia,Sri Lanka,2008,66
+South-East Asia,Sri Lanka,2007,66
+South-East Asia,Sri Lanka,2006,66
+South-East Asia,Sri Lanka,2005,66
+South-East Asia,Sri Lanka,2004,66
+South-East Asia,Sri Lanka,2003,66
+South-East Asia,Sri Lanka,2002,66
+South-East Asia,Sri Lanka,2001,66
+South-East Asia,Sri Lanka,2000,66
+Eastern Mediterranean,Sudan,2020,63
+Eastern Mediterranean,Sudan,2019,67
+Eastern Mediterranean,Sudan,2018,71
+Eastern Mediterranean,Sudan,2017,77
+Eastern Mediterranean,Sudan,2016,82
+Eastern Mediterranean,Sudan,2015,88
+Eastern Mediterranean,Sudan,2014,94
+Eastern Mediterranean,Sudan,2013,100
+Eastern Mediterranean,Sudan,2012,103
+Eastern Mediterranean,Sudan,2011,105
+Eastern Mediterranean,Sudan,2010,119
+Eastern Mediterranean,Sudan,2009,121
+Eastern Mediterranean,Sudan,2008,116
+Eastern Mediterranean,Sudan,2007,144
+Eastern Mediterranean,Sudan,2006,146
+Eastern Mediterranean,Sudan,2005,143
+Eastern Mediterranean,Sudan,2004,142
+Eastern Mediterranean,Sudan,2003,138
+Eastern Mediterranean,Sudan,2002,139
+Eastern Mediterranean,Sudan,2001,139
+Eastern Mediterranean,Sudan,2000,148
+Americas,Suriname,2020,29
+Americas,Suriname,2019,29
+Americas,Suriname,2018,38
+Americas,Suriname,2017,28
+Americas,Suriname,2016,25
+Americas,Suriname,2015,32
+Americas,Suriname,2014,33
+Americas,Suriname,2013,32
+Americas,Suriname,2012,30
+Americas,Suriname,2011,29
+Americas,Suriname,2010,46
+Americas,Suriname,2009,43
+Americas,Suriname,2008,26
+Americas,Suriname,2007,31
+Americas,Suriname,2006,32
+Americas,Suriname,2005,29
+Americas,Suriname,2004,25
+Americas,Suriname,2003,27
+Americas,Suriname,2002,25
+Americas,Suriname,2001,20
+Americas,Suriname,2000,24
+Europe,Sweden,2020,3.6
+Europe,Sweden,2019,5.5
+Europe,Sweden,2018,5.5
+Europe,Sweden,2017,5.7
+Europe,Sweden,2016,8.2
+Europe,Sweden,2015,9.2
+Europe,Sweden,2014,7.5
+Europe,Sweden,2013,7.3
+Europe,Sweden,2012,7.1
+Europe,Sweden,2011,6.5
+Europe,Sweden,2010,7.5
+Europe,Sweden,2009,7.1
+Europe,Sweden,2008,6.4
+Europe,Sweden,2007,5.8
+Europe,Sweden,2006,6.2
+Europe,Sweden,2005,6.9
+Europe,Sweden,2004,5.5
+Europe,Sweden,2003,5.1
+Europe,Sweden,2002,4.8
+Europe,Sweden,2001,5.1
+Europe,Sweden,2000,5.4
+Europe,Switzerland,2020,4.7
+Europe,Switzerland,2019,5.4
+Europe,Switzerland,2018,6.4
+Europe,Switzerland,2017,7.2
+Europe,Switzerland,2016,7.9
+Europe,Switzerland,2015,7.4
+Europe,Switzerland,2014,5.9
+Europe,Switzerland,2013,6.6
+Europe,Switzerland,2012,6
+Europe,Switzerland,2011,7.6
+Europe,Switzerland,2010,7.5
+Europe,Switzerland,2009,7.5
+Europe,Switzerland,2008,7
+Europe,Switzerland,2007,6.4
+Europe,Switzerland,2006,7.3
+Europe,Switzerland,2005,8
+Europe,Switzerland,2004,8.7
+Europe,Switzerland,2003,9.1
+Europe,Switzerland,2002,9.5
+Europe,Switzerland,2001,8.8
+Europe,Switzerland,2000,9.3
+Eastern Mediterranean,Syria,2020,19
+Eastern Mediterranean,Syria,2019,19
+Eastern Mediterranean,Syria,2018,19
+Eastern Mediterranean,Syria,2017,20
+Eastern Mediterranean,Syria,2016,22
+Eastern Mediterranean,Syria,2015,20
+Eastern Mediterranean,Syria,2014,23
+Eastern Mediterranean,Syria,2013,17
+Eastern Mediterranean,Syria,2012,18
+Eastern Mediterranean,Syria,2011,21
+Eastern Mediterranean,Syria,2010,21
+Eastern Mediterranean,Syria,2009,24
+Eastern Mediterranean,Syria,2008,23
+Eastern Mediterranean,Syria,2007,27
+Eastern Mediterranean,Syria,2006,26
+Eastern Mediterranean,Syria,2005,29
+Eastern Mediterranean,Syria,2004,32
+Eastern Mediterranean,Syria,2003,35
+Eastern Mediterranean,Syria,2002,35
+Eastern Mediterranean,Syria,2001,37
+Eastern Mediterranean,Syria,2000,39
+Europe,Tajikistan,2020,84
+Europe,Tajikistan,2019,83
+Europe,Tajikistan,2018,84
+Europe,Tajikistan,2017,85
+Europe,Tajikistan,2016,85
+Europe,Tajikistan,2015,86
+Europe,Tajikistan,2014,91
+Europe,Tajikistan,2013,100
+Europe,Tajikistan,2012,108
+Europe,Tajikistan,2011,117
+Europe,Tajikistan,2010,128
+Europe,Tajikistan,2009,141
+Europe,Tajikistan,2008,155
+Europe,Tajikistan,2007,169
+Europe,Tajikistan,2006,183
+Europe,Tajikistan,2005,196
+Europe,Tajikistan,2004,207
+Europe,Tajikistan,2003,215
+Europe,Tajikistan,2002,220
+Europe,Tajikistan,2001,222
+Europe,Tajikistan,2000,219
+South-East Asia,Thailand,2020,150
+South-East Asia,Thailand,2019,150
+South-East Asia,Thailand,2018,153
+South-East Asia,Thailand,2017,156
+South-East Asia,Thailand,2016,160
+South-East Asia,Thailand,2015,163
+South-East Asia,Thailand,2014,167
+South-East Asia,Thailand,2013,170
+South-East Asia,Thailand,2012,172
+South-East Asia,Thailand,2011,176
+South-East Asia,Thailand,2010,181
+South-East Asia,Thailand,2009,188
+South-East Asia,Thailand,2008,196
+South-East Asia,Thailand,2007,205
+South-East Asia,Thailand,2006,215
+South-East Asia,Thailand,2005,224
+South-East Asia,Thailand,2004,232
+South-East Asia,Thailand,2003,240
+South-East Asia,Thailand,2002,244
+South-East Asia,Thailand,2001,245
+South-East Asia,Thailand,2000,241
+Europe,Macedonia,2020,12
+Europe,Macedonia,2019,12
+Europe,Macedonia,2018,13
+Europe,Macedonia,2017,13
+Europe,Macedonia,2016,16
+Europe,Macedonia,2015,17
+Europe,Macedonia,2014,17
+Europe,Macedonia,2013,19
+Europe,Macedonia,2012,21
+Europe,Macedonia,2011,20
+Europe,Macedonia,2010,23
+Europe,Macedonia,2009,27
+Europe,Macedonia,2008,27
+Europe,Macedonia,2007,32
+Europe,Macedonia,2006,34
+Europe,Macedonia,2005,36
+Europe,Macedonia,2004,39
+Europe,Macedonia,2003,42
+Europe,Macedonia,2002,42
+Europe,Macedonia,2001,40
+Europe,Macedonia,2000,39
+South-East Asia,Timor-Leste,2020,508
+South-East Asia,Timor-Leste,2019,498
+South-East Asia,Timor-Leste,2018,498
+South-East Asia,Timor-Leste,2017,498
+South-East Asia,Timor-Leste,2016,498
+South-East Asia,Timor-Leste,2015,498
+South-East Asia,Timor-Leste,2014,498
+South-East Asia,Timor-Leste,2013,498
+South-East Asia,Timor-Leste,2012,498
+South-East Asia,Timor-Leste,2011,498
+South-East Asia,Timor-Leste,2010,498
+South-East Asia,Timor-Leste,2009,498
+South-East Asia,Timor-Leste,2008,498
+South-East Asia,Timor-Leste,2007,498
+South-East Asia,Timor-Leste,2006,498
+South-East Asia,Timor-Leste,2005,498
+South-East Asia,Timor-Leste,2004,498
+South-East Asia,Timor-Leste,2003,498
+South-East Asia,Timor-Leste,2002,498
+Africa,Togo,2020,36
+Africa,Togo,2019,37
+Africa,Togo,2018,38
+Africa,Togo,2017,41
+Africa,Togo,2016,46
+Africa,Togo,2015,52
+Africa,Togo,2014,58
+Africa,Togo,2013,64
+Africa,Togo,2012,69
+Africa,Togo,2011,73
+Africa,Togo,2010,76
+Africa,Togo,2009,77
+Africa,Togo,2008,78
+Africa,Togo,2007,77
+Africa,Togo,2006,74
+Africa,Togo,2005,71
+Africa,Togo,2004,66
+Africa,Togo,2003,60
+Africa,Togo,2002,56
+Africa,Togo,2001,53
+Africa,Togo,2000,52
+Western Pacific,Tonga,2020,10
+Western Pacific,Tonga,2019,11
+Western Pacific,Tonga,2018,10
+Western Pacific,Tonga,2017,12
+Western Pacific,Tonga,2016,9.1
+Western Pacific,Tonga,2015,16
+Western Pacific,Tonga,2014,15
+Western Pacific,Tonga,2013,11
+Western Pacific,Tonga,2012,12
+Western Pacific,Tonga,2011,10
+Western Pacific,Tonga,2010,12
+Western Pacific,Tonga,2009,8.9
+Western Pacific,Tonga,2008,14
+Western Pacific,Tonga,2007,26
+Western Pacific,Tonga,2006,20
+Western Pacific,Tonga,2005,21
+Western Pacific,Tonga,2004,14
+Western Pacific,Tonga,2003,18
+Western Pacific,Tonga,2002,34
+Western Pacific,Tonga,2001,14
+Western Pacific,Tonga,2000,28
+Americas,Trinidad and Tobago,2020,18
+Americas,Trinidad and Tobago,2019,18
+Americas,Trinidad and Tobago,2018,21
+Americas,Trinidad and Tobago,2017,17
+Americas,Trinidad and Tobago,2016,18
+Americas,Trinidad and Tobago,2015,16
+Americas,Trinidad and Tobago,2014,21
+Americas,Trinidad and Tobago,2013,21
+Americas,Trinidad and Tobago,2012,23
+Americas,Trinidad and Tobago,2011,19
+Americas,Trinidad and Tobago,2010,19
+Americas,Trinidad and Tobago,2009,24
+Americas,Trinidad and Tobago,2008,24
+Americas,Trinidad and Tobago,2007,19
+Americas,Trinidad and Tobago,2006,20
+Americas,Trinidad and Tobago,2005,15
+Americas,Trinidad and Tobago,2004,16
+Americas,Trinidad and Tobago,2003,13
+Americas,Trinidad and Tobago,2002,12
+Americas,Trinidad and Tobago,2001,19
+Americas,Trinidad and Tobago,2000,18
+Eastern Mediterranean,Tunisia,2020,36
+Eastern Mediterranean,Tunisia,2019,35
+Eastern Mediterranean,Tunisia,2018,35
+Eastern Mediterranean,Tunisia,2017,34
+Eastern Mediterranean,Tunisia,2016,38
+Eastern Mediterranean,Tunisia,2015,38
+Eastern Mediterranean,Tunisia,2014,35
+Eastern Mediterranean,Tunisia,2013,35
+Eastern Mediterranean,Tunisia,2012,37
+Eastern Mediterranean,Tunisia,2011,35
+Eastern Mediterranean,Tunisia,2010,28
+Eastern Mediterranean,Tunisia,2009,26
+Eastern Mediterranean,Tunisia,2008,27
+Eastern Mediterranean,Tunisia,2007,28
+Eastern Mediterranean,Tunisia,2006,26
+Eastern Mediterranean,Tunisia,2005,26
+Eastern Mediterranean,Tunisia,2004,25
+Eastern Mediterranean,Tunisia,2003,25
+Eastern Mediterranean,Tunisia,2002,24
+Eastern Mediterranean,Tunisia,2001,25
+Eastern Mediterranean,Tunisia,2000,26
+Europe,Turkey,2020,15
+Europe,Turkey,2019,16
+Europe,Turkey,2018,16
+Europe,Turkey,2017,17
+Europe,Turkey,2016,18
+Europe,Turkey,2015,18
+Europe,Turkey,2014,20
+Europe,Turkey,2013,20
+Europe,Turkey,2012,22
+Europe,Turkey,2011,24
+Europe,Turkey,2010,25
+Europe,Turkey,2009,27
+Europe,Turkey,2008,29
+Europe,Turkey,2007,31
+Europe,Turkey,2006,33
+Europe,Turkey,2005,33
+Europe,Turkey,2004,30
+Europe,Turkey,2003,31
+Europe,Turkey,2002,32
+Europe,Turkey,2001,31
+Europe,Turkey,2000,33
+Europe,Turkmenistan,2020,47
+Europe,Turkmenistan,2019,45
+Europe,Turkmenistan,2018,46
+Europe,Turkmenistan,2017,43
+Europe,Turkmenistan,2016,46
+Europe,Turkmenistan,2015,49
+Europe,Turkmenistan,2014,58
+Europe,Turkmenistan,2013,71
+Europe,Turkmenistan,2012,70
+Europe,Turkmenistan,2011,66
+Europe,Turkmenistan,2010,79
+Europe,Turkmenistan,2009,79
+Europe,Turkmenistan,2008,95
+Europe,Turkmenistan,2007,88
+Europe,Turkmenistan,2006,84
+Europe,Turkmenistan,2005,84
+Europe,Turkmenistan,2004,90
+Europe,Turkmenistan,2003,116
+Europe,Turkmenistan,2002,100
+Europe,Turkmenistan,2001,108
+Europe,Turkmenistan,2000,112
+Western Pacific,Tuvalu,2020,296
+Western Pacific,Tuvalu,2019,296
+Western Pacific,Tuvalu,2018,270
+Western Pacific,Tuvalu,2017,233
+Western Pacific,Tuvalu,2016,205
+Western Pacific,Tuvalu,2015,207
+Western Pacific,Tuvalu,2014,157
+Western Pacific,Tuvalu,2013,191
+Western Pacific,Tuvalu,2012,203
+Western Pacific,Tuvalu,2011,130
+Western Pacific,Tuvalu,2010,153
+Western Pacific,Tuvalu,2009,199
+Western Pacific,Tuvalu,2008,190
+Western Pacific,Tuvalu,2007,203
+Western Pacific,Tuvalu,2006,102
+Western Pacific,Tuvalu,2005,138
+Western Pacific,Tuvalu,2004,186
+Western Pacific,Tuvalu,2003,367
+Western Pacific,Tuvalu,2002,156
+Western Pacific,Tuvalu,2001,194
+Western Pacific,Tuvalu,2000,196
+Africa,Uganda,2020,196
+Africa,Uganda,2019,200
+Africa,Uganda,2018,200
+Africa,Uganda,2017,201
+Africa,Uganda,2016,201
+Africa,Uganda,2015,202
+Africa,Uganda,2014,202
+Africa,Uganda,2013,203
+Africa,Uganda,2012,205
+Africa,Uganda,2011,207
+Africa,Uganda,2010,210
+Africa,Uganda,2009,213
+Africa,Uganda,2008,217
+Africa,Uganda,2007,222
+Africa,Uganda,2006,227
+Africa,Uganda,2005,233
+Africa,Uganda,2004,240
+Africa,Uganda,2003,248
+Africa,Uganda,2002,256
+Africa,Uganda,2001,266
+Africa,Uganda,2000,276
+Europe,Ukraine,2020,73
+Europe,Ukraine,2019,77
+Europe,Ukraine,2018,80
+Europe,Ukraine,2017,84
+Europe,Ukraine,2016,87
+Europe,Ukraine,2015,91
+Europe,Ukraine,2014,94
+Europe,Ukraine,2013,96
+Europe,Ukraine,2012,101
+Europe,Ukraine,2011,105
+Europe,Ukraine,2010,110
+Europe,Ukraine,2009,115
+Europe,Ukraine,2008,119
+Europe,Ukraine,2007,123
+Europe,Ukraine,2006,125
+Europe,Ukraine,2005,127
+Europe,Ukraine,2004,127
+Europe,Ukraine,2003,126
+Europe,Ukraine,2002,123
+Europe,Ukraine,2001,119
+Europe,Ukraine,2000,114
+Eastern Mediterranean,United Arab Emirates,2020,0.79
+Eastern Mediterranean,United Arab Emirates,2019,0.94
+Eastern Mediterranean,United Arab Emirates,2018,0.98
+Eastern Mediterranean,United Arab Emirates,2017,0.8
+Eastern Mediterranean,United Arab Emirates,2016,0.79
+Eastern Mediterranean,United Arab Emirates,2015,0.76
+Eastern Mediterranean,United Arab Emirates,2014,0.75
+Eastern Mediterranean,United Arab Emirates,2013,1
+Eastern Mediterranean,United Arab Emirates,2012,0.99
+Eastern Mediterranean,United Arab Emirates,2011,1.3
+Eastern Mediterranean,United Arab Emirates,2010,1.8
+Eastern Mediterranean,United Arab Emirates,2009,1.7
+Eastern Mediterranean,United Arab Emirates,2008,1.5
+Eastern Mediterranean,United Arab Emirates,2007,1.8
+Eastern Mediterranean,United Arab Emirates,2006,2
+Eastern Mediterranean,United Arab Emirates,2005,2.6
+Eastern Mediterranean,United Arab Emirates,2004,2.6
+Eastern Mediterranean,United Arab Emirates,2003,3.6
+Eastern Mediterranean,United Arab Emirates,2002,3
+Eastern Mediterranean,United Arab Emirates,2001,2.6
+Eastern Mediterranean,United Arab Emirates,2000,4.2
+Europe,United Kingdom,2020,6.9
+Europe,United Kingdom,2019,8
+Europe,United Kingdom,2018,8
+Europe,United Kingdom,2017,8.8
+Europe,United Kingdom,2016,9.8
+Europe,United Kingdom,2015,10
+Europe,United Kingdom,2014,11
+Europe,United Kingdom,2013,13
+Europe,United Kingdom,2012,14
+Europe,United Kingdom,2011,15
+Europe,United Kingdom,2010,14
+Europe,United Kingdom,2009,15
+Europe,United Kingdom,2008,15
+Europe,United Kingdom,2007,15
+Europe,United Kingdom,2006,15
+Europe,United Kingdom,2005,15
+Europe,United Kingdom,2004,13
+Europe,United Kingdom,2003,13
+Europe,United Kingdom,2002,13
+Europe,United Kingdom,2001,11
+Europe,United Kingdom,2000,12
+Africa,Tanzania,2020,222
+Africa,Tanzania,2019,237
+Africa,Tanzania,2018,253
+Africa,Tanzania,2017,269
+Africa,Tanzania,2016,287
+Africa,Tanzania,2015,306
+Africa,Tanzania,2014,327
+Africa,Tanzania,2013,336
+Africa,Tanzania,2012,378
+Africa,Tanzania,2011,401
+Africa,Tanzania,2010,426
+Africa,Tanzania,2009,452
+Africa,Tanzania,2008,474
+Africa,Tanzania,2007,492
+Africa,Tanzania,2006,504
+Africa,Tanzania,2005,510
+Africa,Tanzania,2004,510
+Africa,Tanzania,2003,510
+Africa,Tanzania,2002,509
+Africa,Tanzania,2001,506
+Africa,Tanzania,2000,503
+Americas,United States of America,2020,2.4
+Americas,United States of America,2019,3
+Americas,United States of America,2018,3
+Americas,United States of America,2017,3.1
+Americas,United States of America,2016,3.1
+Americas,United States of America,2015,3.2
+Americas,United States of America,2014,3.2
+Americas,United States of America,2013,3.3
+Americas,United States of America,2012,3.6
+Americas,United States of America,2011,3.9
+Americas,United States of America,2010,4.2
+Americas,United States of America,2009,4.3
+Americas,United States of America,2008,4.9
+Americas,United States of America,2007,5.1
+Americas,United States of America,2006,5.3
+Americas,United States of America,2005,5.5
+Americas,United States of America,2004,5.7
+Americas,United States of America,2003,5.9
+Americas,United States of America,2002,6
+Americas,United States of America,2001,6.4
+Americas,United States of America,2000,6.7
+Americas,Uruguay,2020,32
+Americas,Uruguay,2019,35
+Americas,Uruguay,2018,33
+Americas,Uruguay,2017,31
+Americas,Uruguay,2016,30
+Americas,Uruguay,2015,30
+Americas,Uruguay,2014,29
+Americas,Uruguay,2013,30
+Americas,Uruguay,2012,27
+Americas,Uruguay,2011,28
+Americas,Uruguay,2010,24
+Americas,Uruguay,2009,24
+Americas,Uruguay,2008,24
+Americas,Uruguay,2007,21
+Americas,Uruguay,2006,19
+Americas,Uruguay,2005,22
+Americas,Uruguay,2004,25
+Americas,Uruguay,2003,22
+Americas,Uruguay,2002,19
+Americas,Uruguay,2001,24
+Americas,Uruguay,2000,22
+Europe,Uzbekistan,2020,66
+Europe,Uzbekistan,2019,67
+Europe,Uzbekistan,2018,70
+Europe,Uzbekistan,2017,73
+Europe,Uzbekistan,2016,76
+Europe,Uzbekistan,2015,79
+Europe,Uzbekistan,2014,82
+Europe,Uzbekistan,2013,86
+Europe,Uzbekistan,2012,89
+Europe,Uzbekistan,2011,93
+Europe,Uzbekistan,2010,97
+Europe,Uzbekistan,2009,101
+Europe,Uzbekistan,2008,105
+Europe,Uzbekistan,2007,110
+Europe,Uzbekistan,2006,116
+Europe,Uzbekistan,2005,120
+Europe,Uzbekistan,2004,119
+Europe,Uzbekistan,2003,117
+Europe,Uzbekistan,2002,113
+Europe,Uzbekistan,2001,107
+Europe,Uzbekistan,2000,99
+Western Pacific,Vanuatu,2020,38
+Western Pacific,Vanuatu,2019,41
+Western Pacific,Vanuatu,2018,46
+Western Pacific,Vanuatu,2017,51
+Western Pacific,Vanuatu,2016,56
+Western Pacific,Vanuatu,2015,63
+Western Pacific,Vanuatu,2014,63
+Western Pacific,Vanuatu,2013,62
+Western Pacific,Vanuatu,2012,65
+Western Pacific,Vanuatu,2011,67
+Western Pacific,Vanuatu,2010,69
+Western Pacific,Vanuatu,2009,72
+Western Pacific,Vanuatu,2008,74
+Western Pacific,Vanuatu,2007,77
+Western Pacific,Vanuatu,2006,80
+Western Pacific,Vanuatu,2005,83
+Western Pacific,Vanuatu,2004,86
+Western Pacific,Vanuatu,2003,69
+Western Pacific,Vanuatu,2002,69
+Western Pacific,Vanuatu,2001,123
+Western Pacific,Vanuatu,2000,110
+Americas,Venezuela,2020,47
+Americas,Venezuela,2019,45
+Americas,Venezuela,2018,48
+Americas,Venezuela,2017,45
+Americas,Venezuela,2016,34
+Americas,Venezuela,2015,30
+Americas,Venezuela,2014,27
+Americas,Venezuela,2013,28
+Americas,Venezuela,2012,28
+Americas,Venezuela,2011,27
+Americas,Venezuela,2010,28
+Americas,Venezuela,2009,29
+Americas,Venezuela,2008,29
+Americas,Venezuela,2007,30
+Americas,Venezuela,2006,31
+Americas,Venezuela,2005,32
+Americas,Venezuela,2004,33
+Americas,Venezuela,2003,33
+Americas,Venezuela,2002,31
+Americas,Venezuela,2001,32
+Americas,Venezuela,2000,33
+Western Pacific,Vietnam,2020,176
+Western Pacific,Vietnam,2019,176
+Western Pacific,Vietnam,2018,182
+Western Pacific,Vietnam,2017,188
+Western Pacific,Vietnam,2016,193
+Western Pacific,Vietnam,2015,199
+Western Pacific,Vietnam,2014,205
+Western Pacific,Vietnam,2013,212
+Western Pacific,Vietnam,2012,218
+Western Pacific,Vietnam,2011,225
+Western Pacific,Vietnam,2010,231
+Western Pacific,Vietnam,2009,239
+Western Pacific,Vietnam,2008,246
+Western Pacific,Vietnam,2007,253
+Western Pacific,Vietnam,2006,260
+Western Pacific,Vietnam,2005,266
+Western Pacific,Vietnam,2004,272
+Western Pacific,Vietnam,2003,278
+Western Pacific,Vietnam,2002,284
+Western Pacific,Vietnam,2001,290
+Western Pacific,Vietnam,2000,296
+Eastern Mediterranean,Yemen,2020,49
+Eastern Mediterranean,Yemen,2019,48
+Eastern Mediterranean,Yemen,2018,48
+Eastern Mediterranean,Yemen,2017,48
+Eastern Mediterranean,Yemen,2016,48
+Eastern Mediterranean,Yemen,2015,48
+Eastern Mediterranean,Yemen,2014,48
+Eastern Mediterranean,Yemen,2013,48
+Eastern Mediterranean,Yemen,2012,48
+Eastern Mediterranean,Yemen,2011,50
+Eastern Mediterranean,Yemen,2010,52
+Eastern Mediterranean,Yemen,2009,55
+Eastern Mediterranean,Yemen,2008,60
+Eastern Mediterranean,Yemen,2007,66
+Eastern Mediterranean,Yemen,2006,73
+Eastern Mediterranean,Yemen,2005,80
+Eastern Mediterranean,Yemen,2004,87
+Eastern Mediterranean,Yemen,2003,95
+Eastern Mediterranean,Yemen,2002,102
+Eastern Mediterranean,Yemen,2001,110
+Eastern Mediterranean,Yemen,2000,116
+Africa,Zambia,2020,319
+Africa,Zambia,2019,333
+Africa,Zambia,2018,346
+Africa,Zambia,2017,361
+Africa,Zambia,2016,376
+Africa,Zambia,2015,391
+Africa,Zambia,2014,406
+Africa,Zambia,2013,437
+Africa,Zambia,2012,456
+Africa,Zambia,2011,475
+Africa,Zambia,2010,495
+Africa,Zambia,2009,514
+Africa,Zambia,2008,534
+Africa,Zambia,2007,554
+Africa,Zambia,2006,577
+Africa,Zambia,2005,602
+Africa,Zambia,2004,631
+Africa,Zambia,2003,662
+Africa,Zambia,2002,695
+Africa,Zambia,2001,728
+Africa,Zambia,2000,759
+Africa,Zimbabwe,2020,193
+Africa,Zimbabwe,2019,199
+Africa,Zimbabwe,2018,210
+Africa,Zimbabwe,2017,221
+Africa,Zimbabwe,2016,233
+Africa,Zimbabwe,2015,242
+Africa,Zimbabwe,2014,278
+Africa,Zimbabwe,2013,304
+Africa,Zimbabwe,2012,355
+Africa,Zimbabwe,2011,384
+Africa,Zimbabwe,2010,416
+Africa,Zimbabwe,2009,450
+Africa,Zimbabwe,2008,487
+Africa,Zimbabwe,2007,527
+Africa,Zimbabwe,2006,561
+Africa,Zimbabwe,2005,588
+Africa,Zimbabwe,2004,607
+Africa,Zimbabwe,2003,617
+Africa,Zimbabwe,2002,617
+Africa,Zimbabwe,2001,617
+Africa,Zimbabwe,2000,605
