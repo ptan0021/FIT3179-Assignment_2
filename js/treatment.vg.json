@@ -1,11 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": null,
-  "view": {"fill":"white"},
-  "title": {"text":"Tuberculosis Treatment Coverage (%)", "font": "Arial", "fontSize": 22},
-  "width": 800,
-  "height": 300,
-  "projection": {"type": "equalEarth"},
   "params": [
     {
       "name": "Year",
@@ -19,57 +14,94 @@
       }
     }
   ],
-  "layer": [    
+  "vconcat": [
+
     {
-      "data": {
-        "url": "./js/global.topojson",
-        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-      },
-      "transform": [{
-        "calculate": "'Data is not available in ' + datum.properties.NAME", "as": "note"
-      }],
-      "mark": {
-        "type": "geoshape",
-        "fill": "#252A34",
-        "stroke": "white",
-        "strokeWidth": 1
-      },
-      "encoding": {"tooltip": {"field": "note"}}
-    },
-    
-    {
-      "data": { "url": "./data/TB_treatment.csv" },
-      "transform": [
+      "title": {"text":"Tuberculosis Treatment Coverage (%)", "font": "Arial", "fontSize": 22},
+      "view": {"fill":"white"},
+      "width": 800,
+      "height": 300,
+      "projection": {"type": "equalEarth"},
+      "layer": [    
         {
-          "lookup": "Location",
-          "from": {
-            "data": {
-              "url": "./js/global.topojson",
-              "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-            },
-          "key": "properties.NAME"
+          "data": {
+            "url": "./js/global.topojson",
+            "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
           },
-          "as": "geo"
+          "transform": [{
+            "calculate": "'Data is not available in ' + datum.properties.NAME", "as": "note"
+          }],
+          "mark": {
+            "type": "geoshape",
+            "fill": "#252A34",
+            "stroke": "white",
+            "strokeWidth": 1
+          },
+          "encoding": {"tooltip": {"field": "note"}}
         },
-        { "filter": "datum.Year == Year" },
-        { "calculate": "datum.Effectiveness + '%'", "as": "percentage"}
-      ],
-      "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 1},
-      "encoding": {
-        "shape": {"field": "geo", "type": "geojson"},
-        "color" : {
-          "field": "Effectiveness",
-          "type": "quantitative",
-          "scale": {
-            "type": "threshold",
-            "domain": [25, 50, 75],
-            "range": ["#d4e8e7", "#aae4e1","#68ddda" ,"#08d9d6"]
+        
+        {
+          "data": { "url": "./data/TB_treatment.csv" },
+          "transform": [
+            {
+              "lookup": "Location",
+              "from": {
+                "data": {
+                  "url": "./js/global.topojson",
+                  "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+                },
+              "key": "properties.NAME"
+              },
+              "as": "geo"
+            },
+            { "filter": "datum.Year == Year" },
+            { "calculate": "datum.Effectiveness + '%'", "as": "percentage"}
+          ],
+          "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 1},
+          "encoding": {
+            "shape": {"field": "geo", "type": "geojson"},
+            "color" : {
+              "field": "Effectiveness",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [25, 50, 75],
+                "range": ["#d4e8e7", "#aae4e1","#68ddda" ,"#08d9d6"]
+              }
+            },
+            "tooltip": [
+              {"field": "ParentLocation", "type": "nominal", "title": "Continent"},
+              {"field": "Location", "type": "nominal"},
+              {"field": "percentage", "title": "Effectiveness"}
+            ]
           }
-        },
+        }
+    
+      ]
+    },
+
+    {
+      "title": {"text":"Total death cases", "font": "Arial", "fontSize": 15},
+      "width": 400,
+      "height": 150,
+      "data": {"url": "./data/TB_mortality.csv"},
+      "transform": [
+        { "filter": "datum.Year <= Year" },
+        {
+          "aggregate": [{"op": "sum", "field": "Count", "as": "total"}],
+          "groupby": ["Year"]
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "point": true
+      },
+      "encoding": {
+        "x": {"field": "Year", "type":"ordinal", "axis": {"title":null}},
+        "y": {"field": "total", "type": "quantitative", "title": "Death cases", "axis": null},
+        "color": {"value": "#08D9D6"},
         "tooltip": [
-          {"field": "ParentLocation", "type": "nominal", "title": "Continent"},
-          {"field": "Location", "type": "nominal"},
-          {"field": "percentage", "title": "Effectiveness"}
+          {"field": "total", "type": "quantitative", "title": "Death Cases"}
         ]
       }
     }
