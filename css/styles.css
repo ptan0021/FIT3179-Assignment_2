@@ -1,20 +1,81 @@
-#map-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body {
+  background-color: #252A34;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-#map1 {
-    padding: 2px;
-    display: block
+#c1 {
+  color:#FF2E63;
+  font-style: italic;
 }
 
-#map2 {
-    padding: 2px;
-    display: none
+#c2 {
+  color:#08D9D6;
 }
 
-#map3 {
-    padding: 2px;
-    display: none
+.line {
+  width: 100%;
+  margin: 5px;
+}
+
+.dashboard {
+  background-color: #EAEAEA;
+  width: 1000px;
+  padding: 50px;
+  padding-top: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.headline {
+  display: flex;
+  width: 800px;
+  height: 140px;
+}
+
+.headline h1 {
+  font-size: 60px;
+  padding-top: 15px;
+  margin-right: 20px;
+  color: #FF2E63;
+}
+
+.headline h2 {
+  font-size: 40px;
+}
+
+.intro {
+  width: 800px;
+  height: 230px;
+  display: flex;
+}
+
+.intro div {
+  border: #252A34;
+  flex: 0.5;
+  padding: 10px;
+}
+
+.intro h1 {
+  text-align: justify;
+  font-size: 30px;
+  display: inline;
+}
+
+.intro h2 {
+  margin-top: 70px;
+  font-size: 30px;
+}
+
+#circle {
+  padding: 0;
+}
+
+#incidence {
+  padding: 20px;
 }

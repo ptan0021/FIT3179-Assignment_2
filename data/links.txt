@@ -6,3 +6,5 @@ https://colorhunt.co/palette/08d9d6252a34ff2e63eaeaea
 http://eyetracking.upol.cz/color/#
 
 https://observablehq.com/@didoesdigital/18-may-2020-donut-chart-in-vega-lite
+
+https://www.w3schools.com/css/css_templates.asp

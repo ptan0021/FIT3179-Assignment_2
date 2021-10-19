@@ -1,17 +1,19 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Malaria Incidence (per 1000 population)",
-  "width": 1000,
-  "height": 500,
+  "background": null,
+  "view": {"fill":"white"},
+  "title": {"text":"Tuberculosis Treatment Coverage (%)", "font": "Arial", "fontSize": 22},
+  "width": 800,
+  "height": 300,
   "projection": {"type": "equalEarth"},
   "params": [
     {
       "name": "Year",
-      "value": "2018",
+      "value": "2020",
       "bind": {
         "input": "range",
         "min": 2000,
-        "max": 2018,
+        "max": 2020,
         "step": 1,
         "name": "Year: "
       }
@@ -28,7 +30,7 @@
       }],
       "mark": {
         "type": "geoshape",
-        "fill": "lightgray",
+        "fill": "#252A34",
         "stroke": "white",
         "strokeWidth": 1
       },
@@ -36,7 +38,7 @@
     },
     
     {
-      "data": { "url": "./data/incidenceOfMalaria.csv" },
+      "data": { "url": "./data/TB_treatment.csv" },
       "transform": [
         {
           "lookup": "Location",
@@ -49,22 +51,25 @@
           },
           "as": "geo"
         },
-        { "filter": "datum.Period == Year" }
+        { "filter": "datum.Year == Year" },
+        { "calculate": "datum.Effectiveness + '%'", "as": "percentage"}
       ],
       "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 1},
       "encoding": {
         "shape": {"field": "geo", "type": "geojson"},
         "color" : {
-          "field": "Total",
+          "field": "Effectiveness",
           "type": "quantitative",
           "scale": {
-            "domain": [0, 1000],
-            "scheme": "reds"
+            "type": "threshold",
+            "domain": [25, 50, 75],
+            "range": ["#d4e8e7", "#aae4e1","#68ddda" ,"#08d9d6"]
           }
         },
         "tooltip": [
-          {"field": "Location", "type": "nominal", "title": "Country"},
-          {"field": "Total", "type": "quantitative", "title": "Inicidence"}
+          {"field": "ParentLocation", "type": "nominal", "title": "Continent"},
+          {"field": "Location", "type": "nominal"},
+          {"field": "percentage", "title": "Effectiveness"}
         ]
       }
     }

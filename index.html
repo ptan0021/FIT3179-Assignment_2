@@ -2,73 +2,49 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-    <script src="js/vega_lite_vis.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  <script src="js/vega_lite_vis.js"></script>
 
-    <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/styles.css">
 
-    <title>Data visualisation 2</title>
+  <title>Data visualisation 2</title>
 </head>
 
 <body>
-    <button type="button" onclick="showMap1()">Malaria</button>
-    <button type="button" onclick="showMap2()">Tuberculosis</button>
-    <button type="button" onclick="showMap3()">HIV</button>
-    <div id="map-container">
-        <div id="map1" class="map"></div>
-        <div id="map2" class="map"></div>
-        <div id="map3" class="map"></div>
+  <div class="dashboard">
+    <div class="headline">
+        <h1>TUBERCULOSIS</h1>
+        <h2>FACTS YOU SHOULD KNOW</h2>
     </div>
+    
+    <div class="line">
+      <hr/>
+    </div>
+
+    <div class="intro">
+      <div style="padding-top: 30px;">
+        <h1>According to </h1><h1 id="c1">World Health Organization (WHO)</h1><h1>, Tuberculosis (TB) is the <h1 id="c1">13th </h1><h1>leading cause of death worldwide</h1>
+      </div>
+
+      <div style="display: flex">
+        <div id="circle"></div>
+        <div><h2>from TB in 2020</h2></div>
+      </div>
+    </div>
+
+    <div class="line">
+      <hr/>
+    </div>
+
+    <div id="incidence"></div>
+    <div id="treatment"></div>
+  </div>
 </body>
-
-<script>
-    function showMap1() {
-        var x = document.getElementById("map1");
-        var y = document.getElementById("map2");
-        var z = document.getElementById("map3");
-        if (x.style.display === "none") {
-            x.style.display = "block";
-            y.style.display = "none";
-            z.style.display = "none"
-        }
-        else {
-            x.style.display = "none";
-        }
-    }
-
-    function showMap2() {
-        var x = document.getElementById("map2");
-        var y = document.getElementById("map1");
-        var z = document.getElementById("map3");
-        if (x.style.display === "none") {
-            x.style.display = "block";
-            y.style.display = "none";
-            z.style.display = "none"
-        }
-        else {
-            x.style.display = "none";
-        }
-    }
-
-    function showMap3() {
-        var x = document.getElementById("map3");
-        var y = document.getElementById("map1");
-        var z = document.getElementById("map2");
-        if (x.style.display === "none") {
-            x.style.display = "block";
-            y.style.display = "none";
-            z.style.display = "none"
-        }
-        else {
-            x.style.display = "none";
-        }
-    }
-</script>
 
 </html>

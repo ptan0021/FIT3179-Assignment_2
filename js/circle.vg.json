@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": null,
+  "data": {
+    "values": {"value": "1.5 MIL"}
+  },
+  "layer": [
+    {
+      "mark": {"type": "arc", "innerRadius": 75, "outerRadius": 100},
+      "encoding": {"color": {"value": "#08D9D6"}}
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fill": "#FF2E63",
+        "align": "center",
+        "baseline": "middle",
+        "dy": -25,
+        "fontSize": 35
+      },
+      "encoding": {
+        "text": {"field": "value"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fill": "#252A34",
+        "align": "center",
+        "baseline": "middle",
+        "dy": 10,
+        "fontSize":25
+      },
+      "encoding": {
+        "text": {"value": "Total Deaths"}
+      }
+    }
+  ],
+  "config": {
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "padding": 0
+  }
+}
